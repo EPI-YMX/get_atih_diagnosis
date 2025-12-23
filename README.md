@@ -7,6 +7,8 @@ Data issues de https://www.scansante.fr/applications/statistiques-activite-MCO-p
 
 Utilisation d'une version optimisée du scraper avec parallélisation et cache des liens.
 
+Voir le fichier `parallel_scraper.R`.
+
 ```
 scrape_atih_optimized(
   max_level = 4,
