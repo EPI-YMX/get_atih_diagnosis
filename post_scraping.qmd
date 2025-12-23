@@ -1,0 +1,44 @@
+---
+title: "Untitled"
+format: html
+---
+
+
+```{r}
+library(purrr)
+library(data.table)
+library(janitor)
+```
+
+
+```{r}
+all_csv_files <- list.files("data/atih_scraped", pattern = "*.csv", full.names = TRUE)
+
+robust_fread <- possibly(fread, NULL)
+
+all_csv_content <- map(all_csv_files, robust_fread)
+
+has_failed <- map_lgl(all_csv_content, is.null)
+any(has_failed)
+
+all_csv <- rbindlist(all_csv_content) %>%
+    clean_names()
+
+columns_to_clean <- grep("seance|nuitee|sejours|actes", names(all_csv), value = TRUE)
+
+atih_clean <- copy(all_csv)
+
+# in all columns_to_clean, replace " " by "" and "," by "" with data.table and transform to numeric
+for (col in columns_to_clean) {
+    print(col)
+    atih_clean[, (col) := trimws(get(col))]
+    atih_clean[, (col) := gsub(" ", "", get(col))]
+    atih_clean[, (col) := gsub(",", "", get(col))]
+    atih_clean[, (col) := as.numeric(get(col))]
+}
+
+atih_clean[, code := trimws(code)]
+
+fwrite(unique(atih_clean), "atih_clean.csv")
+
+```

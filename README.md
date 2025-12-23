@@ -18,3 +18,5 @@ max_links_per_level : nombre de liens à récupérer par niveau (NULL par défau
 
 sleep_time : période de repos entre 2 requêtes (0.5 secondes par défaut)
 ```
+
+Après cela regarder le notebook `post_scraping.qmd` pour l'aggrégation des différents CSV créés.
