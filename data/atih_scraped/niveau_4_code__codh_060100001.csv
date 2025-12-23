@@ -1,8 +1,8 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"G000","Méningite à Haemophilus","189","181","11,02","1 à 10","0","0"
-"G001","Méningite à pneumocoques","765","725","16,82","40","0","0"
-"G002","Méningite à streptocoques","308","294","15,04","14","0","0"
-"G003","Méningite à staphylocoques","135","132","16,83","1 à 10","0","0"
-"G008","Autres méningites bactériennes","361","342","15,58","19","0","0"
-"G009","Méningite bactérienne, sans précision","288","263","11,34","25","0","0"
-"","Total","2 046","1 937","","109","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+G000,Méningite à Haemophilus,189,181,"11,02",1 à 10,0,0
+G001,Méningite à pneumocoques,765,725,"16,82",40,0,0
+G002,Méningite à streptocoques,308,294,"15,04",14,0,0
+G003,Méningite à staphylocoques,135,132,"16,83",1 à 10,0,0
+G008,Autres méningites bactériennes,361,342,"15,58",19,0,0
+G009,"Méningite bactérienne, sans précision",288,263,"11,34",25,0,0
+"",Total,2 046,1 937,"",109,"",0

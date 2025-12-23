@@ -1,7 +1,7 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"F420","Trouble obsessionnel-compulsif avec idées ou ruminations obsédantes au premier plan","105","43","8,51","62","18","0"
-"F421","Trouble obsessionnel-compulsif avec comportements compulsifs [rituels obsessionnels] au premier plan","65","38","13,11","27","1 à 10","0"
-"F422","Trouble obsessionnel-compulsif : forme mixte, avec idées obsédantes et comportements compulsifs","130","24","16,04","106","1 à 10","0"
-"F428","Autres troubles obsessionnels-compulsifs","89","19","13,32","70","1 à 10","0"
-"F429","Trouble obsessionnel-compulsif, sans précision","51","29","10,66","22","1 à 10","0"
-"","Total","440","153","","287","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+F420,Trouble obsessionnel-compulsif avec idées ou ruminations obsédantes au premier plan,105,43,"8,51",62,18,0
+F421,Trouble obsessionnel-compulsif avec comportements compulsifs [rituels obsessionnels] au premier plan,65,38,"13,11",27,1 à 10,0
+F422,"Trouble obsessionnel-compulsif : forme mixte, avec idées obsédantes et comportements compulsifs",130,24,"16,04",106,1 à 10,0
+F428,Autres troubles obsessionnels-compulsifs,89,19,"13,32",70,1 à 10,0
+F429,"Trouble obsessionnel-compulsif, sans précision",51,29,"10,66",22,1 à 10,0
+"",Total,440,153,"",287,"",0

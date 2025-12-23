@@ -1,6 +1,6 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"F790","Retard mental, sans précision : déficience du comportement absent ou minime","33","1 à 10","NA","30","1 à 10","0"
-"F791","Retard mental, sans précision : déficience du comportement significatif, nécessitant une surveillance ou traitement","50","16","7,00","34","12","0"
-"F798","Retard mental, sans précision : autres déficiences du comportement","39","1 à 10","NA","30","1 à 10","0"
-"F799","Retard mental, sans précision : sans mention d'une déficience du comportement","183","14","5,00","169","17","0"
-"","Total","305","42","","263","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+F790,"Retard mental, sans précision : déficience du comportement absent ou minime",33,1 à 10,NA,30,1 à 10,0
+F791,"Retard mental, sans précision : déficience du comportement significatif, nécessitant une surveillance ou traitement",50,16,"7,00",34,12,0
+F798,"Retard mental, sans précision : autres déficiences du comportement",39,1 à 10,NA,30,1 à 10,0
+F799,"Retard mental, sans précision : sans mention d'une déficience du comportement",183,14,"5,00",169,17,0
+"",Total,305,42,"",263,"",0

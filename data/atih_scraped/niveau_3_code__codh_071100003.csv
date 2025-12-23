@@ -1,6 +1,6 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"H55","Nystagmus et autres anomalies des mouvements oculaires","376","157","3,16","219","0","0"
-"H57","Autres affections de l'oeil et de ses annexes","974","426","2,61","548","0","0"
-"H58","Autres affections de l'oeil et de ses annexes au cours de maladies classées ailleurs","56","32","4,44","24","0","0"
-"H59","Affections de l'oeil et de ses annexes après un acte à visée diagnostique et thérapeutique, non classées ailleurs","989","511","2,18","478","0","0"
-"","Total","2 395","1 126","","1 269","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+H55,Nystagmus et autres anomalies des mouvements oculaires,376,157,"3,16",219,0,0
+H57,Autres affections de l'oeil et de ses annexes,974,426,"2,61",548,0,0
+H58,Autres affections de l'oeil et de ses annexes au cours de maladies classées ailleurs,56,32,"4,44",24,0,0
+H59,"Affections de l'oeil et de ses annexes après un acte à visée diagnostique et thérapeutique, non classées ailleurs",989,511,"2,18",478,0,0
+"",Total,2 395,1 126,"",1 269,"",0

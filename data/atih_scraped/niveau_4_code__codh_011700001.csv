@@ -1,6 +1,6 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"B650","Schistosomiase due à Schistosoma haematobium [schistosomiase urinaire]","41","30","3,23","11","0","0"
-"B651","Schistosomiase due à Schistosoma mansoni [schistosomiase intestinale]","29","19","6,00","1 à 10","1 à 10","0"
-"B658","Autres formes de schistosomiase","11","1 à 10","NA","1 à 10","0","0"
-"B659","Schistosomiase, sans précision","19","1 à 10","NA","1 à 10","1 à 10","0"
-"","Total","102","64","","38","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+B650,Schistosomiase due à Schistosoma haematobium [schistosomiase urinaire],41,30,"3,23",11,0,0
+B651,Schistosomiase due à Schistosoma mansoni [schistosomiase intestinale],29,19,"6,00",1 à 10,1 à 10,0
+B658,Autres formes de schistosomiase,11,1 à 10,NA,1 à 10,0,0
+B659,"Schistosomiase, sans précision",19,1 à 10,NA,1 à 10,1 à 10,0
+"",Total,102,64,"",38,"",0

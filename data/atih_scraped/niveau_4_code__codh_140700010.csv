@@ -1,6 +1,6 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"N491","Affections inflammatoires du cordon spermatique, de la tunique vaginale du testicule et du canal déférent","193","89","2,10","104","0","0"
-"N492","Affections inflammatoires du scrotum","1 285","997","4,13","288","0","0"
-"N498","Affections inflammatoires d'autres organes génitaux précisés de l'homme","505","457","15,59","48","0","0"
-"N499","Affection inflammatoire des organes génitaux non précisés de l'homme","15","1 à 10","NA","1 à 10","0","0"
-"","Total","2 002","1 553","","449","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+N491,"Affections inflammatoires du cordon spermatique, de la tunique vaginale du testicule et du canal déférent",193,89,"2,10",104,0,0
+N492,Affections inflammatoires du scrotum,1 285,997,"4,13",288,0,0
+N498,Affections inflammatoires d'autres organes génitaux précisés de l'homme,505,457,"15,59",48,0,0
+N499,Affection inflammatoire des organes génitaux non précisés de l'homme,15,1 à 10,NA,1 à 10,0,0
+"",Total,2 002,1 553,"",449,"",0

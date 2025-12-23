@@ -1,7 +1,7 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"G111","Ataxie cérébelleuse à début précoce","235","150","8,30","85","0","0"
-"G112","Ataxie cérébelleuse tardive","384","280","7,14","104","0","0"
-"G114","Paraplégie spastique héréditaire","104","35","5,94","69","0","0"
-"G118","Autres ataxies héréditaires","72","59","7,59","13","0","0"
-"G119","Ataxie héréditaire, sans précision","316","236","8,44","80","0","0"
-"","Total","1 127","768","","359","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+G111,Ataxie cérébelleuse à début précoce,235,150,"8,30",85,0,0
+G112,Ataxie cérébelleuse tardive,384,280,"7,14",104,0,0
+G114,Paraplégie spastique héréditaire,104,35,"5,94",69,0,0
+G118,Autres ataxies héréditaires,72,59,"7,59",13,0,0
+G119,"Ataxie héréditaire, sans précision",316,236,"8,44",80,0,0
+"",Total,1 127,768,"",359,"",0

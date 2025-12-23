@@ -1,5 +1,5 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"F520","Absence ou perte de désir sexuel","12","1 à 10","NA","11","0","0"
-"F522","Échec de la réponse génitale","27","12","2,67","15","1 à 10","0"
-"F528","Autres dysfonctionnements sexuels, non dus à un trouble ou à une maladie organique","11","1 à 10","NA","1 à 10","1 à 10","0"
-"","Total","76","26","","50","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+F520,Absence ou perte de désir sexuel,12,1 à 10,NA,11,0,0
+F522,Échec de la réponse génitale,27,12,"2,67",15,1 à 10,0
+F528,"Autres dysfonctionnements sexuels, non dus à un trouble ou à une maladie organique",11,1 à 10,NA,1 à 10,1 à 10,0
+"",Total,76,26,"",50,"",0

@@ -1,9 +1,9 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"G800","Paralysie cérébrale spastique quadriplégique","491","84","5,62","407","0","0"
-"G801","Paralysie cérébrale spastique diplégique","557","109","4,86","448","0","0"
-"G802","Paralysie cérébrale spastique hémiplégique","431","38","3,24","393","0","0"
-"G803","Paralysie cérébrale dyskinétique","54","26","7,08","28","0","0"
-"G804","Paralysie cérébrale ataxique","12","1 à 10","NA","1 à 10","0","0"
-"G808","Autres paralysies cérébrales","90","17","6,88","73","0","0"
-"G809","Paralysie cérébrale, sans précision","84","25","4,52","59","0","0"
-"","Total","1 719","302","","1 417","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+G800,Paralysie cérébrale spastique quadriplégique,491,84,"5,62",407,0,0
+G801,Paralysie cérébrale spastique diplégique,557,109,"4,86",448,0,0
+G802,Paralysie cérébrale spastique hémiplégique,431,38,"3,24",393,0,0
+G803,Paralysie cérébrale dyskinétique,54,26,"7,08",28,0,0
+G804,Paralysie cérébrale ataxique,12,1 à 10,NA,1 à 10,0,0
+G808,Autres paralysies cérébrales,90,17,"6,88",73,0,0
+G809,"Paralysie cérébrale, sans précision",84,25,"4,52",59,0,0
+"",Total,1 719,302,"",1 417,"",0

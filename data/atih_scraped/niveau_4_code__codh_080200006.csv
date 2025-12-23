@@ -1,7 +1,7 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"H700","Mastoïdite aiguë","1 507","1 487","5,05","20","0","0"
-"H701","Mastoïdite chronique","60","40","5,45","20","1 à 10","0"
-"H702","Apexite [pétrosite]","11","1 à 10","NA","1 à 10","1 à 10","0"
-"H708","Autres mastoïdites et affections apparentées","53","34","3,76","19","1 à 10","0"
-"H709","Mastoïdite, sans précision","65","37","3,76","28","14","0"
-"","Total","1 696","1 607","","89","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+H700,Mastoïdite aiguë,1 507,1 487,"5,05",20,0,0
+H701,Mastoïdite chronique,60,40,"5,45",20,1 à 10,0
+H702,Apexite [pétrosite],11,1 à 10,NA,1 à 10,1 à 10,0
+H708,Autres mastoïdites et affections apparentées,53,34,"3,76",19,1 à 10,0
+H709,"Mastoïdite, sans précision",65,37,"3,76",28,14,0
+"",Total,1 696,1 607,"",89,"",0

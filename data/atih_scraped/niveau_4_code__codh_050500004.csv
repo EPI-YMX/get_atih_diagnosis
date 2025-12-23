@@ -1,17 +1,17 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"F430","Réaction aiguë à un facteur de stress","996","352","5,59","644","357","0"
-"F4300","Réaction aigüe légère à un facteur de stress","31","11","7,27","20","13","0"
-"F4301","Réaction aigüe moyenne à un facteur de stress","208","94","6,21","114","77","0"
-"F4302","Réaction aigüe sévère à un facteur de stress","363","125","5,98","238","157","0"
-"F431","État de stress post-traumatique","1 226","630","9,63","596","265","0"
-"F432","Troubles de l'adaptation","5 436","537","6,37","4 899","1 915","0"
-"F4320","Réaction dépressive brève","94","51","6,57","43","28","0"
-"F4321","Réaction dépressive prolongée","168","108","12,66","60","31","0"
-"F4322","Réaction mixte, anxieuse et dépressive","629","403","7,43","226","152","0"
-"F4323","Troubles de l'adaptation avec prédominance d'une perturbation d'autres émotions","273","110","4,87","163","115","0"
-"F4324","Troubles de l'adaptation avec prédominance d'une perturbation des conduites","141","77","6,71","64","46","0"
-"F4325","Troubles de l'adaptation avec perturbation mixte des émotions et des conduites","429","246","6,30","183","134","0"
-"F4328","Troubles de l'adaptation avec prédominance d'autres symptômes spécifiés","120","79","5,97","41","30","0"
-"F438","Autres réactions à un facteur de stress sévère","82","36","9,00","46","25","0"
-"F439","Réaction à un facteur de stress sévère, sans précision","87","17","10,59","70","29","0"
-"","Total","10 283","2 876","","7 407","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+F430,Réaction aiguë à un facteur de stress,996,352,"5,59",644,357,0
+F4300,Réaction aigüe légère à un facteur de stress,31,11,"7,27",20,13,0
+F4301,Réaction aigüe moyenne à un facteur de stress,208,94,"6,21",114,77,0
+F4302,Réaction aigüe sévère à un facteur de stress,363,125,"5,98",238,157,0
+F431,État de stress post-traumatique,1 226,630,"9,63",596,265,0
+F432,Troubles de l'adaptation,5 436,537,"6,37",4 899,1 915,0
+F4320,Réaction dépressive brève,94,51,"6,57",43,28,0
+F4321,Réaction dépressive prolongée,168,108,"12,66",60,31,0
+F4322,"Réaction mixte, anxieuse et dépressive",629,403,"7,43",226,152,0
+F4323,Troubles de l'adaptation avec prédominance d'une perturbation d'autres émotions,273,110,"4,87",163,115,0
+F4324,Troubles de l'adaptation avec prédominance d'une perturbation des conduites,141,77,"6,71",64,46,0
+F4325,Troubles de l'adaptation avec perturbation mixte des émotions et des conduites,429,246,"6,30",183,134,0
+F4328,Troubles de l'adaptation avec prédominance d'autres symptômes spécifiés,120,79,"5,97",41,30,0
+F438,Autres réactions à un facteur de stress sévère,82,36,"9,00",46,25,0
+F439,"Réaction à un facteur de stress sévère, sans précision",87,17,"10,59",70,29,0
+"",Total,10 283,2 876,"",7 407,"",0

@@ -1,5 +1,5 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"D320","Tumeur bénigne des méninges cérébrales","4 090","3 819","9,21","271","150","0"
-"D321","Tumeur bénigne des méninges rachidiennes","446","432","9,68","14","1 à 10","0"
-"D329","Tumeur bénigne des méninges, sans précision","369","246","8,83","123","66","0"
-"","Total","4 905","4 497","","408","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+D320,Tumeur bénigne des méninges cérébrales,4 090,3 819,"9,21",271,150,0
+D321,Tumeur bénigne des méninges rachidiennes,446,432,"9,68",14,1 à 10,0
+D329,"Tumeur bénigne des méninges, sans précision",369,246,"8,83",123,66,0
+"",Total,4 905,4 497,"",408,"",0

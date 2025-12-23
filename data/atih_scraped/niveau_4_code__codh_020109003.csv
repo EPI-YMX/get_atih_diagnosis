@@ -1,5 +1,5 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"C620","Tumeur maligne du testicule ectopique","29","28","2,68","1 à 10","0","0"
-"C621","Tumeur maligne du testicule descendu","440","422","6,38","18","1 à 10","0"
-"C629","Tumeur maligne d'un testicule, sans précision","893","834","2,80","59","19","0"
-"","Total","1 362","1 284","","78","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+C620,Tumeur maligne du testicule ectopique,29,28,"2,68",1 à 10,0,0
+C621,Tumeur maligne du testicule descendu,440,422,"6,38",18,1 à 10,0
+C629,"Tumeur maligne d'un testicule, sans précision",893,834,"2,80",59,19,0
+"",Total,1 362,1 284,"",78,"",0

@@ -1,6 +1,6 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"F380","Autres troubles de l'humeur [affectifs] isolés","63","51","3,24","12","0","0"
-"F3800","Épisode affectif mixte","30","27","2,15","1 à 10","0","0"
-"F381","Autres troubles de l'humeur [affectifs] récurrents","62","53","3,42","1 à 10","0","0"
-"F388","Autres troubles de l'humeur [affectifs] précisés","273","224","3,26","49","0","0"
-"","Total","435","359","","76","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+F380,Autres troubles de l'humeur [affectifs] isolés,63,51,"3,24",12,0,0
+F3800,Épisode affectif mixte,30,27,"2,15",1 à 10,0,0
+F381,Autres troubles de l'humeur [affectifs] récurrents,62,53,"3,42",1 à 10,0,0
+F388,Autres troubles de l'humeur [affectifs] précisés,273,224,"3,26",49,0,0
+"",Total,435,359,"",76,"",0

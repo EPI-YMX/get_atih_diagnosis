@@ -1,11 +1,11 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"I250","Athérosclérose cardio-vasculaire, décrite ainsi","494","239","3,51","255","11","0"
-"I251","Cardiopathie artérioscléreuse","80 946","35 303","3,63","45 643","12 787","0"
-"I252","Infarctus du myocarde, ancien","619","362","3,40","257","84","0"
-"I253","Anévrisme du coeur","159","77","12,91","82","1 à 10","0"
-"I254","Anévrisme et dissection d'une artère coronaire","236","161","6,30","75","13","0"
-"I255","Myocardiopathie ischémique","24 579","14 241","5,72","10 338","3 858","0"
-"I256","Ischémie myocardique asymptomatique","13 065","3 897","2,26","9 168","1 193","0"
-"I258","Autres formes de cardiopathie ischémique chronique","3 362","1 781","4,95","1 581","483","0"
-"I259","Cardiopathie ischémique (chronique), sans précision","1 394","885","8,03","509","76","0"
-"","Total","124 854","56 946","","67 908","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+I250,"Athérosclérose cardio-vasculaire, décrite ainsi",494,239,"3,51",255,11,0
+I251,Cardiopathie artérioscléreuse,80 946,35 303,"3,63",45 643,12 787,0
+I252,"Infarctus du myocarde, ancien",619,362,"3,40",257,84,0
+I253,Anévrisme du coeur,159,77,"12,91",82,1 à 10,0
+I254,Anévrisme et dissection d'une artère coronaire,236,161,"6,30",75,13,0
+I255,Myocardiopathie ischémique,24 579,14 241,"5,72",10 338,3 858,0
+I256,Ischémie myocardique asymptomatique,13 065,3 897,"2,26",9 168,1 193,0
+I258,Autres formes de cardiopathie ischémique chronique,3 362,1 781,"4,95",1 581,483,0
+I259,"Cardiopathie ischémique (chronique), sans précision",1 394,885,"8,03",509,76,0
+"",Total,124 854,56 946,"",67 908,"",0

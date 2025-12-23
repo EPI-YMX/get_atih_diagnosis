@@ -1,7 +1,7 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"D530","Anémie par carence en protéines","12","1 à 10","NA","1 à 10","1 à 10","0"
-"D531","Autres anémies mégaloblastiques, non classées ailleurs","47","31","8,32","16","13","0"
-"D532","Anémie scorbutique","15","13","10,54","1 à 10","1 à 10","0"
-"D538","Autres anémies nutritionnelles précisées","55","36","10,58","19","13","0"
-"D539","Anémie nutritionnelle, sans précision","180","70","8,47","110","77","0"
-"","Total","309","157","","152","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+D530,Anémie par carence en protéines,12,1 à 10,NA,1 à 10,1 à 10,0
+D531,"Autres anémies mégaloblastiques, non classées ailleurs",47,31,"8,32",16,13,0
+D532,Anémie scorbutique,15,13,"10,54",1 à 10,1 à 10,0
+D538,Autres anémies nutritionnelles précisées,55,36,"10,58",19,13,0
+D539,"Anémie nutritionnelle, sans précision",180,70,"8,47",110,77,0
+"",Total,309,157,"",152,"",0

@@ -1,11 +1,11 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"H900","Surdité bilatérale de transmission","556","154","1,69","402","1 à 10","0"
-"H901","Surdité unilatérale de transmission sans altération de l'audition de l'autre oreille","473","130","1,64","343","1 à 10","0"
-"H902","Surdité de transmission, sans précision","446","94","1,52","352","1 à 10","0"
-"H903","Surdité neurosensorielle bilatérale","1 976","1 193","1,34","783","14","0"
-"H904","Surdité neurosensorielle unilatérale sans altération de l'audition de l'autre oreille","584","79","2,78","505","1 à 10","0"
-"H905","Surdité neurosensorielle, sans précision","293","145","1,41","148","1 à 10","0"
-"H906","Surdité bilatérale mixte de transmission et neurosensorielle","286","115","1,77","171","1 à 10","0"
-"H907","Surdité unilatérale mixte de transmission et neurosensorielle sans altération de l'audition de l'autre oreille","156","33","1,73","123","1 à 10","0"
-"H908","Surdité mixte de transmission et neurosensorielle, sans précision","107","28","1,46","79","0","0"
-"","Total","4 877","1 971","","2 906","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+H900,Surdité bilatérale de transmission,556,154,"1,69",402,1 à 10,0
+H901,Surdité unilatérale de transmission sans altération de l'audition de l'autre oreille,473,130,"1,64",343,1 à 10,0
+H902,"Surdité de transmission, sans précision",446,94,"1,52",352,1 à 10,0
+H903,Surdité neurosensorielle bilatérale,1 976,1 193,"1,34",783,14,0
+H904,Surdité neurosensorielle unilatérale sans altération de l'audition de l'autre oreille,584,79,"2,78",505,1 à 10,0
+H905,"Surdité neurosensorielle, sans précision",293,145,"1,41",148,1 à 10,0
+H906,Surdité bilatérale mixte de transmission et neurosensorielle,286,115,"1,77",171,1 à 10,0
+H907,Surdité unilatérale mixte de transmission et neurosensorielle sans altération de l'audition de l'autre oreille,156,33,"1,73",123,1 à 10,0
+H908,"Surdité mixte de transmission et neurosensorielle, sans précision",107,28,"1,46",79,0,0
+"",Total,4 877,1 971,"",2 906,"",0

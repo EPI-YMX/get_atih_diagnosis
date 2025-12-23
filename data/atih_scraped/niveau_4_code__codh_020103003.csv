@@ -1,8 +1,8 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"C320","Tumeur maligne de la glotte","2 006","1 103","9,05","903","0","0"
-"C321","Tumeur maligne de l'étage sus-glottique","816","532","12,65","284","0","0"
-"C322","Tumeur maligne de l'étage sous-glottique","124","98","16,35","26","0","0"
-"C323","Tumeur maligne du cartilage laryngé","133","87","11,99","46","0","0"
-"C328","Tumeur maligne à localisations contiguës du larynx","502","399","17,40","103","0","0"
-"C329","Tumeur maligne du larynx, sans précision","1 010","735","12,93","275","0","0"
-"","Total","4 591","2 954","","1 637","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+C320,Tumeur maligne de la glotte,2 006,1 103,"9,05",903,0,0
+C321,Tumeur maligne de l'étage sus-glottique,816,532,"12,65",284,0,0
+C322,Tumeur maligne de l'étage sous-glottique,124,98,"16,35",26,0,0
+C323,Tumeur maligne du cartilage laryngé,133,87,"11,99",46,0,0
+C328,Tumeur maligne à localisations contiguës du larynx,502,399,"17,40",103,0,0
+C329,"Tumeur maligne du larynx, sans précision",1 010,735,"12,93",275,0,0
+"",Total,4 591,2 954,"",1 637,"",0

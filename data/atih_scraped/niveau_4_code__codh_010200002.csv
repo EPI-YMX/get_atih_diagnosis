@@ -1,10 +1,10 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"A160","Tuberculose pulmonaire, avec examens bactériologique et histologique négatifs","116","113","13,53","1 à 10","0","0"
-"A161","Tuberculose pulmonaire, sans examen bactériologique et histologique","97","82","10,12","15","1 à 10","0"
-"A162","Tuberculose pulmonaire, (sans mention de confirmation bactériologique ou histologique)","707","639","13,78","68","0","0"
-"A163","Tuberculose des ganglions intrathoraciques, (sans mention de confirmation bactériologique ou histologique)","135","124","9,40","11","0","0"
-"A165","Pleurésie tuberculeuse, (sans mention de confirmation bactériologique ou histologique)","109","103","12,77","1 à 10","0","0"
-"A167","Primo-infection tuberculeuse de l'appareil respiratoire, (sans mention de confirmation bactériologique ou histologique)","26","19","9,68","1 à 10","0","0"
-"A168","Autres formes de tuberculose de l'appareil respiratoire, (sans mention de confirmation bactériologique ou histologique)","31","28","7,54","1 à 10","0","0"
-"A169","Tuberculose de l'appareil respiratoire sans précision, (sans mention de confirmation bactériologique ou histologique)","38","25","8,44","13","0","0"
-"","Total","1 261","1 134","","127","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+A160,"Tuberculose pulmonaire, avec examens bactériologique et histologique négatifs",116,113,"13,53",1 à 10,0,0
+A161,"Tuberculose pulmonaire, sans examen bactériologique et histologique",97,82,"10,12",15,1 à 10,0
+A162,"Tuberculose pulmonaire, (sans mention de confirmation bactériologique ou histologique)",707,639,"13,78",68,0,0
+A163,"Tuberculose des ganglions intrathoraciques, (sans mention de confirmation bactériologique ou histologique)",135,124,"9,40",11,0,0
+A165,"Pleurésie tuberculeuse, (sans mention de confirmation bactériologique ou histologique)",109,103,"12,77",1 à 10,0,0
+A167,"Primo-infection tuberculeuse de l'appareil respiratoire, (sans mention de confirmation bactériologique ou histologique)",26,19,"9,68",1 à 10,0,0
+A168,"Autres formes de tuberculose de l'appareil respiratoire, (sans mention de confirmation bactériologique ou histologique)",31,28,"7,54",1 à 10,0,0
+A169,"Tuberculose de l'appareil respiratoire sans précision, (sans mention de confirmation bactériologique ou histologique)",38,25,"8,44",13,0,0
+"",Total,1 261,1 134,"",127,"",0

@@ -1,8 +1,8 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"E030","Hypothyroïdie congénitale, avec goitre diffus","12","1 à 10","NA","1 à 10","1 à 10","0"
-"E031","Hypothyroïdie congénitale, sans goitre","168","35","6,49","133","11","0"
-"E032","Hypothyroïdie due à des médicaments et à d'autres produits exogènes","131","103","10,31","28","1 à 10","0"
-"E035","Coma myxoedémateux","17","14","16,57","1 à 10","1 à 10","0"
-"E038","Autres hypothyroïdies précisées","293","187","10,55","106","34","0"
-"E039","Hypothyroïdie, sans précision","456","266","9,23","190","68","0"
-"","Total","1 084","611","","473","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+E030,"Hypothyroïdie congénitale, avec goitre diffus",12,1 à 10,NA,1 à 10,1 à 10,0
+E031,"Hypothyroïdie congénitale, sans goitre",168,35,"6,49",133,11,0
+E032,Hypothyroïdie due à des médicaments et à d'autres produits exogènes,131,103,"10,31",28,1 à 10,0
+E035,Coma myxoedémateux,17,14,"16,57",1 à 10,1 à 10,0
+E038,Autres hypothyroïdies précisées,293,187,"10,55",106,34,0
+E039,"Hypothyroïdie, sans précision",456,266,"9,23",190,68,0
+"",Total,1 084,611,"",473,"",0

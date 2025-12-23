@@ -1,7 +1,7 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"B15","Hépatite aiguë A","674","645","4,50","29","0","0"
-"B16","Hépatite aiguë B","222","209","7,55","13","0","0"
-"B17","Autres hépatites virales aiguës","1 804","1 641","4,87","163","0","0"
-"B18","Hépatite virale chronique","523","190","6,55","333","0","0"
-"B19","Hépatite virale, sans précision","215","179","2,83","36","0","0"
-"","Total","3 438","2 864","","574","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+B15,Hépatite aiguë A,674,645,"4,50",29,0,0
+B16,Hépatite aiguë B,222,209,"7,55",13,0,0
+B17,Autres hépatites virales aiguës,1 804,1 641,"4,87",163,0,0
+B18,Hépatite virale chronique,523,190,"6,55",333,0,0
+B19,"Hépatite virale, sans précision",215,179,"2,83",36,0,0
+"",Total,3 438,2 864,"",574,"",0

@@ -1,9 +1,9 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"D730","Hyposplénisme","16","14","6,00","1 à 10","1 à 10","0"
-"D731","Hypersplénisme","84","78","6,26","1 à 10","1 à 10","0"
-"D732","Splénomégalie congestive chronique","16","13","10,77","1 à 10","0","0"
-"D733","Abcès de la rate","190","169","15,12","21","1 à 10","0"
-"D734","Kyste de la rate","131","104","4,78","27","13","0"
-"D735","Infarctus de la rate","793","657","9,29","136","80","0"
-"D738","Autres maladies de la rate","240","162","7,78","78","35","0"
-"","Total","1 470","1 197","","273","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+D730,Hyposplénisme,16,14,"6,00",1 à 10,1 à 10,0
+D731,Hypersplénisme,84,78,"6,26",1 à 10,1 à 10,0
+D732,Splénomégalie congestive chronique,16,13,"10,77",1 à 10,0,0
+D733,Abcès de la rate,190,169,"15,12",21,1 à 10,0
+D734,Kyste de la rate,131,104,"4,78",27,13,0
+D735,Infarctus de la rate,793,657,"9,29",136,80,0
+D738,Autres maladies de la rate,240,162,"7,78",78,35,0
+"",Total,1 470,1 197,"",273,"",0

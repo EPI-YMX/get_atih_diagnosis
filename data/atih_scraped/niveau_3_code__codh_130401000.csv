@@ -1,6 +1,6 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"M60","Myosite","2 469","1 933","10,07","536","0","0"
-"M61","Calcification et ossification de muscles","176","107","7,26","69","0","0"
-"M62","Autres atteintes musculaires","6 206","4 556","7,06","1 650","0","0"
-"M63","Atteintes musculaires au cours de maladies classées ailleurs","49","35","4,31","14","0","0"
-"","Total","8 900","6 631","","2 269","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+M60,Myosite,2 469,1 933,"10,07",536,0,0
+M61,Calcification et ossification de muscles,176,107,"7,26",69,0,0
+M62,Autres atteintes musculaires,6 206,4 556,"7,06",1 650,0,0
+M63,Atteintes musculaires au cours de maladies classées ailleurs,49,35,"4,31",14,0,0
+"",Total,8 900,6 631,"",2 269,"",0

@@ -1,11 +1,11 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"I80","Phlébite et thrombophlébite","8 872","5 064","8,15","3 808","2 180","0"
-"I81","Thrombose de la veine porte","1 363","1 117","7,61","246","0","0"
-"I82","Autres embolies et thromboses veineuses","3 883","2 134","7,15","1 749","458","0"
-"I83","Varices des membres inférieurs","40 274","4 097","8,03","36 177","292","0"
-"I85","Varices oesophagiennes","5 023","3 487","3,42","1 536","262","0"
-"I86","Varices d'autres localisations","5 776","611","4,82","5 165","249","0"
-"I87","Autres atteintes veineuses","18 075","3 398","5,45","14 677","319","0"
-"I88","Lymphadénite non spécifique","5 463","1 897","3,33","3 566","2 154","0"
-"I89","Autres atteintes non infectieuses des vaisseaux et des ganglions lymphatiques","3 312","2 033","6,66","1 279","46","0"
-"","Total","92 041","23 838","","68 203","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+I80,Phlébite et thrombophlébite,8 872,5 064,"8,15",3 808,2 180,0
+I81,Thrombose de la veine porte,1 363,1 117,"7,61",246,0,0
+I82,Autres embolies et thromboses veineuses,3 883,2 134,"7,15",1 749,458,0
+I83,Varices des membres inférieurs,40 274,4 097,"8,03",36 177,292,0
+I85,Varices oesophagiennes,5 023,3 487,"3,42",1 536,262,0
+I86,Varices d'autres localisations,5 776,611,"4,82",5 165,249,0
+I87,Autres atteintes veineuses,18 075,3 398,"5,45",14 677,319,0
+I88,Lymphadénite non spécifique,5 463,1 897,"3,33",3 566,2 154,0
+I89,Autres atteintes non infectieuses des vaisseaux et des ganglions lymphatiques,3 312,2 033,"6,66",1 279,46,0
+"",Total,92 041,23 838,"",68 203,"",0

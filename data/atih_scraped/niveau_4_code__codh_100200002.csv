@@ -1,5 +1,5 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"J100","Grippe avec pneumopathie, virus grippal saisonnier identifié","14 822","12 301","9,02","2 521","1 923","0"
-"J101","Grippe avec d'autres manifestations respiratoires, virus grippal saisonnier identifié","8 910","5 731","7,00","3 179","2 268","0"
-"J108","Grippe avec d'autres manifestations, virus grippal saisonnier identifié","6 829","3 174","5,04","3 655","2 623","0"
-"","Total","30 561","21 206","","9 355","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+J100,"Grippe avec pneumopathie, virus grippal saisonnier identifié",14 822,12 301,"9,02",2 521,1 923,0
+J101,"Grippe avec d'autres manifestations respiratoires, virus grippal saisonnier identifié",8 910,5 731,"7,00",3 179,2 268,0
+J108,"Grippe avec d'autres manifestations, virus grippal saisonnier identifié",6 829,3 174,"5,04",3 655,2 623,0
+"",Total,30 561,21 206,"",9 355,"",0

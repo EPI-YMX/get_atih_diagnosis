@@ -1,6 +1,6 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"L851","Kératose [kératodermie] palmaire et plantaire acquise","696","76","5,87","620","0","0"
-"L853","Xérosis cutané","53","29","5,76","24","0","0"
-"L858","Autres formes précisées d'épaississement de l'épiderme","554","27","2,33","527","0","0"
-"L859","Épaississement de l'épiderme, sans précision","46","1 à 10","NA","37","0","0"
-"","Total","1 357","145","","1 212","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+L851,Kératose [kératodermie] palmaire et plantaire acquise,696,76,"5,87",620,0,0
+L853,Xérosis cutané,53,29,"5,76",24,0,0
+L858,Autres formes précisées d'épaississement de l'épiderme,554,27,"2,33",527,0,0
+L859,"Épaississement de l'épiderme, sans précision",46,1 à 10,NA,37,0,0
+"",Total,1 357,145,"",1 212,"",0

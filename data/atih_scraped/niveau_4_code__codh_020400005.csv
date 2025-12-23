@@ -1,7 +1,7 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"D410","Tumeur à évolution imprévisible ou inconnue du rein","875","536","7,29","339","136","0"
-"D411","Tumeur à évolution imprévisible ou inconnue du bassinet","26","21","3,43","1 à 10","1 à 10","0"
-"D412","Tumeur à évolution imprévisible ou inconnue de l'uretère","128","90","5,98","38","1 à 10","0"
-"D414","Tumeur à évolution imprévisible ou inconnue de la vessie","1 754","1 544","4,12","210","55","0"
-"D417","Tumeur à évolution imprévisible ou inconnue d'autres organes urinaires","51","36","8,08","15","1 à 10","0"
-"","Total","2 847","2 236","","611","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+D410,Tumeur à évolution imprévisible ou inconnue du rein,875,536,"7,29",339,136,0
+D411,Tumeur à évolution imprévisible ou inconnue du bassinet,26,21,"3,43",1 à 10,1 à 10,0
+D412,Tumeur à évolution imprévisible ou inconnue de l'uretère,128,90,"5,98",38,1 à 10,0
+D414,Tumeur à évolution imprévisible ou inconnue de la vessie,1 754,1 544,"4,12",210,55,0
+D417,Tumeur à évolution imprévisible ou inconnue d'autres organes urinaires,51,36,"8,08",15,1 à 10,0
+"",Total,2 847,2 236,"",611,"",0

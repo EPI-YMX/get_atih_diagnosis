@@ -1,5 +1,5 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"G610","Syndrome de Guillain-Barré","2 350","2 267","16,12","83","0","0"
-"G618","Autres polynévrites inflammatoires","1 312","974","10,36","338","84","0"
-"G619","Polynévrite inflammatoire, sans précision","241","115","6,50","126","15","0"
-"","Total","3 910","3 358","","552","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+G610,Syndrome de Guillain-Barré,2 350,2 267,"16,12",83,0,0
+G618,Autres polynévrites inflammatoires,1 312,974,"10,36",338,84,0
+G619,"Polynévrite inflammatoire, sans précision",241,115,"6,50",126,15,0
+"",Total,3 910,3 358,"",552,"",0

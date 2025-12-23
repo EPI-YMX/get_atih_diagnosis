@@ -1,9 +1,9 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"D640","Anémie sidéroblastique héréditaire","12","1 à 10","NA","1 à 10","1 à 10","0"
-"D641","Anémie sidéroblastique secondaire, due à une maladie","22","1 à 10","NA","12","1 à 10","0"
-"D642","Anémie sidéroblastique secondaire, due à des médicaments et des toxines","110","67","6,81","43","33","0"
-"D643","Autres anémies sidéroblastiques","40","22","6,36","18","1 à 10","0"
-"D644","Anémie dysérythropoïétique congénitale","21","1 à 10","NA","11","1 à 10","0"
-"D648","Autres anémies précisées","10 148","5 682","8,32","4 466","2 941","0"
-"D649","Anémie, sans précision","9 349","2 930","6,45","6 419","4 135","0"
-"","Total","19 702","8 724","","10 978","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+D640,Anémie sidéroblastique héréditaire,12,1 à 10,NA,1 à 10,1 à 10,0
+D641,"Anémie sidéroblastique secondaire, due à une maladie",22,1 à 10,NA,12,1 à 10,0
+D642,"Anémie sidéroblastique secondaire, due à des médicaments et des toxines",110,67,"6,81",43,33,0
+D643,Autres anémies sidéroblastiques,40,22,"6,36",18,1 à 10,0
+D644,Anémie dysérythropoïétique congénitale,21,1 à 10,NA,11,1 à 10,0
+D648,Autres anémies précisées,10 148,5 682,"8,32",4 466,2 941,0
+D649,"Anémie, sans précision",9 349,2 930,"6,45",6 419,4 135,0
+"",Total,19 702,8 724,"",10 978,"",0

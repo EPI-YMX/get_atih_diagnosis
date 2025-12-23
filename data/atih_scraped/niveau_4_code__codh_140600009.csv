@@ -1,8 +1,8 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"N390","Infection des voies urinaires, siège non précisé","32 993","29 690","8,17","3 303","1 à 10","0"
-"N391","Protéinurie persistante, sans précision","407","333","2,81","74","0","0"
-"N392","Protéinurie orthostatique, sans précision","14","1 à 10","NA","1 à 10","0","0"
-"N393","Incontinence urinaire d'effort","6 903","3 426","1,01","3 477","0","0"
-"N394","Autres formes d'incontinence urinaire précisées","3 911","1 516","1,99","2 395","18","0"
-"N398","Autres affections précisées de l'appareil urinaire","230","141","4,21","89","0","0"
-"","Total","44 458","35 116","","9 342","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+N390,"Infection des voies urinaires, siège non précisé",32 993,29 690,"8,17",3 303,1 à 10,0
+N391,"Protéinurie persistante, sans précision",407,333,"2,81",74,0,0
+N392,"Protéinurie orthostatique, sans précision",14,1 à 10,NA,1 à 10,0,0
+N393,Incontinence urinaire d'effort,6 903,3 426,"1,01",3 477,0,0
+N394,Autres formes d'incontinence urinaire précisées,3 911,1 516,"1,99",2 395,18,0
+N398,Autres affections précisées de l'appareil urinaire,230,141,"4,21",89,0,0
+"",Total,44 458,35 116,"",9 342,"",0

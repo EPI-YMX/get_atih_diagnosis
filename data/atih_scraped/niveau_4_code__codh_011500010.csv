@@ -1,7 +1,7 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"B440","Aspergillose pulmonaire invasive","292","263","17,41","29","1 à 10","0"
-"B441","Autres aspergilloses pulmonaires","761","584","12,02","177","28","0"
-"B447","Aspergillose disséminée","20","20","30,45","0","0","0"
-"B448","Autres formes d'aspergillose","512","245","3,71","267","1 à 10","0"
-"B449","Aspergillose, sans précision","97","50","3,04","47","0","0"
-"","Total","1 682","1 162","","520","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+B440,Aspergillose pulmonaire invasive,292,263,"17,41",29,1 à 10,0
+B441,Autres aspergilloses pulmonaires,761,584,"12,02",177,28,0
+B447,Aspergillose disséminée,20,20,"30,45",0,0,0
+B448,Autres formes d'aspergillose,512,245,"3,71",267,1 à 10,0
+B449,"Aspergillose, sans précision",97,50,"3,04",47,0,0
+"",Total,1 682,1 162,"",520,"",0

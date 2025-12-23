@@ -1,8 +1,8 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"F300","Hypomanie","126","60","9,68","66","47","0"
-"F301","Manie sans symptômes psychotiques","51","16","5,44","35","25","0"
-"F302","Manie avec symptômes psychotiques","162","68","5,54","94","64","0"
-"F3020","Manie avec symptômes psychotiques congruents à l'humeur","58","21","3,62","37","23","0"
-"F308","Autres épisodes maniaques","180","71","6,03","109","61","0"
-"F309","Épisode maniaque, sans précision","613","158","4,67","455","251","0"
-"","Total","1 199","397","","802","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+F300,Hypomanie,126,60,"9,68",66,47,0
+F301,Manie sans symptômes psychotiques,51,16,"5,44",35,25,0
+F302,Manie avec symptômes psychotiques,162,68,"5,54",94,64,0
+F3020,Manie avec symptômes psychotiques congruents à l'humeur,58,21,"3,62",37,23,0
+F308,Autres épisodes maniaques,180,71,"6,03",109,61,0
+F309,"Épisode maniaque, sans précision",613,158,"4,67",455,251,0
+"",Total,1 199,397,"",802,"",0

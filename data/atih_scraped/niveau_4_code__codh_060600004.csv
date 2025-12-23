@@ -1,8 +1,8 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"G440","Syndrome d'algie vasculaire de la face","883","348","3,40","535","0","0"
-"G441","Céphalée vasculaire, non classée ailleurs","345","261","3,08","84","0","0"
-"G442","Céphalée dite de tension","2 549","1 435","2,43","1 114","0","0"
-"G443","Céphalée chronique post-traumatique","111","58","3,64","53","0","0"
-"G444","Céphalée médicamenteuse, non classée ailleurs","142","118","4,08","24","0","0"
-"G448","Autres syndromes précisés d'algies céphaliques","392","272","3,88","120","0","0"
-"","Total","4 422","2 492","","1 930","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+G440,Syndrome d'algie vasculaire de la face,883,348,"3,40",535,0,0
+G441,"Céphalée vasculaire, non classée ailleurs",345,261,"3,08",84,0,0
+G442,Céphalée dite de tension,2 549,1 435,"2,43",1 114,0,0
+G443,Céphalée chronique post-traumatique,111,58,"3,64",53,0,0
+G444,"Céphalée médicamenteuse, non classée ailleurs",142,118,"4,08",24,0,0
+G448,Autres syndromes précisés d'algies céphaliques,392,272,"3,88",120,0,0
+"",Total,4 422,2 492,"",1 930,"",0

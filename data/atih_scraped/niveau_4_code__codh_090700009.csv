@@ -1,5 +1,5 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"I680","Angiopathie amyloïde cérébrale (E85.-)","634","471","13,43","163","0","0"
-"I682","Artérite cérébrale au cours d'autres maladies classées ailleurs","22","22","9,64","0","0","0"
-"I688","Autres troubles cérébrovasculaires au cours de maladies classées ailleurs","18","15","8,07","1 à 10","0","0"
-"","Total","681","514","","167","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+I680,Angiopathie amyloïde cérébrale (E85.-),634,471,"13,43",163,0,0
+I682,Artérite cérébrale au cours d'autres maladies classées ailleurs,22,22,"9,64",0,0,0
+I688,Autres troubles cérébrovasculaires au cours de maladies classées ailleurs,18,15,"8,07",1 à 10,0,0
+"",Total,681,514,"",167,"",0

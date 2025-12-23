@@ -1,25 +1,25 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"I30","Péricardite aiguë","7 395","4 205","6,84","3 190","1 388","0"
-"I31","Autres maladies du péricarde","5 594","4 368","8,78","1 226","590","0"
-"I32","Péricardite au cours de maladies classées ailleurs","291","239","8,72","52","27","0"
-"I33","Endocardite aiguë et subaiguë","8 803","7 956","18,96","847","904","0"
-"I34","Atteintes non rhumatismales de la valvule mitrale","7 273","6 106","11,15","1 167","178","0"
-"I35","Atteintes non rhumatismales de la valvule aortique","26 505","23 579","7,40","2 926","533","0"
-"I36","Atteintes non rhumatismales de la valvule tricuspide","1 147","944","8,38","203","44","0"
-"I37","Atteintes de la valvule pulmonaire (non rhumatismale)","295","259","5,28","36","1 à 10","0"
-"I38","Endocardite, valvule non précisée","64","42","14,76","22","1 à 10","0"
-"I39","Endocardite et atteintes valvulaires cardiaques au cours de maladies classées ailleurs","54","45","22,80","1 à 10","1 à 10","0"
-"I40","Myocardite aiguë","3 498","2 907","5,88","591","228","0"
-"I41","Myocardite au cours de maladies classées ailleurs","418","382","7,33","36","18","0"
-"I42","Myocardiopathie","12 232","8 722","7,34","3 510","692","0"
-"I43","Myocardiopathie au cours de maladies classées ailleurs","1 001","563","6,71","438","58","0"
-"I44","Bloc de branche gauche et auriculoventriculaire","23 899","18 602","5,46","5 297","2 910","0"
-"I45","Autres troubles de la conduction","6 062","3 889","4,48","2 173","824","0"
-"I46","Arrêt cardiaque","8 576","8 206","5,66","370","89","0"
-"I47","Tachycardie paroxystique","22 613","12 135","5,03","10 478","4 410","0"
-"I48","Fibrillation et flutter auriculaires","97 776","58 302","3,94","39 474","15 394","0"
-"I49","Autres arythmies cardiaques","16 704","10 379","5,04","6 325","2 564","0"
-"I50","Insuffisance cardiaque","188 451","152 386","10,72","36 065","31 033","0"
-"I51","Complications de cardiopathies et maladies cardiaques mal définies","1 749","1 138","6,57","611","139","0"
-"I52","Autres cardiopathies au cours de maladies classées ailleurs","38","23","5,83","15","1 à 10","0"
-"","Total","440 438","325 377","","115 061","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+I30,Péricardite aiguë,7 395,4 205,"6,84",3 190,1 388,0
+I31,Autres maladies du péricarde,5 594,4 368,"8,78",1 226,590,0
+I32,Péricardite au cours de maladies classées ailleurs,291,239,"8,72",52,27,0
+I33,Endocardite aiguë et subaiguë,8 803,7 956,"18,96",847,904,0
+I34,Atteintes non rhumatismales de la valvule mitrale,7 273,6 106,"11,15",1 167,178,0
+I35,Atteintes non rhumatismales de la valvule aortique,26 505,23 579,"7,40",2 926,533,0
+I36,Atteintes non rhumatismales de la valvule tricuspide,1 147,944,"8,38",203,44,0
+I37,Atteintes de la valvule pulmonaire (non rhumatismale),295,259,"5,28",36,1 à 10,0
+I38,"Endocardite, valvule non précisée",64,42,"14,76",22,1 à 10,0
+I39,Endocardite et atteintes valvulaires cardiaques au cours de maladies classées ailleurs,54,45,"22,80",1 à 10,1 à 10,0
+I40,Myocardite aiguë,3 498,2 907,"5,88",591,228,0
+I41,Myocardite au cours de maladies classées ailleurs,418,382,"7,33",36,18,0
+I42,Myocardiopathie,12 232,8 722,"7,34",3 510,692,0
+I43,Myocardiopathie au cours de maladies classées ailleurs,1 001,563,"6,71",438,58,0
+I44,Bloc de branche gauche et auriculoventriculaire,23 899,18 602,"5,46",5 297,2 910,0
+I45,Autres troubles de la conduction,6 062,3 889,"4,48",2 173,824,0
+I46,Arrêt cardiaque,8 576,8 206,"5,66",370,89,0
+I47,Tachycardie paroxystique,22 613,12 135,"5,03",10 478,4 410,0
+I48,Fibrillation et flutter auriculaires,97 776,58 302,"3,94",39 474,15 394,0
+I49,Autres arythmies cardiaques,16 704,10 379,"5,04",6 325,2 564,0
+I50,Insuffisance cardiaque,188 451,152 386,"10,72",36 065,31 033,0
+I51,Complications de cardiopathies et maladies cardiaques mal définies,1 749,1 138,"6,57",611,139,0
+I52,Autres cardiopathies au cours de maladies classées ailleurs,38,23,"5,83",15,1 à 10,0
+"",Total,440 438,325 377,"",115 061,"",0

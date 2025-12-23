@@ -1,9 +1,9 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"F90","Troubles hyperkinétiques","1 627","1 627","0,32","0","0","0"
-"F91","Troubles des conduites","4 140","2 201","5,60","1 939","1 335","0"
-"F92","Troubles mixtes des conduites et troubles émotionnels","2 438","1 956","3,63","482","0","0"
-"F93","Troubles émotionnels apparaissant spécifiquement dans l'enfance","989","623","6,44","366","142","0"
-"F94","Troubles du fonctionnement social apparaissant spécifiquement durant l'enfance et l'adolescence","294","152","6,05","142","85","0"
-"F95","Tics","174","36","5,94","138","24","0"
-"F98","Autres troubles du comportement et troubles émotionnels apparaissant habituellement durant l'enfance et l'adolescence","1 741","824","5,85","917","411","0"
-"","Total","11 403","7 419","","3 984","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+F90,Troubles hyperkinétiques,1 627,1 627,"0,32",0,0,0
+F91,Troubles des conduites,4 140,2 201,"5,60",1 939,1 335,0
+F92,Troubles mixtes des conduites et troubles émotionnels,2 438,1 956,"3,63",482,0,0
+F93,Troubles émotionnels apparaissant spécifiquement dans l'enfance,989,623,"6,44",366,142,0
+F94,Troubles du fonctionnement social apparaissant spécifiquement durant l'enfance et l'adolescence,294,152,"6,05",142,85,0
+F95,Tics,174,36,"5,94",138,24,0
+F98,Autres troubles du comportement et troubles émotionnels apparaissant habituellement durant l'enfance et l'adolescence,1 741,824,"5,85",917,411,0
+"",Total,11 403,7 419,"",3 984,"",0

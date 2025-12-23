@@ -1,10 +1,10 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"D460","Anémie réfractaire sans sidéroblastes en couronne, ainsi précisée","46","38","6,42","1 à 10","0","0"
-"D461","Anémie réfractaire avec sidéroblastes en couronne","132","86","8,19","46","0","0"
-"D462","Anémie réfractaire avec excès de blastes [AREB]","528","431","15,61","97","0","0"
-"D464","Anémie réfractaire, non précisée","781","649","4,39","132","0","0"
-"D465","Anémie réfractaire avec dysplasie de plusieurs lignées cellulaires","127","107","10,87","20","0","0"
-"D466","Syndrome myélodysplasique avec syndrome de délétion isolée du chromosome 5 [del(5q)]","32","21","15,95","11","0","0"
-"D467","Autres syndromes myélodysplasiques","1 014","785","12,25","229","0","0"
-"D469","Syndrome myélodysplasique, sans précision","1 292","930","12,84","362","0","0"
-"","Total","3 952","3 047","","905","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+D460,"Anémie réfractaire sans sidéroblastes en couronne, ainsi précisée",46,38,"6,42",1 à 10,0,0
+D461,Anémie réfractaire avec sidéroblastes en couronne,132,86,"8,19",46,0,0
+D462,Anémie réfractaire avec excès de blastes [AREB],528,431,"15,61",97,0,0
+D464,"Anémie réfractaire, non précisée",781,649,"4,39",132,0,0
+D465,Anémie réfractaire avec dysplasie de plusieurs lignées cellulaires,127,107,"10,87",20,0,0
+D466,Syndrome myélodysplasique avec syndrome de délétion isolée du chromosome 5 [del(5q)],32,21,"15,95",11,0,0
+D467,Autres syndromes myélodysplasiques,1 014,785,"12,25",229,0,0
+D469,"Syndrome myélodysplasique, sans précision",1 292,930,"12,84",362,0,0
+"",Total,3 952,3 047,"",905,"",0

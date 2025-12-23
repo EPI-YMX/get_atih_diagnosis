@@ -1,9 +1,9 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"F510","Insomnie non organique","106","36","6,56","70","42","0"
-"F511","Hypersomnie non organique","41","19","6,68","22","1 à 10","0"
-"F512","Trouble du rythme veille-sommeil non dû à une cause organique","32","23","12,35","1 à 10","1 à 10","0"
-"F513","Somnanbulisme","17","1 à 10","NA","1 à 10","1 à 10","0"
-"F514","Terreurs nocturnes","24","1 à 10","NA","15","1 à 10","0"
-"F518","Autres troubles du sommeil non organiques","37","17","4,71","20","11","0"
-"F519","Trouble du sommeil non organique, sans précision","35","1 à 10","NA","26","1 à 10","0"
-"","Total","301","123","","178","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+F510,Insomnie non organique,106,36,"6,56",70,42,0
+F511,Hypersomnie non organique,41,19,"6,68",22,1 à 10,0
+F512,Trouble du rythme veille-sommeil non dû à une cause organique,32,23,"12,35",1 à 10,1 à 10,0
+F513,Somnanbulisme,17,1 à 10,NA,1 à 10,1 à 10,0
+F514,Terreurs nocturnes,24,1 à 10,NA,15,1 à 10,0
+F518,Autres troubles du sommeil non organiques,37,17,"4,71",20,11,0
+F519,"Trouble du sommeil non organique, sans précision",35,1 à 10,NA,26,1 à 10,0
+"",Total,301,123,"",178,"",0

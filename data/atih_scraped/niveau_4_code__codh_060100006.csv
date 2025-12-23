@@ -1,6 +1,6 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"G050","Encéphalite, myélite et encéphalomyélite au cours d'infections bactériennes classées ailleurs","57","53","16,53","1 à 10","0","0"
-"G051","Encéphalite, myélite et encéphalomyélite au cours d'infections virales classées ailleurs","564","549","14,55","15","1 à 10","0"
-"G052","Encéphalite, myélite et encéphalomyélite au cours d'autres maladies infectieuses et parasitaires classées ailleurs","97","86","18,37","11","1 à 10","0"
-"G058","Encéphalite, myélite et encéphalomyélite au cours d'autres affections classées ailleurs","210","195","14,33","15","0","0"
-"","Total","928","883","","45","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+G050,"Encéphalite, myélite et encéphalomyélite au cours d'infections bactériennes classées ailleurs",57,53,"16,53",1 à 10,0,0
+G051,"Encéphalite, myélite et encéphalomyélite au cours d'infections virales classées ailleurs",564,549,"14,55",15,1 à 10,0
+G052,"Encéphalite, myélite et encéphalomyélite au cours d'autres maladies infectieuses et parasitaires classées ailleurs",97,86,"18,37",11,1 à 10,0
+G058,"Encéphalite, myélite et encéphalomyélite au cours d'autres affections classées ailleurs",210,195,"14,33",15,0,0
+"",Total,928,883,"",45,"",0

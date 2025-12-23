@@ -1,5 +1,5 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"B460","Mucormycose pulmonaire","32","30","18,07","1 à 10","0","0"
-"B461","Mucormycose rhinocérébrale","13","13","34,23","0","0","0"
-"B464","Mucormycose disséminée","13","12","22,58","1 à 10","0","0"
-"","Total","68","63","","1 à 10","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+B460,Mucormycose pulmonaire,32,30,"18,07",1 à 10,0,0
+B461,Mucormycose rhinocérébrale,13,13,"34,23",0,0,0
+B464,Mucormycose disséminée,13,12,"22,58",1 à 10,0,0
+"",Total,68,63,"",1 à 10,"",0

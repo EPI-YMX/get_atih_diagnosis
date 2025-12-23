@@ -1,6 +1,6 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"E300","Puberté retardée","234","1 à 10","NA","233","0","0"
-"E301","Puberté précoce","1 303","1 à 10","NA","1 296","1 à 10","0"
-"E308","Autres anomalies de la puberté","788","1 à 10","NA","787","1 à 10","0"
-"E309","Anomalie de la puberté, sans précision","50","0","","50","0","0"
-"","Total","2 375","1 à 10","NA","2 366","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+E300,Puberté retardée,234,1 à 10,NA,233,0,0
+E301,Puberté précoce,1 303,1 à 10,NA,1 296,1 à 10,0
+E308,Autres anomalies de la puberté,788,1 à 10,NA,787,1 à 10,0
+E309,"Anomalie de la puberté, sans précision",50,0,"",50,0,0
+"",Total,2 375,1 à 10,NA,2 366,"",0

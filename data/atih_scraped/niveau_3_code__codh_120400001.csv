@@ -1,6 +1,6 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"L40","Psoriasis","2 438","1 683","6,84","755","57","0"
-"L41","Parapsoriasis","30","21","6,05","1 à 10","0","0"
-"L43","Lichen plan","216","124","7,21","92","0","0"
-"L44","Autres lésions papulo-squameuses","97","89","7,78","1 à 10","0","0"
-"","Total","2 791","1 924","","867","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+L40,Psoriasis,2 438,1 683,"6,84",755,57,0
+L41,Parapsoriasis,30,21,"6,05",1 à 10,0,0
+L43,Lichen plan,216,124,"7,21",92,0,0
+L44,Autres lésions papulo-squameuses,97,89,"7,78",1 à 10,0,0
+"",Total,2 791,1 924,"",867,"",0

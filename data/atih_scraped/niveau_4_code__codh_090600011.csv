@@ -1,6 +1,6 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"I400","Myocardite infectieuse","667","583","6,16","84","37","0"
-"I401","Myocardite isolée","182","156","6,35","26","14","0"
-"I408","Autres myocardites aiguës","1 364","1 155","6,33","209","87","0"
-"I409","Myocardite aiguë, sans précision","1 285","1 013","5,14","272","90","0"
-"","Total","3 498","2 907","","591","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+I400,Myocardite infectieuse,667,583,"6,16",84,37,0
+I401,Myocardite isolée,182,156,"6,35",26,14,0
+I408,Autres myocardites aiguës,1 364,1 155,"6,33",209,87,0
+I409,"Myocardite aiguë, sans précision",1 285,1 013,"5,14",272,90,0
+"",Total,3 498,2 907,"",591,"",0

@@ -1,8 +1,8 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"H490","Paralysie du nerf moteur oculaire commun (III)","693","516","5,94","177","0","0"
-"H491","Paralysie du nerf pathétique (IV)","241","119","3,97","122","0","0"
-"H492","Paralysie du nerf moteur oculaire externe (VI)","802","595","4,56","207","0","0"
-"H493","Ophtalmoplégie totale (externe)","22","21","9,05","1 à 10","0","0"
-"H498","Autres strabismes paralytiques","58","21","7,67","37","0","0"
-"H499","Strabisme paralytique, sans précision","49","1 à 10","NA","40","0","0"
-"","Total","1 866","1 281","","585","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+H490,Paralysie du nerf moteur oculaire commun (III),693,516,"5,94",177,0,0
+H491,Paralysie du nerf pathétique (IV),241,119,"3,97",122,0,0
+H492,Paralysie du nerf moteur oculaire externe (VI),802,595,"4,56",207,0,0
+H493,Ophtalmoplégie totale (externe),22,21,"9,05",1 à 10,0,0
+H498,Autres strabismes paralytiques,58,21,"7,67",37,0,0
+H499,"Strabisme paralytique, sans précision",49,1 à 10,NA,40,0,0
+"",Total,1 866,1 281,"",585,"",0

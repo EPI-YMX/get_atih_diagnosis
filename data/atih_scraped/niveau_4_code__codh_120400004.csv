@@ -1,7 +1,7 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"L431","Lichen plan bulleux","13","11","8,55","1 à 10","0","0"
-"L432","Réaction lichénoïde médicamenteuse","31","28","10,32","1 à 10","0","0"
-"L433","Lichen plan subaigu (actif)","19","16","6,00","1 à 10","0","0"
-"L438","Autres lichen plans","74","40","6,13","34","0","0"
-"L439","Lichen plan, sans précision","73","27","5,37","46","0","0"
-"","Total","216","124","","92","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+L431,Lichen plan bulleux,13,11,"8,55",1 à 10,0,0
+L432,Réaction lichénoïde médicamenteuse,31,28,"10,32",1 à 10,0,0
+L433,Lichen plan subaigu (actif),19,16,"6,00",1 à 10,0,0
+L438,Autres lichen plans,74,40,"6,13",34,0,0
+L439,"Lichen plan, sans précision",73,27,"5,37",46,0,0
+"",Total,216,124,"",92,"",0

@@ -1,7 +1,7 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"C750","Tumeur maligne de la parathyroïde","38","33","5,85","1 à 10","0","0"
-"C751","Tumeur maligne de l'hypophyse","57","49","10,49","1 à 10","1 à 10","0"
-"C753","Tumeur maligne de l'épiphyse","71","56","12,82","15","1 à 10","0"
-"C755","Tumeur maligne du glomus aortique et autres paraganglions","46","41","7,66","1 à 10","0","0"
-"C758","Tumeur maligne de plusieurs glandes endocrines, sans précision","15","1 à 10","NA","1 à 10","0","0"
-"","Total","230","192","","38","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+C750,Tumeur maligne de la parathyroïde,38,33,"5,85",1 à 10,0,0
+C751,Tumeur maligne de l'hypophyse,57,49,"10,49",1 à 10,1 à 10,0
+C753,Tumeur maligne de l'épiphyse,71,56,"12,82",15,1 à 10,0
+C755,Tumeur maligne du glomus aortique et autres paraganglions,46,41,"7,66",1 à 10,0,0
+C758,"Tumeur maligne de plusieurs glandes endocrines, sans précision",15,1 à 10,NA,1 à 10,0,0
+"",Total,230,192,"",38,"",0

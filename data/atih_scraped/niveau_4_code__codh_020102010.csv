@@ -1,6 +1,6 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"C240","Tumeur maligne du canal biliaire extra-hépatique","568","508","14,53","60","25","0"
-"C241","Tumeur maligne de l'ampoule de Vater","969","852","13,53","117","43","0"
-"C248","Tumeur maligne à localisations contiguës des voies biliaires","99","85","15,94","14","1 à 10","0"
-"C249","Tumeur maligne des voies biliaires, sans précision","332","284","10,79","48","29","0"
-"","Total","1 968","1 729","","239","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+C240,Tumeur maligne du canal biliaire extra-hépatique,568,508,"14,53",60,25,0
+C241,Tumeur maligne de l'ampoule de Vater,969,852,"13,53",117,43,0
+C248,Tumeur maligne à localisations contiguës des voies biliaires,99,85,"15,94",14,1 à 10,0
+C249,"Tumeur maligne des voies biliaires, sans précision",332,284,"10,79",48,29,0
+"",Total,1 968,1 729,"",239,"",0

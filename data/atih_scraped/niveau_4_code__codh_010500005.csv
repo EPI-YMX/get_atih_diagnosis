@@ -1,7 +1,7 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"A540","Infection gonococcique de la partie inférieure de l'appareil génito-urinaire, (sans abcès périurétral ou des glandes annexes)","57","36","5,11","21","1 à 10","0"
-"A542","Pelvipéritonite gonococcique et autres infections génito-urinaires gonococciques","49","40","5,30","1 à 10","1 à 10","0"
-"A544","Infection gonococcique du système ostéo-articulaire et des muscles","21","19","12,42","1 à 10","1 à 10","0"
-"A546","Infection gonococcique de l'anus et du rectum","11","1 à 10","NA","1 à 10","1 à 10","0"
-"A548","Autres infections gonococciques","12","1 à 10","NA","1 à 10","1 à 10","0"
-"","Total","175","126","","49","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+A540,"Infection gonococcique de la partie inférieure de l'appareil génito-urinaire, (sans abcès périurétral ou des glandes annexes)",57,36,"5,11",21,1 à 10,0
+A542,Pelvipéritonite gonococcique et autres infections génito-urinaires gonococciques,49,40,"5,30",1 à 10,1 à 10,0
+A544,Infection gonococcique du système ostéo-articulaire et des muscles,21,19,"12,42",1 à 10,1 à 10,0
+A546,Infection gonococcique de l'anus et du rectum,11,1 à 10,NA,1 à 10,1 à 10,0
+A548,Autres infections gonococciques,12,1 à 10,NA,1 à 10,1 à 10,0
+"",Total,175,126,"",49,"",0

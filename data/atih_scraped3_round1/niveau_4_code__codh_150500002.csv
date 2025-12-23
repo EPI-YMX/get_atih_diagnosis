@@ -1,6 +1,0 @@
-Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
-O610,Échec du déclenchement médical (du travail),4 283,4 279,"6,85",1 à 10,0,0
-O611,Échec du déclenchement instrumental (du travail),502,502,"6,40",0,0,0
-O618,Autres échecs du déclenchement du travail,139,139,"6,75",0,0,0
-O619,"Échec du déclenchement du travail, sans précision",144,144,"8,01",0,0,0
-"",Total,5 068,5 064,"",1 à 10,"",0

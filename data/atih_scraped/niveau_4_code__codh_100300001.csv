@@ -1,10 +1,10 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"J200","Bronchite aiguë due à Mycoplasma pneumoniae","191","126","4,10","65","37","0"
-"J201","Bronchite aiguë due à Haemophilus influenzae","451","347","7,34","104","24","0"
-"J202","Bronchite aiguë due à des steptocoques","121","89","7,69","32","14","0"
-"J204","Bronchite aiguë due aux virus paragrippaux","316","230","5,69","86","69","0"
-"J205","Bronchite aiguë due au virus respiratoire syncytial [VRS]","1 267","921","6,56","346","242","0"
-"J206","Bronchite aiguë due à des rhinovirus","1 956","1 529","6,21","427","319","0"
-"J208","Bronchite aiguë due à d'autres micro-organismes précisés","3 250","2 372","7,83","878","425","0"
-"J209","Bronchite aiguë, sans précision","14 098","7 676","7,29","6 422","3 359","0"
-"","Total","21 652","13 291","","8 361","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+J200,Bronchite aiguë due à Mycoplasma pneumoniae,191,126,"4,10",65,37,0
+J201,Bronchite aiguë due à Haemophilus influenzae,451,347,"7,34",104,24,0
+J202,Bronchite aiguë due à des steptocoques,121,89,"7,69",32,14,0
+J204,Bronchite aiguë due aux virus paragrippaux,316,230,"5,69",86,69,0
+J205,Bronchite aiguë due au virus respiratoire syncytial [VRS],1 267,921,"6,56",346,242,0
+J206,Bronchite aiguë due à des rhinovirus,1 956,1 529,"6,21",427,319,0
+J208,Bronchite aiguë due à d'autres micro-organismes précisés,3 250,2 372,"7,83",878,425,0
+J209,"Bronchite aiguë, sans précision",14 098,7 676,"7,29",6 422,3 359,0
+"",Total,21 652,13 291,"",8 361,"",0

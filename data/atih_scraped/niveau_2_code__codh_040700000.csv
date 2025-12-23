@@ -1,5 +1,5 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"E65","Adiposité localisée","5 450","5 368","3,02","82","0","0"
-"E66","Obésité et surpoids","30 916","15 987","3,28","14 929","0","0"
-"E67","Autres excès d'apport","23","1 à 10","NA","14","1 à 10","0"
-"","Total","36 389","21 364","","15 025","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+E65,Adiposité localisée,5 450,5 368,"3,02",82,0,0
+E66,Obésité et surpoids,30 916,15 987,"3,28",14 929,0,0
+E67,Autres excès d'apport,23,1 à 10,NA,14,1 à 10,0
+"",Total,36 389,21 364,"",15 025,"",0

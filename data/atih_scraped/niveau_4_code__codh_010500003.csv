@@ -1,7 +1,7 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"A521","Syphilis nerveuse symptomatique","117","113","8,92","1 à 10","0","0"
-"A523","Syphilis nerveuse, sans précision","81","72","9,46","1 à 10","0","0"
-"A527","Autres formes tardives de syphilis symptomatique","34","32","6,06","1 à 10","0","0"
-"A528","Syphilis tardive, latente","24","20","4,80","1 à 10","0","0"
-"A529","Syphilis tardive, sans précision","15","13","10,54","1 à 10","0","0"
-"","Total","283","261","","22","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+A521,Syphilis nerveuse symptomatique,117,113,"8,92",1 à 10,0,0
+A523,"Syphilis nerveuse, sans précision",81,72,"9,46",1 à 10,0,0
+A527,Autres formes tardives de syphilis symptomatique,34,32,"6,06",1 à 10,0,0
+A528,"Syphilis tardive, latente",24,20,"4,80",1 à 10,0,0
+A529,"Syphilis tardive, sans précision",15,13,"10,54",1 à 10,0,0
+"",Total,283,261,"",22,"",0

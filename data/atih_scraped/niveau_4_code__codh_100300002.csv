@@ -1,6 +1,6 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"J210","Bronchiolite aiguë due au virus respiratoire syncytial [VRS]","11 999","7 486","5,26","4 513","6 075","0"
-"J211","Bronchiolite aigüe due à métapneumovirus humain","1 808","1 277","6,06","531","747","0"
-"J218","Bronchiolite aiguë due à d'autres micro-organismes précisés","4 709","2 605","6,04","2 104","2 815","0"
-"J219","Bronchiolite (aiguë), sans précision","17 086","6 060","5,36","11 026","11 604","0"
-"","Total","35 602","17 428","","18 174","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+J210,Bronchiolite aiguë due au virus respiratoire syncytial [VRS],11 999,7 486,"5,26",4 513,6 075,0
+J211,Bronchiolite aigüe due à métapneumovirus humain,1 808,1 277,"6,06",531,747,0
+J218,Bronchiolite aiguë due à d'autres micro-organismes précisés,4 709,2 605,"6,04",2 104,2 815,0
+J219,"Bronchiolite (aiguë), sans précision",17 086,6 060,"5,36",11 026,11 604,0
+"",Total,35 602,17 428,"",18 174,"",0

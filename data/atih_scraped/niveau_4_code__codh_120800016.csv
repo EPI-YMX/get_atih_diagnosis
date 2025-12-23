@@ -1,5 +1,5 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"L950","Vascularite livédoïde","91","60","7,60","31","0","0"
-"L958","Autres vascularites limitées à la peau","181","156","7,09","25","0","0"
-"L959","Vascularite limitée à la peau, sans précision","86","73","8,01","13","0","0"
-"","Total","365","293","","72","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+L950,Vascularite livédoïde,91,60,"7,60",31,0,0
+L958,Autres vascularites limitées à la peau,181,156,"7,09",25,0,0
+L959,"Vascularite limitée à la peau, sans précision",86,73,"8,01",13,0,0
+"",Total,365,293,"",72,"",0

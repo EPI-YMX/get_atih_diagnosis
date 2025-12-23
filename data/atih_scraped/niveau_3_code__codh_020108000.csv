@@ -1,10 +1,10 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"C51","Tumeur maligne de la vulve","1 075","788","8,66","287","37","0"
-"C52","Tumeur maligne du vagin","212","127","7,26","85","13","0"
-"C53","Tumeur maligne du col de l'utérus","3 014","2 041","6,22","973","88","0"
-"C54","Tumeur maligne du corps de l'utérus","8 328","7 686","4,19","642","108","0"
-"C55","Tumeur maligne de l'utérus, partie non précisée","151","121","8,06","30","1 à 10","0"
-"C56","Tumeur maligne de l'ovaire","6 756","5 627","8,63","1 129","168","0"
-"C57","Tumeur maligne des organes génitaux de la femme, autres et non précisés","354","295","8,00","59","1 à 10","0"
-"C58","Tumeur maligne du placenta","30","24","16,92","1 à 10","1 à 10","0"
-"","Total","19 920","16 709","","3 211","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+C51,Tumeur maligne de la vulve,1 075,788,"8,66",287,37,0
+C52,Tumeur maligne du vagin,212,127,"7,26",85,13,0
+C53,Tumeur maligne du col de l'utérus,3 014,2 041,"6,22",973,88,0
+C54,Tumeur maligne du corps de l'utérus,8 328,7 686,"4,19",642,108,0
+C55,"Tumeur maligne de l'utérus, partie non précisée",151,121,"8,06",30,1 à 10,0
+C56,Tumeur maligne de l'ovaire,6 756,5 627,"8,63",1 129,168,0
+C57,"Tumeur maligne des organes génitaux de la femme, autres et non précisés",354,295,"8,00",59,1 à 10,0
+C58,Tumeur maligne du placenta,30,24,"16,92",1 à 10,1 à 10,0
+"",Total,19 920,16 709,"",3 211,"",0

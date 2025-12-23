@@ -1,12 +1,12 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"M993","Rétrécissement osseux du canal rachidien","239","224","4,97","15","1 à 10","0"
-"M9930","Rétrécissement osseux du canal rachidien - Occipito-cervicale","12","12","16,00","0","0","0"
-"M9932","Rétrécissement osseux du canal rachidien - Thoraco-lombaire","16","14","7,43","1 à 10","0","0"
-"M9933","Rétrécissement osseux du canal rachidien - Lombo-sacrée","155","142","5,85","13","1 à 10","0"
-"M9942","Rétrécissement du canal rachidien par tissu conjonctif - Thoraco-lombaire","13","13","7,69","0","0","0"
-"M9943","Rétrécissement du canal rachidien par tissu conjonctif - Lombo-sacrée","44","41","4,27","1 à 10","1 à 10","0"
-"M995","Rétrécissement du canal rachidien par lésion discale","40","37","5,46","1 à 10","1 à 10","0"
-"M9951","Rétrécissement du canal rachidien par lésion discale - Cervico-thoracique","61","60","3,28","1 à 10","0","0"
-"M9952","Rétrécissement du canal rachidien par lésion discale - Thoraco-lombaire","40","32","8,19","1 à 10","1 à 10","0"
-"M9953","Rétrécissement du canal rachidien par lésion discale - Lombo-sacrée","129","109","5,27","20","13","0"
-"","Total","820","734","","86","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+M993,Rétrécissement osseux du canal rachidien,239,224,"4,97",15,1 à 10,0
+M9930,Rétrécissement osseux du canal rachidien - Occipito-cervicale,12,12,"16,00",0,0,0
+M9932,Rétrécissement osseux du canal rachidien - Thoraco-lombaire,16,14,"7,43",1 à 10,0,0
+M9933,Rétrécissement osseux du canal rachidien - Lombo-sacrée,155,142,"5,85",13,1 à 10,0
+M9942,Rétrécissement du canal rachidien par tissu conjonctif - Thoraco-lombaire,13,13,"7,69",0,0,0
+M9943,Rétrécissement du canal rachidien par tissu conjonctif - Lombo-sacrée,44,41,"4,27",1 à 10,1 à 10,0
+M995,Rétrécissement du canal rachidien par lésion discale,40,37,"5,46",1 à 10,1 à 10,0
+M9951,Rétrécissement du canal rachidien par lésion discale - Cervico-thoracique,61,60,"3,28",1 à 10,0,0
+M9952,Rétrécissement du canal rachidien par lésion discale - Thoraco-lombaire,40,32,"8,19",1 à 10,1 à 10,0
+M9953,Rétrécissement du canal rachidien par lésion discale - Lombo-sacrée,129,109,"5,27",20,13,0
+"",Total,820,734,"",86,"",0

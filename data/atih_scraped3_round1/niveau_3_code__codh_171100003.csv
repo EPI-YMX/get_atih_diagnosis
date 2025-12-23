@@ -1,9 +1,0 @@
-Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
-Q90,Syndrome de Down,244,192,"14,04",52,0,0
-Q91,Syndrome d'Edwards et syndrome de Patau,39,34,"8,76",1 à 10,0,0
-Q92,"Autres trisomies et trisomies partielles des autosomes, non classées ailleurs",14,1 à 10,NA,1 à 10,0,0
-Q93,"Monosomies et délétions des autosomes, non classées ailleurs",34,1 à 10,NA,29,0,0
-Q96,Syndrome de Turner,106,19,"4,32",87,1 à 10,0
-Q98,"Autres anomalies des chromosomes sexuels, phénotype masculin, non classées ailleurs",40,1 à 10,NA,33,0,0
-Q99,"Autres anomalies des chromosomes, non classées ailleurs",412,30,"7,13",382,0,0
-"",Total,901,299,"",602,"",0

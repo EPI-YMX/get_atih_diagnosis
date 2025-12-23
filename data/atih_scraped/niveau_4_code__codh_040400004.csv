@@ -1,7 +1,7 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"E230","Hypopituitarisme","2 529","525","6,34","2 004","55","0"
-"E231","Hypopituitarisme médicamenteux","83","30","7,43","53","1 à 10","0"
-"E232","Diabète insipide","379","265","6,65","114","35","0"
-"E233","Anomalie hypothalamique, non classée ailleurs","28","1 à 10","NA","25","1 à 10","0"
-"E236","Autres anomalies de l'hypophyse","334","165","7,18","169","26","0"
-"","Total","3 353","988","","2 365","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+E230,Hypopituitarisme,2 529,525,"6,34",2 004,55,0
+E231,Hypopituitarisme médicamenteux,83,30,"7,43",53,1 à 10,0
+E232,Diabète insipide,379,265,"6,65",114,35,0
+E233,"Anomalie hypothalamique, non classée ailleurs",28,1 à 10,NA,25,1 à 10,0
+E236,Autres anomalies de l'hypophyse,334,165,"7,18",169,26,0
+"",Total,3 353,988,"",2 365,"",0

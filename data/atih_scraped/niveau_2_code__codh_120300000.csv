@@ -1,12 +1,12 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"L20","Dermite atopique","1 759","1 241","5,34","518","0","0"
-"L21","Dermite séborrhéique","52","36","4,42","16","0","0"
-"L22","Dermite fessière du nourrisson","30","28","1,93","1 à 10","0","0"
-"L23","Dermite allergique de contact","363","208","4,91","155","0","0"
-"L24","Dermite irritante de contact","145","44","7,39","101","0","0"
-"L25","Dermite de contact, sans précision","104","72","5,22","32","0","0"
-"L27","Dermite due à des substances prises par voie interne","2 376","2 008","5,87","368","0","0"
-"L28","Lichen simplex chronique et prurigo","391","273","6,09","118","0","0"
-"L29","Prurit","970","594","4,81","376","1 à 10","0"
-"L30","Autres dermites","4 226","3 532","8,98","694","201","0"
-"","Total","10 420","8 040","","2 380","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+L20,Dermite atopique,1 759,1 241,"5,34",518,0,0
+L21,Dermite séborrhéique,52,36,"4,42",16,0,0
+L22,Dermite fessière du nourrisson,30,28,"1,93",1 à 10,0,0
+L23,Dermite allergique de contact,363,208,"4,91",155,0,0
+L24,Dermite irritante de contact,145,44,"7,39",101,0,0
+L25,"Dermite de contact, sans précision",104,72,"5,22",32,0,0
+L27,Dermite due à des substances prises par voie interne,2 376,2 008,"5,87",368,0,0
+L28,Lichen simplex chronique et prurigo,391,273,"6,09",118,0,0
+L29,Prurit,970,594,"4,81",376,1 à 10,0
+L30,Autres dermites,4 226,3 532,"8,98",694,201,0
+"",Total,10 420,8 040,"",2 380,"",0

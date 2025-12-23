@@ -1,9 +1,0 @@
-Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
-Z750,Absence de services médicaux à domicile,75,53,"12,04",22,19,0
-Z751,"Sujet attendant d'être admis ailleurs, dans un établissement adéquat",2 101,1 745,"22,08",356,236,0
-Z752,Autre période d'attente pour investigation et traitement,119,42,"9,55",77,24,0
-Z753,Centres médicaux non disponibles et non accessibles,33,33,"3,30",0,0,0
-Z754,Autres organisations d'aide non disponibles et non accessibles,80,61,"13,44",19,19,0
-Z755,Prise en charge pendant les vacances,45,40,"10,95",1 à 10,1 à 10,0
-Z7588,"Autres difficultés liées aux installations médicales et autres soins de santé, non classées ailleurs",161,51,"7,98",110,62,0
-"",Total,2 616,2 026,"",590,"",0

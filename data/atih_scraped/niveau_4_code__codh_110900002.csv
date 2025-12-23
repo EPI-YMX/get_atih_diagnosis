@@ -1,6 +1,6 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"K810","Cholécystite aiguë","13 073","10 936","6,92","2 137","1 176","0"
-"K811","Cholécystite chronique","6 344","2 897","3,31","3 447","27","0"
-"K818","Autres cholécystites","769","431","5,10","338","48","0"
-"K819","Cholécystite, sans précision","467","245","7,10","222","68","0"
-"","Total","20 653","14 509","","6 144","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+K810,Cholécystite aiguë,13 073,10 936,"6,92",2 137,1 176,0
+K811,Cholécystite chronique,6 344,2 897,"3,31",3 447,27,0
+K818,Autres cholécystites,769,431,"5,10",338,48,0
+K819,"Cholécystite, sans précision",467,245,"7,10",222,68,0
+"",Total,20 653,14 509,"",6 144,"",0

@@ -1,9 +1,0 @@
-Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
-G460,Syndrome de l'artère cérébrale moyenne (I66.0),44,35,"10,11",1 à 10,0,0
-G462,Syndrome de l'artère cérébrale postérieure (I66.2),15,13,"6,77",1 à 10,0,0
-G463,Syndromes vasculaires du tronc cérébral (I60-I67),26,22,"9,82",1 à 10,0,0
-G464,Syndrome cérébelleux vasculaire (I60-I67),280,234,"10,16",46,0,0
-G465,Syndrome lacunaire moteur pur (I60-I67),18,17,"13,82",1 à 10,0,0
-G467,Autres syndromes lacunaires (I60-I67),146,124,"6,67",22,0,0
-G468,Autres syndromes vasculaires cérébraux au cours de maladies cérébrovasculaires (I60-I67),59,47,"6,40",12,0,0
-"",Total,604,507,"",97,"",0

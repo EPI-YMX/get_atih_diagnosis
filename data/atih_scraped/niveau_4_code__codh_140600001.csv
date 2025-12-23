@@ -1,9 +1,9 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"N300","Cystite aiguë","12 241","10 659","8,41","1 582","0","0"
-"N301","Cystite interstitielle (chronique)","385","276","2,94","109","0","0"
-"N302","Autres cystites chroniques","618","555","3,68","63","0","0"
-"N303","Trigonite","20","18","1,06","1 à 10","0","0"
-"N304","Cystite due à une irradiation","628","570","8,92","58","0","0"
-"N308","Autres cystites","892","820","5,52","72","0","0"
-"N309","Cystite, sans précision","739","527","5,26","212","0","0"
-"","Total","15 523","13 425","","2 098","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+N300,Cystite aiguë,12 241,10 659,"8,41",1 582,0,0
+N301,Cystite interstitielle (chronique),385,276,"2,94",109,0,0
+N302,Autres cystites chroniques,618,555,"3,68",63,0,0
+N303,Trigonite,20,18,"1,06",1 à 10,0,0
+N304,Cystite due à une irradiation,628,570,"8,92",58,0,0
+N308,Autres cystites,892,820,"5,52",72,0,0
+N309,"Cystite, sans précision",739,527,"5,26",212,0,0
+"",Total,15 523,13 425,"",2 098,"",0

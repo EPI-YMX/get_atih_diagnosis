@@ -1,5 +1,5 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"E710","Maladie des urines à odeur de sirop d'érable","96","68","8,81","28","12","0"
-"E711","Autres anomalies du métabolisme des acides aminés à chaîne ramifiée","182","121","7,14","61","15","0"
-"E713","Anomalie du métabolisme des acides gras","206","91","7,45","115","40","0"
-"","Total","487","282","","205","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+E710,Maladie des urines à odeur de sirop d'érable,96,68,"8,81",28,12,0
+E711,Autres anomalies du métabolisme des acides aminés à chaîne ramifiée,182,121,"7,14",61,15,0
+E713,Anomalie du métabolisme des acides gras,206,91,"7,45",115,40,0
+"",Total,487,282,"",205,"",0

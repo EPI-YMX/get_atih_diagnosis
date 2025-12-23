@@ -1,9 +1,9 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"M30","Périartérite noueuse et affections apparentées","1 313","1 242","6,94","71","0","0"
-"M31","Autres vasculopathies nécrosantes","5 829","5 203","9,51","626","54","0"
-"M32","Lupus érythémateux disséminé","1 819","1 468","7,69","351","0","0"
-"M33","Dermatopolymyosite","1 149","905","8,94","244","0","0"
-"M34","Sclérodermie systémique","2 074","1 040","7,38","1 034","0","0"
-"M35","Autres atteintes systémiques du tissu conjonctif","6 247","4 364","7,55","1 883","0","0"
-"M36","Atteintes systémiques du tissu conjonctif au cours de maladies classées ailleurs","147","98","11,49","49","0","0"
-"","Total","18 578","14 320","","4 258","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+M30,Périartérite noueuse et affections apparentées,1 313,1 242,"6,94",71,0,0
+M31,Autres vasculopathies nécrosantes,5 829,5 203,"9,51",626,54,0
+M32,Lupus érythémateux disséminé,1 819,1 468,"7,69",351,0,0
+M33,Dermatopolymyosite,1 149,905,"8,94",244,0,0
+M34,Sclérodermie systémique,2 074,1 040,"7,38",1 034,0,0
+M35,Autres atteintes systémiques du tissu conjonctif,6 247,4 364,"7,55",1 883,0,0
+M36,Atteintes systémiques du tissu conjonctif au cours de maladies classées ailleurs,147,98,"11,49",49,0,0
+"",Total,18 578,14 320,"",4 258,"",0

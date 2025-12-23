@@ -1,12 +1,12 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"A040","Infection entéropathogène à Escherichia coli","277","211","6,61","66","52","0"
-"A041","Infection entérotoxigène à Escherichia coli","112","101","7,31","11","1 à 10","0"
-"A042","Infection entéro-invasive à Escherichia coli","56","44","4,73","12","11","0"
-"A043","Infection entéro-hémorragique à Escherichia coli","70","59","5,76","11","1 à 10","0"
-"A044","Autres infections intestinales à Escherichia coli","446","378","7,06","68","57","0"
-"A045","Entérite à Campylobacter","4 591","3 653","5,60","938","721","0"
-"A046","Entérite à Yersinia enterocolitica","255","208","6,58","47","34","0"
-"A047","Entérocolite à Clostridium difficile","5 969","5 946","10,25","23","0","0"
-"A048","Autres infections intestinales bactériennes précisées","1 243","356","8,55","887","72","0"
-"A049","Infection intestinale bactérienne, sans précision","162","66","7,35","96","51","0"
-"","Total","13 181","11 022","","2 159","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+A040,Infection entéropathogène à Escherichia coli,277,211,"6,61",66,52,0
+A041,Infection entérotoxigène à Escherichia coli,112,101,"7,31",11,1 à 10,0
+A042,Infection entéro-invasive à Escherichia coli,56,44,"4,73",12,11,0
+A043,Infection entéro-hémorragique à Escherichia coli,70,59,"5,76",11,1 à 10,0
+A044,Autres infections intestinales à Escherichia coli,446,378,"7,06",68,57,0
+A045,Entérite à Campylobacter,4 591,3 653,"5,60",938,721,0
+A046,Entérite à Yersinia enterocolitica,255,208,"6,58",47,34,0
+A047,Entérocolite à Clostridium difficile,5 969,5 946,"10,25",23,0,0
+A048,Autres infections intestinales bactériennes précisées,1 243,356,"8,55",887,72,0
+A049,"Infection intestinale bactérienne, sans précision",162,66,"7,35",96,51,0
+"",Total,13 181,11 022,"",2 159,"",0

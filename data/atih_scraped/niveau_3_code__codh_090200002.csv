@@ -1,7 +1,7 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"I05","Maladies rhumatismales de la valvule mitrale","804","708","13,22","96","24","0"
-"I06","Maladies rhumatismales de la valvule aortique","168","139","10,51","29","1 à 10","0"
-"I07","Maladies rhumatismales de la valvule tricuspide","206","163","8,90","43","1 à 10","0"
-"I08","Maladies de plusieurs valvules (rhumatismales)","191","165","12,32","26","1 à 10","0"
-"I09","Autres cardiopathies rhumatismales","19","13","5,31","1 à 10","1 à 10","0"
-"","Total","1 388","1 188","","200","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+I05,Maladies rhumatismales de la valvule mitrale,804,708,"13,22",96,24,0
+I06,Maladies rhumatismales de la valvule aortique,168,139,"10,51",29,1 à 10,0
+I07,Maladies rhumatismales de la valvule tricuspide,206,163,"8,90",43,1 à 10,0
+I08,Maladies de plusieurs valvules (rhumatismales),191,165,"12,32",26,1 à 10,0
+I09,Autres cardiopathies rhumatismales,19,13,"5,31",1 à 10,1 à 10,0
+"",Total,1 388,1 188,"",200,"",0

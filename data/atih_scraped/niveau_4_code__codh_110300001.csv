@@ -1,5 +1,5 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"K352","Appendicite aigüe avec péritonite généralisée","5 732","5 597","6,39","135","42","0"
-"K353","Appendicite aigüe avec péritonite localisée","19 136","18 456","3,98","680","263","0"
-"K358","Appendicites aigües, autres et non précisées","30 479","26 750","2,11","3 729","1 582","0"
-"","Total","55 347","50 803","","4 544","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+K352,Appendicite aigüe avec péritonite généralisée,5 732,5 597,"6,39",135,42,0
+K353,Appendicite aigüe avec péritonite localisée,19 136,18 456,"3,98",680,263,0
+K358,"Appendicites aigües, autres et non précisées",30 479,26 750,"2,11",3 729,1 582,0
+"",Total,55 347,50 803,"",4 544,"",0

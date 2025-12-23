@@ -1,5 +1,5 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"N511","Affections du testicule et de l'épididyme au cours de maladies classées ailleurs","177","67","2,52","110","1 à 10","0"
-"N512","Balanite au cours de maladies classées ailleurs","49","30","3,50","19","0","0"
-"N518","Autres affections des organes génitaux de l'homme au cours de maladies classées ailleurs","34","19","3,79","15","0","0"
-"","Total","270","125","","145","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+N511,Affections du testicule et de l'épididyme au cours de maladies classées ailleurs,177,67,"2,52",110,1 à 10,0
+N512,Balanite au cours de maladies classées ailleurs,49,30,"3,50",19,0,0
+N518,Autres affections des organes génitaux de l'homme au cours de maladies classées ailleurs,34,19,"3,79",15,0,0
+"",Total,270,125,"",145,"",0

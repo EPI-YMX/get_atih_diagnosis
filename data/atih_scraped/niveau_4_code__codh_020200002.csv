@@ -1,9 +1,9 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"D010","Carcinome in situ du côlon","2 450","2 272","1,91","178","36","0"
-"D011","Carcinome in situ de la jonction recto-sigmoïdienne","119","108","1,82","11","1 à 10","0"
-"D012","Carcinome in situ du rectum","646","584","2,22","62","1 à 10","0"
-"D013","Carcinome in situ de l'anus et du canal anal","263","84","2,19","179","1 à 10","0"
-"D014","Carcinome in situ de parties de l'intestin, autres et non précisées","147","130","3,09","17","1 à 10","0"
-"D015","Carcinome in situ du foie, de la vésicule et des voies biliaires","77","59","6,19","18","1 à 10","0"
-"D017","Carcinome in situ d'autres organes digestifs précisés","51","33","12,36","18","1 à 10","0"
-"","Total","3 753","3 270","","483","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+D010,Carcinome in situ du côlon,2 450,2 272,"1,91",178,36,0
+D011,Carcinome in situ de la jonction recto-sigmoïdienne,119,108,"1,82",11,1 à 10,0
+D012,Carcinome in situ du rectum,646,584,"2,22",62,1 à 10,0
+D013,Carcinome in situ de l'anus et du canal anal,263,84,"2,19",179,1 à 10,0
+D014,"Carcinome in situ de parties de l'intestin, autres et non précisées",147,130,"3,09",17,1 à 10,0
+D015,"Carcinome in situ du foie, de la vésicule et des voies biliaires",77,59,"6,19",18,1 à 10,0
+D017,Carcinome in situ d'autres organes digestifs précisés,51,33,"12,36",18,1 à 10,0
+"",Total,3 753,3 270,"",483,"",0

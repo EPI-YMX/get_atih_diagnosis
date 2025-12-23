@@ -1,6 +1,6 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"C480","Tumeur maligne du rétropéritoine","658","451","12,88","207","0","0"
-"C481","Tumeur maligne des parties précisées du péritoine","156","118","11,03","38","1 à 10","0"
-"C482","Tumeur maligne du péritoine, sans précision","472","383","11,86","89","36","0"
-"C488","Tumeur maligne à localisations contiguës du rétropéritoine et du péritoine","49","38","11,26","11","1 à 10","0"
-"","Total","1 335","990","","345","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+C480,Tumeur maligne du rétropéritoine,658,451,"12,88",207,0,0
+C481,Tumeur maligne des parties précisées du péritoine,156,118,"11,03",38,1 à 10,0
+C482,"Tumeur maligne du péritoine, sans précision",472,383,"11,86",89,36,0
+C488,Tumeur maligne à localisations contiguës du rétropéritoine et du péritoine,49,38,"11,26",11,1 à 10,0
+"",Total,1 335,990,"",345,"",0

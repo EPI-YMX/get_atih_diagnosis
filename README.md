@@ -17,6 +17,8 @@ scrape_atih_optimized(
 )
 ```
 
+Il faut le lancer plusieurs fois pour arriver au bout ... Surveiller dans git les nouveaux fichiers qui apparaissent.
+
 Après cela regarder le notebook `post_scraping.qmd` pour l'aggrégation des différents CSV créés.
 
 

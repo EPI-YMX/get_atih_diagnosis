@@ -1,7 +1,7 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"D570","Anémie à hématies falciformes [anémie drépanocytaire] avec crises","18 898","13 400","6,59","5 498","3 379","0"
-"D571","Anémie à hématies falciformes (sans crises)","1 003","544","6,31","459","185","0"
-"D572","Affections à hématies falciformes [drépanocytaires] hétérozygotes doubles","461","257","6,08","204","90","0"
-"D573","Trait de la maladie des hématies falciformes [drépanocytaire]","36","1 à 10","NA","28","1 à 10","0"
-"D578","Autres affections à hématies falciformes [drépanocytaires]","221","67","6,03","154","78","0"
-"","Total","20 619","14 276","","6 343","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+D570,Anémie à hématies falciformes [anémie drépanocytaire] avec crises,18 898,13 400,"6,59",5 498,3 379,0
+D571,Anémie à hématies falciformes (sans crises),1 003,544,"6,31",459,185,0
+D572,Affections à hématies falciformes [drépanocytaires] hétérozygotes doubles,461,257,"6,08",204,90,0
+D573,Trait de la maladie des hématies falciformes [drépanocytaire],36,1 à 10,NA,28,1 à 10,0
+D578,Autres affections à hématies falciformes [drépanocytaires],221,67,"6,03",154,78,0
+"",Total,20 619,14 276,"",6 343,"",0

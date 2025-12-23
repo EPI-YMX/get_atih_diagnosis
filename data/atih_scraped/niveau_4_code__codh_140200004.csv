@@ -1,12 +1,12 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"N130","Hydronéphrose avec obstruction de la jonction pyélo-urétérale","3 707","3 003","4,59","704","0","0"
-"N131","Hydronéphrose avec rétrécissement urétéral, non classée ailleurs","3 348","2 363","5,03","985","0","0"
-"N132","Hydronéphrose avec obstruction calculeuse rénale et urétérale","11 043","6 365","2,99","4 678","1 635","0"
-"N133","Hydronéphroses, autres et sans précision","3 993","3 153","5,82","840","1 à 10","0"
-"N134","Hydro-uretère","130","66","4,91","64","1 à 10","0"
-"N135","Coudure et rétrécissement urétéral, sans hydronéphrose","2 204","1 510","3,62","694","0","0"
-"N136","Pyonéphrose","10 957","10 424","7,79","533","0","0"
-"N137","Uropathie associée à un reflux vésico-urétéral","739","330","3,42","409","0","0"
-"N138","Autres uropathies obstructives et par reflux","428","373","8,59","55","0","0"
-"N139","Uropathie obstructive (et par reflux), sans précision","422","366","8,77","56","0","0"
-"","Total","36 971","27 953","","9 018","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+N130,Hydronéphrose avec obstruction de la jonction pyélo-urétérale,3 707,3 003,"4,59",704,0,0
+N131,"Hydronéphrose avec rétrécissement urétéral, non classée ailleurs",3 348,2 363,"5,03",985,0,0
+N132,Hydronéphrose avec obstruction calculeuse rénale et urétérale,11 043,6 365,"2,99",4 678,1 635,0
+N133,"Hydronéphroses, autres et sans précision",3 993,3 153,"5,82",840,1 à 10,0
+N134,Hydro-uretère,130,66,"4,91",64,1 à 10,0
+N135,"Coudure et rétrécissement urétéral, sans hydronéphrose",2 204,1 510,"3,62",694,0,0
+N136,Pyonéphrose,10 957,10 424,"7,79",533,0,0
+N137,Uropathie associée à un reflux vésico-urétéral,739,330,"3,42",409,0,0
+N138,Autres uropathies obstructives et par reflux,428,373,"8,59",55,0,0
+N139,"Uropathie obstructive (et par reflux), sans précision",422,366,"8,77",56,0,0
+"",Total,36 971,27 953,"",9 018,"",0

@@ -1,10 +1,10 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"C690","Tumeur maligne de la conjonctive","302","112","2,21","190","0","0"
-"C692","Tumeur maligne de la rétine","115","35","2,89","80","0","0"
-"C693","Tumeur maligne de la choroïde","480","217","2,21","263","0","0"
-"C694","Tumeur maligne du corps ciliaire","21","1 à 10","NA","13","0","0"
-"C695","Tumeur maligne de la glande lacrymale et du canal lacrymal","45","32","6,78","13","0","0"
-"C696","Tumeur maligne de l'orbite","130","87","4,60","43","0","0"
-"C698","Tumeur maligne à localisations contiguës de l'oeil et de ses annexes","13","1 à 10","NA","1 à 10","0","0"
-"C699","Tumeur maligne de l'oeil, sans précision","16","1 à 10","NA","1 à 10","0","0"
-"","Total","1 128","506","","622","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+C690,Tumeur maligne de la conjonctive,302,112,"2,21",190,0,0
+C692,Tumeur maligne de la rétine,115,35,"2,89",80,0,0
+C693,Tumeur maligne de la choroïde,480,217,"2,21",263,0,0
+C694,Tumeur maligne du corps ciliaire,21,1 à 10,NA,13,0,0
+C695,Tumeur maligne de la glande lacrymale et du canal lacrymal,45,32,"6,78",13,0,0
+C696,Tumeur maligne de l'orbite,130,87,"4,60",43,0,0
+C698,Tumeur maligne à localisations contiguës de l'oeil et de ses annexes,13,1 à 10,NA,1 à 10,0,0
+C699,"Tumeur maligne de l'oeil, sans précision",16,1 à 10,NA,1 à 10,0,0
+"",Total,1 128,506,"",622,"",0

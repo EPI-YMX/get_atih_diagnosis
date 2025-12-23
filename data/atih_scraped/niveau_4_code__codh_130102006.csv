@@ -1,33 +1,33 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"M100","Goutte idiopathique","218","166","7,72","52","0","0"
-"M1000","Goutte idiopathique - Sièges multiples","720","691","9,00","29","0","0"
-"M1001","Goutte idiopathique - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire","15","15","11,33","0","0","0"
-"M1002","Goutte idiopathique - Articulation du coude","113","75","7,01","38","0","0"
-"M1003","Goutte idiopathique - Articulation du poignet","113","103","9,43","1 à 10","0","0"
-"M1004","Goutte idiopathique - Articulations de la main","177","106","7,32","71","0","0"
-"M1006","Goutte idiopathique - Articulation du genou","631","594","8,58","37","0","0"
-"M1007","Goutte idiopathique - Articulations de la cheville et du pied","886","769","7,72","117","0","0"
-"M1008","Goutte idiopathique - Autres articulations","51","42","12,02","1 à 10","0","0"
-"M1009","Goutte idiopathique - Siège non précisé","20","13","7,08","1 à 10","0","0"
-"M1027","Goutte médicamenteuse - Articulations de la cheville et du pied","13","13","5,08","0","0","0"
-"M103","Goutte due à une altération de la fonction rénale","13","1 à 10","NA","1 à 10","0","0"
-"M1030","Goutte due à une altération de la fonction rénale - Sièges multiples","44","44","10,25","0","0","0"
-"M1036","Goutte due à une altération de la fonction rénale - Articulation du genou","32","32","7,50","0","0","0"
-"M1037","Goutte due à une altération de la fonction rénale - Articulations de la cheville et du pied","41","40","8,90","1 à 10","0","0"
-"M104","Autre goutte secondaire","12","11","6,27","1 à 10","0","0"
-"M1040","Autre goutte secondaire - Sièges multiples","30","29","9,86","1 à 10","0","0"
-"M1043","Autre goutte secondaire - Articulation du poignet","11","11","5,18","0","0","0"
-"M1044","Autre goutte secondaire - Articulations de la main","13","1 à 10","NA","1 à 10","0","0"
-"M1046","Autre goutte secondaire - Articulation du genou","40","39","9,10","1 à 10","0","0"
-"M1047","Autre goutte secondaire - Articulations de la cheville et du pied","29","25","7,08","1 à 10","0","0"
-"M109","Goutte, sans précision","214","164","6,01","50","0","0"
-"M1090","Goutte, sans précision - Sièges multiples","525","362","10,43","163","0","0"
-"M1091","Goutte, sans précision - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire","11","11","6,55","0","0","0"
-"M1092","Goutte, sans précision - Articulation du coude","48","38","6,89","1 à 10","0","0"
-"M1093","Goutte, sans précision - Articulation du poignet","102","92","7,60","1 à 10","0","0"
-"M1094","Goutte, sans précision - Articulations de la main","106","91","7,56","15","0","0"
-"M1096","Goutte, sans précision - Articulation du genou","536","500","8,71","36","0","0"
-"M1097","Goutte, sans précision - Articulations de la cheville et du pied","706","597","7,45","109","0","0"
-"M1098","Goutte, sans précision - Autres articulations","43","33","8,09","1 à 10","0","0"
-"M1099","Goutte, sans précision - Siège non précisé","89","62","4,85","27","0","0"
-"","Total","5 661","4 838","","823","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+M100,Goutte idiopathique,218,166,"7,72",52,0,0
+M1000,Goutte idiopathique - Sièges multiples,720,691,"9,00",29,0,0
+M1001,"Goutte idiopathique - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire",15,15,"11,33",0,0,0
+M1002,Goutte idiopathique - Articulation du coude,113,75,"7,01",38,0,0
+M1003,Goutte idiopathique - Articulation du poignet,113,103,"9,43",1 à 10,0,0
+M1004,Goutte idiopathique - Articulations de la main,177,106,"7,32",71,0,0
+M1006,Goutte idiopathique - Articulation du genou,631,594,"8,58",37,0,0
+M1007,Goutte idiopathique - Articulations de la cheville et du pied,886,769,"7,72",117,0,0
+M1008,Goutte idiopathique - Autres articulations,51,42,"12,02",1 à 10,0,0
+M1009,Goutte idiopathique - Siège non précisé,20,13,"7,08",1 à 10,0,0
+M1027,Goutte médicamenteuse - Articulations de la cheville et du pied,13,13,"5,08",0,0,0
+M103,Goutte due à une altération de la fonction rénale,13,1 à 10,NA,1 à 10,0,0
+M1030,Goutte due à une altération de la fonction rénale - Sièges multiples,44,44,"10,25",0,0,0
+M1036,Goutte due à une altération de la fonction rénale - Articulation du genou,32,32,"7,50",0,0,0
+M1037,Goutte due à une altération de la fonction rénale - Articulations de la cheville et du pied,41,40,"8,90",1 à 10,0,0
+M104,Autre goutte secondaire,12,11,"6,27",1 à 10,0,0
+M1040,Autre goutte secondaire - Sièges multiples,30,29,"9,86",1 à 10,0,0
+M1043,Autre goutte secondaire - Articulation du poignet,11,11,"5,18",0,0,0
+M1044,Autre goutte secondaire - Articulations de la main,13,1 à 10,NA,1 à 10,0,0
+M1046,Autre goutte secondaire - Articulation du genou,40,39,"9,10",1 à 10,0,0
+M1047,Autre goutte secondaire - Articulations de la cheville et du pied,29,25,"7,08",1 à 10,0,0
+M109,"Goutte, sans précision",214,164,"6,01",50,0,0
+M1090,"Goutte, sans précision - Sièges multiples",525,362,"10,43",163,0,0
+M1091,"Goutte, sans précision - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire",11,11,"6,55",0,0,0
+M1092,"Goutte, sans précision - Articulation du coude",48,38,"6,89",1 à 10,0,0
+M1093,"Goutte, sans précision - Articulation du poignet",102,92,"7,60",1 à 10,0,0
+M1094,"Goutte, sans précision - Articulations de la main",106,91,"7,56",15,0,0
+M1096,"Goutte, sans précision - Articulation du genou",536,500,"8,71",36,0,0
+M1097,"Goutte, sans précision - Articulations de la cheville et du pied",706,597,"7,45",109,0,0
+M1098,"Goutte, sans précision - Autres articulations",43,33,"8,09",1 à 10,0,0
+M1099,"Goutte, sans précision - Siège non précisé",89,62,"4,85",27,0,0
+"",Total,5 661,4 838,"",823,"",0

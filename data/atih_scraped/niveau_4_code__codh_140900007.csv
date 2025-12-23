@@ -1,10 +1,10 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"N760","Vaginite (aiguë)","324","184","4,77","140","73","0"
-"N761","Vaginite subaiguë et chronique","25","14","1,93","11","1 à 10","0"
-"N762","Vulvite (aiguë)","94","43","6,95","51","30","0"
-"N763","Vulvite subaiguë et chronique","37","1 à 10","NA","30","1 à 10","0"
-"N764","Abcès de la vulve","1 450","613","2,28","837","256","0"
-"N765","Ulcération du vagin","43","19","2,00","24","1 à 10","0"
-"N766","Ulcération de la vulve","85","43","8,51","42","15","0"
-"N768","Autres inflammations précisées du vagin et de la vulve","324","167","13,98","157","38","0"
-"","Total","2 382","1 090","","1 292","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+N760,Vaginite (aiguë),324,184,"4,77",140,73,0
+N761,Vaginite subaiguë et chronique,25,14,"1,93",11,1 à 10,0
+N762,Vulvite (aiguë),94,43,"6,95",51,30,0
+N763,Vulvite subaiguë et chronique,37,1 à 10,NA,30,1 à 10,0
+N764,Abcès de la vulve,1 450,613,"2,28",837,256,0
+N765,Ulcération du vagin,43,19,"2,00",24,1 à 10,0
+N766,Ulcération de la vulve,85,43,"8,51",42,15,0
+N768,Autres inflammations précisées du vagin et de la vulve,324,167,"13,98",157,38,0
+"",Total,2 382,1 090,"",1 292,"",0

@@ -1,10 +1,10 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"C30","Tumeur maligne des fosses nasales et de l'oreille moyenne","658","464","4,55","194","0","0"
-"C31","Tumeur maligne des sinus de la face","669","532","8,90","137","0","0"
-"C32","Tumeur maligne du larynx","4 591","2 954","12,12","1 637","0","0"
-"C33","Tumeur maligne de la trachée","114","81","10,09","33","13","0"
-"C34","Tumeur maligne des bronches et du poumon","47 477","33 580","10,91","13 897","4 281","0"
-"C37","Tumeur maligne du thymus","697","595","6,70","102","38","0"
-"C38","Tumeur maligne du coeur, du médiastin et de la plèvre","813","688","10,95","125","39","0"
-"C39","Tumeur maligne de l'appareil respiratoire et des organes intrathoraciques, de sièges autres et mal définis","91","65","13,71","26","1 à 10","0"
-"","Total","55 110","38 959","","16 151","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+C30,Tumeur maligne des fosses nasales et de l'oreille moyenne,658,464,"4,55",194,0,0
+C31,Tumeur maligne des sinus de la face,669,532,"8,90",137,0,0
+C32,Tumeur maligne du larynx,4 591,2 954,"12,12",1 637,0,0
+C33,Tumeur maligne de la trachée,114,81,"10,09",33,13,0
+C34,Tumeur maligne des bronches et du poumon,47 477,33 580,"10,91",13 897,4 281,0
+C37,Tumeur maligne du thymus,697,595,"6,70",102,38,0
+C38,"Tumeur maligne du coeur, du médiastin et de la plèvre",813,688,"10,95",125,39,0
+C39,"Tumeur maligne de l'appareil respiratoire et des organes intrathoraciques, de sièges autres et mal définis",91,65,"13,71",26,1 à 10,0
+"",Total,55 110,38 959,"",16 151,"",0

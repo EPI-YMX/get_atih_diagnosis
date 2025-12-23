@@ -1,7 +1,7 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"I150","Hypertension vasculo-rénale","234","166","6,13","68","29","0"
-"I151","Hypertension secondaire à d'autres atteintes rénales","201","136","7,12","65","22","0"
-"I152","Hypertension secondaire à des atteintes endocriniennes","300","115","5,26","185","33","0"
-"I158","Autres hypertensions secondaires","409","237","4,51","172","78","0"
-"I159","Hypertension secondaire, sans précision","290","120","3,25","170","44","0"
-"","Total","1 434","774","","660","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+I150,Hypertension vasculo-rénale,234,166,"6,13",68,29,0
+I151,Hypertension secondaire à d'autres atteintes rénales,201,136,"7,12",65,22,0
+I152,Hypertension secondaire à des atteintes endocriniennes,300,115,"5,26",185,33,0
+I158,Autres hypertensions secondaires,409,237,"4,51",172,78,0
+I159,"Hypertension secondaire, sans précision",290,120,"3,25",170,44,0
+"",Total,1 434,774,"",660,"",0

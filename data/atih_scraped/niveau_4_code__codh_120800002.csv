@@ -1,6 +1,6 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"L813","Taches café au lait","17","1 à 10","NA","15","0","0"
-"L814","Autres hyperpigmentations par la mélanine","116","1 à 10","NA","109","0","0"
-"L817","Dermatose purpurique pigmentée","16","1 à 10","NA","1 à 10","0","0"
-"L818","Autres anomalies précisées de la pigmentation","22","1 à 10","NA","19","0","0"
-"","Total","183","25","","158","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+L813,Taches café au lait,17,1 à 10,NA,15,0,0
+L814,Autres hyperpigmentations par la mélanine,116,1 à 10,NA,109,0,0
+L817,Dermatose purpurique pigmentée,16,1 à 10,NA,1 à 10,0,0
+L818,Autres anomalies précisées de la pigmentation,22,1 à 10,NA,19,0,0
+"",Total,183,25,"",158,"",0

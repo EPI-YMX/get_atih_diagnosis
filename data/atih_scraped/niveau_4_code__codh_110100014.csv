@@ -1,9 +1,9 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"K130","Maladies des lèvres","161","51","3,75","110","1 à 10","0"
-"K131","Morsure de la joue et de la lèvre","44","22","1,82","22","0","0"
-"K132","Leucoplasie et autres anomalies de l'épithélium buccal, y compris la langue","418","127","1,95","291","0","0"
-"K134","Granulome et lésions pseudo-granulomateuses de la muqueuse buccale","68","25","3,40","43","0","0"
-"K135","Fibrose sous-muqueuse de la bouche","18","1 à 10","NA","1 à 10","0","0"
-"K136","Hyperplasie inflammatoire de la muqueuse buccale","117","23","1,22","94","0","0"
-"K137","Lésions de la muqueuse buccale, autres et sans précision","1 412","625","3,96","787","1 à 10","0"
-"","Total","2 238","881","","1 357","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+K130,Maladies des lèvres,161,51,"3,75",110,1 à 10,0
+K131,Morsure de la joue et de la lèvre,44,22,"1,82",22,0,0
+K132,"Leucoplasie et autres anomalies de l'épithélium buccal, y compris la langue",418,127,"1,95",291,0,0
+K134,Granulome et lésions pseudo-granulomateuses de la muqueuse buccale,68,25,"3,40",43,0,0
+K135,Fibrose sous-muqueuse de la bouche,18,1 à 10,NA,1 à 10,0,0
+K136,Hyperplasie inflammatoire de la muqueuse buccale,117,23,"1,22",94,0,0
+K137,"Lésions de la muqueuse buccale, autres et sans précision",1 412,625,"3,96",787,1 à 10,0
+"",Total,2 238,881,"",1 357,"",0

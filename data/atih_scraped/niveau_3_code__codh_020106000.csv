@@ -1,7 +1,7 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"C45","Mésothéliome","1 270","1 098","9,23","172","49","0"
-"C46","Sarcome de Kaposi","183","121","14,86","62","1 à 10","0"
-"C47","Tumeur maligne des nerfs périphériques et du système nerveux autonome","170","112","10,64","58","12","0"
-"C48","Tumeur maligne du rétropéritoine et du péritoine","1 335","990","12,20","345","45","0"
-"C49","Tumeur maligne du tissu conjonctif et des autres tissus mous","3 391","2 423","8,85","968","72","0"
-"","Total","6 349","4 744","","1 605","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+C45,Mésothéliome,1 270,1 098,"9,23",172,49,0
+C46,Sarcome de Kaposi,183,121,"14,86",62,1 à 10,0
+C47,Tumeur maligne des nerfs périphériques et du système nerveux autonome,170,112,"10,64",58,12,0
+C48,Tumeur maligne du rétropéritoine et du péritoine,1 335,990,"12,20",345,45,0
+C49,Tumeur maligne du tissu conjonctif et des autres tissus mous,3 391,2 423,"8,85",968,72,0
+"",Total,6 349,4 744,"",1 605,"",0

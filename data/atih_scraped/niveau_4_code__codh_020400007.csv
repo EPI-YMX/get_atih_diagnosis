@@ -1,9 +1,9 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"D430","Tumeur à évolution imprévisible ou inconnue de l'encéphale, supratentoriel","1 487","1 209","8,42","278","178","0"
-"D431","Tumeur à évolution imprévisible ou inconnue de l'encéphale, infratentoriel","374","282","10,61","92","46","0"
-"D432","Tumeur à évolution imprévisible ou inconnue de l'encéphale, sans précision","893","696","9,00","197","135","0"
-"D433","Tumeur à évolution imprévisible ou inconnue des nerfs crâniens","12","1 à 10","NA","1 à 10","1 à 10","0"
-"D434","Tumeur à évolution imprévisible ou inconnue de la moelle épinière","96","80","11,96","16","1 à 10","0"
-"D437","Tumeur à évolution imprévisible ou inconnue d'autres parties du système nerveux central","61","45","11,64","16","12","0"
-"D439","Tumeur à évolution imprévisible ou inconnue du système nerveux (central), sans précision","24","19","6,89","1 à 10","1 à 10","0"
-"","Total","2 947","2 341","","606","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+D430,"Tumeur à évolution imprévisible ou inconnue de l'encéphale, supratentoriel",1 487,1 209,"8,42",278,178,0
+D431,"Tumeur à évolution imprévisible ou inconnue de l'encéphale, infratentoriel",374,282,"10,61",92,46,0
+D432,"Tumeur à évolution imprévisible ou inconnue de l'encéphale, sans précision",893,696,"9,00",197,135,0
+D433,Tumeur à évolution imprévisible ou inconnue des nerfs crâniens,12,1 à 10,NA,1 à 10,1 à 10,0
+D434,Tumeur à évolution imprévisible ou inconnue de la moelle épinière,96,80,"11,96",16,1 à 10,0
+D437,Tumeur à évolution imprévisible ou inconnue d'autres parties du système nerveux central,61,45,"11,64",16,12,0
+D439,"Tumeur à évolution imprévisible ou inconnue du système nerveux (central), sans précision",24,19,"6,89",1 à 10,1 à 10,0
+"",Total,2 947,2 341,"",606,"",0

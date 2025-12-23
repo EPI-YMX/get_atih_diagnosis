@@ -1,5 +1,5 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"C080","Tumeur maligne de la glande sous-maxillaire","115","104","5,02","11","0","0"
-"C088","Tumeur maligne à localisations contiguës des glandes salivaires principales","38","26","5,23","12","0","0"
-"C089","Tumeur maligne de la glande salivaire (principale), sans précision","30","23","7,17","1 à 10","0","0"
-"","Total","193","163","","30","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+C080,Tumeur maligne de la glande sous-maxillaire,115,104,"5,02",11,0,0
+C088,Tumeur maligne à localisations contiguës des glandes salivaires principales,38,26,"5,23",12,0,0
+C089,"Tumeur maligne de la glande salivaire (principale), sans précision",30,23,"7,17",1 à 10,0,0
+"",Total,193,163,"",30,"",0

@@ -1,8 +1,0 @@
-Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
-C400,Tumeur maligne de l'omoplate et des os longs du membre supérieur,148,116,"7,34",32,1 à 10,0
-C401,Tumeur maligne des os courts du membre supérieur,30,17,"5,65",13,1 à 10,0
-C402,Tumeur maligne des os longs du membre inférieur,584,439,"9,23",145,18,0
-C403,Tumeur maligne des os courts du membre inférieur,42,26,"8,23",16,1 à 10,0
-C408,Tumeur maligne à localisations contiguës des os et du cartilage articulaire des membres,15,13,"12,62",1 à 10,0,0
-C409,"Tumeur maligne des os et du cartilage articulaire d'un membre, sans précision",15,1 à 10,NA,1 à 10,1 à 10,0
-"",Total,834,619,"",215,"",0

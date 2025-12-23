@@ -1,7 +1,7 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"H300","Choriorétinite en foyer","40","36","7,97","1 à 10","0","0"
-"H301","Choriorétinite disséminée","44","27","7,00","17","0","0"
-"H302","Cyclite postérieure","101","75","4,73","26","0","0"
-"H308","Autres choriorétinites","77","57","7,05","20","0","0"
-"H309","Choriorétinite, sans précision","78","52","4,92","26","0","0"
-"","Total","340","247","","93","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+H300,Choriorétinite en foyer,40,36,"7,97",1 à 10,0,0
+H301,Choriorétinite disséminée,44,27,"7,00",17,0,0
+H302,Cyclite postérieure,101,75,"4,73",26,0,0
+H308,Autres choriorétinites,77,57,"7,05",20,0,0
+H309,"Choriorétinite, sans précision",78,52,"4,92",26,0,0
+"",Total,340,247,"",93,"",0

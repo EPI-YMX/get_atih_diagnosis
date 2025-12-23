@@ -1,5 +1,5 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"L200","Prurigo de Besnier","25","24","6,46","1 à 10","0","0"
-"L208","Autres dermites atopiques","1 135","925","5,43","210","0","0"
-"L209","Dermite atopique, sans précision","599","292","4,96","307","0","0"
-"","Total","1 759","1 241","","518","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+L200,Prurigo de Besnier,25,24,"6,46",1 à 10,0,0
+L208,Autres dermites atopiques,1 135,925,"5,43",210,0,0
+L209,"Dermite atopique, sans précision",599,292,"4,96",307,0,0
+"",Total,1 759,1 241,"",518,"",0

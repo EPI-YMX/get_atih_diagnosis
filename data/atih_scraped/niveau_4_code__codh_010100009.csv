@@ -1,8 +1,8 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"A080","Entérite à rotavirus","8 627","5 954","3,30","2 673","2 357","0"
-"A081","Gastroentéropathie aigüe due à un norovirus","1 354","868","5,38","486","383","0"
-"A082","Entérite à adénovirus","1 763","1 111","3,47","652","561","0"
-"A083","Autres entérites virales","2 195","961","3,95","1 234","925","0"
-"A084","Infections intestinales virales, sans précision","5 586","1 792","3,85","3 794","2 747","0"
-"A085","Autres infections intestinales précisées","173","82","5,57","91","59","0"
-"","Total","19 698","10 768","","8 930","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+A080,Entérite à rotavirus,8 627,5 954,"3,30",2 673,2 357,0
+A081,Gastroentéropathie aigüe due à un norovirus,1 354,868,"5,38",486,383,0
+A082,Entérite à adénovirus,1 763,1 111,"3,47",652,561,0
+A083,Autres entérites virales,2 195,961,"3,95",1 234,925,0
+A084,"Infections intestinales virales, sans précision",5 586,1 792,"3,85",3 794,2 747,0
+A085,Autres infections intestinales précisées,173,82,"5,57",91,59,0
+"",Total,19 698,10 768,"",8 930,"",0

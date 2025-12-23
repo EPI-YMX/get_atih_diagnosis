@@ -1,23 +1,23 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"010000000","Certaines maladies infectieuses et parasitaires","209 720","138 288","8,39","71 432","41 225","0"
-"020000000","Tumeurs","776 776","541 993","6,51","234 783","21 862","0"
-"030000000","Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire","172 529","106 090","7,87","66 439","32 413","0"
-"040000000","Maladies endocriniennes, nutritionnelles et métaboliques","289 204","193 052","7,07","96 152","23 358","0"
-"050000000","Troubles mentaux et du comportement","368 893","183 630","6,85","185 263","52 489","0"
-"060000000","Maladies du système nerveux","312 013","145 497","8,10","166 516","39 444","0"
-"070000000","Maladies de l'oeil et des annexes","405 248","45 470","3,05","359 778","212","0"
-"080000000","Maladies de l'oreille et de l'apophyse mastoïde","80 698","24 491","3,90","56 207","13 433","0"
-"090000000","Maladies de l'appareil circulatoire","1 169 939","801 256","8,12","368 683","135 420","0"
-"100000000","Maladies de l'appareil respiratoire","753 899","522 698","7,76","231 201","105 470","0"
-"110000000","Maladies de l'appareil digestif","1 129 188","593 985","5,67","535 203","78 631","0"
-"120000000","Maladies de la peau et du tissu cellulaire sous-cutané","165 002","78 098","7,85","86 904","6 034","0"
-"130000000","Maladies du système ostéo-articulaire, des muscles et du tissu conjonctif","540 197","342 492","6,92","197 705","19 376","0"
-"140000000","Maladies de l'appareil génito-urinaire","639 735","408 642","5,23","231 093","31 637","0"
-"150000000","Grossesse, accouchement et puerpéralité","876 709","767 580","3,68","109 129","16 866","0"
-"160000000","Certaines affections dont l'origine se situe dans la période périnatale","115 176","114 690","10,61","486","69","0"
-"170000000","Malformation congénitales et anomalies chromosomiques","68 310","35 183","5,92","33 127","2 591","0"
-"180000000","Symptômes, signes et réultats anormaux d'examens cliniques et de laboratoire, non classés ailleurs","1 077 841","348 989","5,04","728 852","206 628","0"
-"190000000","Lésions traumatiques, empoisonnements et certaines autres conséquences de causes externes","959 696","663 318","6,11","296 378","101 293","0"
-"210000000","Facteurs influant sur l'état de santé et motifs de recours aux services de santé","10 745 204","1 747 366","2,71","1 126 798","134 034","7 871 040"
-"220000000","Codes d'utilisations particulière","58 267","46 081","9,91","12 186","8 479","0"
-"","Total","20 914 244","7 848 889","","5 194 315","","7 871 040"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+010000000,Certaines maladies infectieuses et parasitaires,209 720,138 288,"8,39",71 432,41 225,0
+020000000,Tumeurs,776 776,541 993,"6,51",234 783,21 862,0
+030000000,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,172 529,106 090,"7,87",66 439,32 413,0
+040000000,"Maladies endocriniennes, nutritionnelles et métaboliques",289 204,193 052,"7,07",96 152,23 358,0
+050000000,Troubles mentaux et du comportement,368 893,183 630,"6,85",185 263,52 489,0
+060000000,Maladies du système nerveux,312 013,145 497,"8,10",166 516,39 444,0
+070000000,Maladies de l'oeil et des annexes,405 248,45 470,"3,05",359 778,212,0
+080000000,Maladies de l'oreille et de l'apophyse mastoïde,80 698,24 491,"3,90",56 207,13 433,0
+090000000,Maladies de l'appareil circulatoire,1 169 939,801 256,"8,12",368 683,135 420,0
+100000000,Maladies de l'appareil respiratoire,753 899,522 698,"7,76",231 201,105 470,0
+110000000,Maladies de l'appareil digestif,1 129 188,593 985,"5,67",535 203,78 631,0
+120000000,Maladies de la peau et du tissu cellulaire sous-cutané,165 002,78 098,"7,85",86 904,6 034,0
+130000000,"Maladies du système ostéo-articulaire, des muscles et du tissu conjonctif",540 197,342 492,"6,92",197 705,19 376,0
+140000000,Maladies de l'appareil génito-urinaire,639 735,408 642,"5,23",231 093,31 637,0
+150000000,"Grossesse, accouchement et puerpéralité",876 709,767 580,"3,68",109 129,16 866,0
+160000000,Certaines affections dont l'origine se situe dans la période périnatale,115 176,114 690,"10,61",486,69,0
+170000000,Malformation congénitales et anomalies chromosomiques,68 310,35 183,"5,92",33 127,2 591,0
+180000000,"Symptômes, signes et réultats anormaux d'examens cliniques et de laboratoire, non classés ailleurs",1 077 841,348 989,"5,04",728 852,206 628,0
+190000000,"Lésions traumatiques, empoisonnements et certaines autres conséquences de causes externes",959 696,663 318,"6,11",296 378,101 293,0
+210000000,Facteurs influant sur l'état de santé et motifs de recours aux services de santé,10 745 204,1 747 366,"2,71",1 126 798,134 034,7 871 040
+220000000,Codes d'utilisations particulière,58 267,46 081,"9,91",12 186,8 479,0
+"",Total,20 914 244,7 848 889,"",5 194 315,"",7 871 040

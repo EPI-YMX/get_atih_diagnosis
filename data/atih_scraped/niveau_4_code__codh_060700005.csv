@@ -1,9 +1,9 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"G540","Affections du plexus brachial","568","381","4,35","187","35","0"
-"G541","Affections du plexus lombosacré","46","27","7,63","19","1 à 10","0"
-"G542","Affections radiculaires cervicales, non classées ailleurs","269","62","5,58","207","46","0"
-"G544","Affections radiculaires lombosacrées, non classées ailleurs","114","58","7,28","56","25","0"
-"G545","Névralgie amyotrophique","99","60","8,20","39","11","0"
-"G546","Syndrome douloureux du membre fantôme","54","31","16,84","23","1 à 10","0"
-"G548","Autres affections des racines et des plexus nerveux","96","62","6,60","34","14","0"
-"","Total","1 255","681","","574","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+G540,Affections du plexus brachial,568,381,"4,35",187,35,0
+G541,Affections du plexus lombosacré,46,27,"7,63",19,1 à 10,0
+G542,"Affections radiculaires cervicales, non classées ailleurs",269,62,"5,58",207,46,0
+G544,"Affections radiculaires lombosacrées, non classées ailleurs",114,58,"7,28",56,25,0
+G545,Névralgie amyotrophique,99,60,"8,20",39,11,0
+G546,Syndrome douloureux du membre fantôme,54,31,"16,84",23,1 à 10,0
+G548,Autres affections des racines et des plexus nerveux,96,62,"6,60",34,14,0
+"",Total,1 255,681,"",574,"",0

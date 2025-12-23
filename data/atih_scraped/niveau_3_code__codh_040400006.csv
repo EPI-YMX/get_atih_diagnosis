@@ -1,17 +1,17 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"E20","Hypoparathyroïdie","208","106","7,08","102","17","0"
-"E21","Hyperparathyroïdie et autres maladies de la glande parathyroïde","5 593","3 422","3,18","2 171","98","0"
-"E22","Hypersécrétion de l'hypophyse","1 771","1 189","10,43","582","74","0"
-"E23","Hyposécrétion et autres anomalies de l'hypophyse","3 353","988","6,59","2 365","126","0"
-"E24","Syndrome de Cushing","1 337","1 163","5,25","174","55","0"
-"E25","Anomalies génito-surrénaliennes","215","46","7,35","169","17","0"
-"E26","Hyperaldostéronisme","1 036","569","3,85","467","94","0"
-"E27","Autres maladies de la glande surrénale","3 677","2 515","6,98","1 162","325","0"
-"E28","Dysfonction ovarienne","1 833","96","2,55","1 737","14","0"
-"E29","Dysfonction testiculaire","114","1 à 10","NA","105","1 à 10","0"
-"E30","Anomalies de la puberté, non classées ailleurs","2 375","1 à 10","NA","2 366","1 à 10","0"
-"E31","Dysfonctionnement pluriglandulaire","32","27","6,26","1 à 10","1 à 10","0"
-"E32","Maladies du thymus","65","55","3,71","1 à 10","0","0"
-"E34","Autres troubles endocriniens","2 589","95","7,33","2 494","25","0"
-"E35","Anomalies endocriniennes au cours de maladies classées ailleurs","34","24","3,58","1 à 10","1 à 10","0"
-"","Total","24 232","10 313","","13 919","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+E20,Hypoparathyroïdie,208,106,"7,08",102,17,0
+E21,Hyperparathyroïdie et autres maladies de la glande parathyroïde,5 593,3 422,"3,18",2 171,98,0
+E22,Hypersécrétion de l'hypophyse,1 771,1 189,"10,43",582,74,0
+E23,Hyposécrétion et autres anomalies de l'hypophyse,3 353,988,"6,59",2 365,126,0
+E24,Syndrome de Cushing,1 337,1 163,"5,25",174,55,0
+E25,Anomalies génito-surrénaliennes,215,46,"7,35",169,17,0
+E26,Hyperaldostéronisme,1 036,569,"3,85",467,94,0
+E27,Autres maladies de la glande surrénale,3 677,2 515,"6,98",1 162,325,0
+E28,Dysfonction ovarienne,1 833,96,"2,55",1 737,14,0
+E29,Dysfonction testiculaire,114,1 à 10,NA,105,1 à 10,0
+E30,"Anomalies de la puberté, non classées ailleurs",2 375,1 à 10,NA,2 366,1 à 10,0
+E31,Dysfonctionnement pluriglandulaire,32,27,"6,26",1 à 10,1 à 10,0
+E32,Maladies du thymus,65,55,"3,71",1 à 10,0,0
+E34,Autres troubles endocriniens,2 589,95,"7,33",2 494,25,0
+E35,Anomalies endocriniennes au cours de maladies classées ailleurs,34,24,"3,58",1 à 10,1 à 10,0
+"",Total,24 232,10 313,"",13 919,"",0

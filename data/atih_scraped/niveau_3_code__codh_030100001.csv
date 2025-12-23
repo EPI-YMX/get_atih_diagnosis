@@ -1,6 +1,6 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"D50","Anémie par carence en fer","55 164","29 112","7,51","26 052","12 478","0"
-"D51","Anémie par carence en vitamine B12","2 226","1 019","8,60","1 207","236","0"
-"D52","Anémie par carence en acide folique","2 556","1 924","9,39","632","412","0"
-"D53","Autres anémies nutritionnelles","309","157","9,07","152","107","0"
-"","Total","60 255","32 212","","28 043","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+D50,Anémie par carence en fer,55 164,29 112,"7,51",26 052,12 478,0
+D51,Anémie par carence en vitamine B12,2 226,1 019,"8,60",1 207,236,0
+D52,Anémie par carence en acide folique,2 556,1 924,"9,39",632,412,0
+D53,Autres anémies nutritionnelles,309,157,"9,07",152,107,0
+"",Total,60 255,32 212,"",28 043,"",0

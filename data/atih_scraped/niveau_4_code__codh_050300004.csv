@@ -1,20 +1,20 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"F230","Trouble psychotique aigu polymorphe, (sans symptômes schizophréniques)","833","314","4,88","519","331","0"
-"F2300","Trouble psychotique aigu polymorphe sans symptôme schizophrénique, sans facteur de stress aigu associé","91","53","8,68","38","18","0"
-"F2301","Trouble psychotique aigu polymorphe sans symptôme schizophrénique, avec facteur de stress aigu associé","70","32","4,72","38","26","0"
-"F231","Trouble psychotique aigu polymorphe avec symptômes schizophréniques","263","106","4,18","157","96","0"
-"F2310","Trouble psychotique aigu polymorphe avec symptômes schizophréniques, sans facteur de stress aigu associé","37","18","6,00","19","12","0"
-"F2311","Trouble psychotique aigu polymorphe avec symptômes schizophréniques, avec facteur de stress aigu associé","27","1 à 10","NA","18","14","0"
-"F232","Trouble psychotique aigu d'allure schizophrénique","492","126","4,87","366","215","0"
-"F2320","Trouble psychotique aigu d'allure schizophrénique, sans facteur de stress aigu associé","76","27","6,26","49","22","0"
-"F2321","Trouble psychotique aigu d'allure schizophrénique, avec facteur de stress aigu associé","44","1 à 10","NA","34","19","0"
-"F233","Autre trouble psychotique aigu, essentiellement délirant","587","175","7,50","412","210","0"
-"F2330","Autre trouble psychotique aigu, essentiellement délirant, sans facteur de stress aigu associé","122","48","8,77","74","41","0"
-"F2331","Autre trouble psychotique aigu, essentiellement délirant, avec facteur de stress aigu associé","94","31","9,58","63","40","0"
-"F238","Autres troubles psychotiques aigus et transitoires","267","86","8,83","181","102","0"
-"F2380","Autres troubles psychotiques aigus et transitoires, sans facteur de stress aigu associé","76","17","6,53","59","31","0"
-"F2381","Autres troubles psychotiques aigus et transitoires, avec facteur de stress aigu associé","62","24","5,00","38","24","0"
-"F239","Trouble psychotique aigu et transitoire, sans précision","762","175","4,73","587","319","0"
-"F2390","Trouble psychotique aigu et transitoire, sans précision, sans facteur de stress aigu associé","114","31","6,71","83","43","0"
-"F2391","Trouble psychotique aigu et transitoire, sans précision, avec facteur de stress aigu associé","92","32","4,31","60","38","0"
-"","Total","4 109","1 314","","2 795","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+F230,"Trouble psychotique aigu polymorphe, (sans symptômes schizophréniques)",833,314,"4,88",519,331,0
+F2300,"Trouble psychotique aigu polymorphe sans symptôme schizophrénique, sans facteur de stress aigu associé",91,53,"8,68",38,18,0
+F2301,"Trouble psychotique aigu polymorphe sans symptôme schizophrénique, avec facteur de stress aigu associé",70,32,"4,72",38,26,0
+F231,Trouble psychotique aigu polymorphe avec symptômes schizophréniques,263,106,"4,18",157,96,0
+F2310,"Trouble psychotique aigu polymorphe avec symptômes schizophréniques, sans facteur de stress aigu associé",37,18,"6,00",19,12,0
+F2311,"Trouble psychotique aigu polymorphe avec symptômes schizophréniques, avec facteur de stress aigu associé",27,1 à 10,NA,18,14,0
+F232,Trouble psychotique aigu d'allure schizophrénique,492,126,"4,87",366,215,0
+F2320,"Trouble psychotique aigu d'allure schizophrénique, sans facteur de stress aigu associé",76,27,"6,26",49,22,0
+F2321,"Trouble psychotique aigu d'allure schizophrénique, avec facteur de stress aigu associé",44,1 à 10,NA,34,19,0
+F233,"Autre trouble psychotique aigu, essentiellement délirant",587,175,"7,50",412,210,0
+F2330,"Autre trouble psychotique aigu, essentiellement délirant, sans facteur de stress aigu associé",122,48,"8,77",74,41,0
+F2331,"Autre trouble psychotique aigu, essentiellement délirant, avec facteur de stress aigu associé",94,31,"9,58",63,40,0
+F238,Autres troubles psychotiques aigus et transitoires,267,86,"8,83",181,102,0
+F2380,"Autres troubles psychotiques aigus et transitoires, sans facteur de stress aigu associé",76,17,"6,53",59,31,0
+F2381,"Autres troubles psychotiques aigus et transitoires, avec facteur de stress aigu associé",62,24,"5,00",38,24,0
+F239,"Trouble psychotique aigu et transitoire, sans précision",762,175,"4,73",587,319,0
+F2390,"Trouble psychotique aigu et transitoire, sans précision, sans facteur de stress aigu associé",114,31,"6,71",83,43,0
+F2391,"Trouble psychotique aigu et transitoire, sans précision, avec facteur de stress aigu associé",92,32,"4,31",60,38,0
+"",Total,4 109,1 314,"",2 795,"",0

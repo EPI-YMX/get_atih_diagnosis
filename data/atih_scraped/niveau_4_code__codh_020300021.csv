@@ -1,7 +1,7 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"D300","Tumeur bénigne du rein","1 234","687","3,65","547","184","0"
-"D301","Tumeur bénigne du bassinet rénal","12","12","3,75","0","0","0"
-"D302","Tumeur bénigne de l'uretère","40","32","2,28","1 à 10","0","0"
-"D303","Tumeur bénigne de la vessie","1 328","1 224","2,71","104","1 à 10","0"
-"D304","Tumeur bénigne de l'urètre","53","34","1,88","19","1 à 10","0"
-"","Total","2 669","1 989","","680","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+D300,Tumeur bénigne du rein,1 234,687,"3,65",547,184,0
+D301,Tumeur bénigne du bassinet rénal,12,12,"3,75",0,0,0
+D302,Tumeur bénigne de l'uretère,40,32,"2,28",1 à 10,0,0
+D303,Tumeur bénigne de la vessie,1 328,1 224,"2,71",104,1 à 10,0
+D304,Tumeur bénigne de l'urètre,53,34,"1,88",19,1 à 10,0
+"",Total,2 669,1 989,"",680,"",0

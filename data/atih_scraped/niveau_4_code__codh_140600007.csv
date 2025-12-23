@@ -1,7 +1,7 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"N360","Fistule urétrale","650","608","5,11","42","0","0"
-"N361","Diverticule urétral","125","88","2,03","37","0","0"
-"N362","Caroncule urétrale","119","53","1,77","66","0","0"
-"N363","Prolapsus de la muqueuse urétrale","107","73","1,79","34","0","0"
-"N368","Autres affections précisées de l'urètre","491","375","2,98","116","1 à 10","0"
-"","Total","1 492","1 197","","295","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+N360,Fistule urétrale,650,608,"5,11",42,0,0
+N361,Diverticule urétral,125,88,"2,03",37,0,0
+N362,Caroncule urétrale,119,53,"1,77",66,0,0
+N363,Prolapsus de la muqueuse urétrale,107,73,"1,79",34,0,0
+N368,Autres affections précisées de l'urètre,491,375,"2,98",116,1 à 10,0
+"",Total,1 492,1 197,"",295,"",0

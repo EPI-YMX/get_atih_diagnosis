@@ -1,10 +1,10 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"K560","Iléus paralytique","1 330","1 049","10,44","281","199","0"
-"K561","Invagination (intestinale)","1 890","1 877","2,59","13","0","0"
-"K562","Volvulus (intestinal)","4 548","3 723","9,13","825","507","0"
-"K563","Iléus biliaire","235","218","12,00","17","1 à 10","0"
-"K564","Autres obstructions de l'intestin","12 949","8 206","9,04","4 743","3 223","0"
-"K565","Adhérences de l'intestin (brides), avec occlusion","16 876","15 180","7,54","1 696","1 001","0"
-"K566","Occlusions intestinales, autres et sans précision","26 824","21 101","9,37","5 723","3 232","0"
-"K567","Iléus, sans précision","258","177","8,44","81","52","0"
-"","Total","64 910","51 531","","13 379","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+K560,Iléus paralytique,1 330,1 049,"10,44",281,199,0
+K561,Invagination (intestinale),1 890,1 877,"2,59",13,0,0
+K562,Volvulus (intestinal),4 548,3 723,"9,13",825,507,0
+K563,Iléus biliaire,235,218,"12,00",17,1 à 10,0
+K564,Autres obstructions de l'intestin,12 949,8 206,"9,04",4 743,3 223,0
+K565,"Adhérences de l'intestin (brides), avec occlusion",16 876,15 180,"7,54",1 696,1 001,0
+K566,"Occlusions intestinales, autres et sans précision",26 824,21 101,"9,37",5 723,3 232,0
+K567,"Iléus, sans précision",258,177,"8,44",81,52,0
+"",Total,64 910,51 531,"",13 379,"",0

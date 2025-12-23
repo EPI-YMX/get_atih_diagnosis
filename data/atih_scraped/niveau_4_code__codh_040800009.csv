@@ -1,10 +1,10 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"E780","Hypercholestérolémie essentielle","870","67","3,87","803","0","0"
-"E781","Hyperglycéridémie essentielle","389","245","5,02","144","0","0"
-"E782","Hyperlipidémie mixte","181","30","5,17","151","0","0"
-"E784","Autres hyperlipidémies","34","12","4,50","22","0","0"
-"E785","Hyperlipidémie, sans précision","104","32","5,31","72","0","0"
-"E786","Déficit en lipoprotéines","15","1 à 10","NA","1 à 10","0","0"
-"E788","Autres anomalies du métabolisme des lipoprotéines","46","19","10,53","27","0","0"
-"E789","Anomalie du métabolisme des lipoprotéines, sans précision","13","1 à 10","NA","1 à 10","0","0"
-"","Total","1 657","424","","1 233","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+E780,Hypercholestérolémie essentielle,870,67,"3,87",803,0,0
+E781,Hyperglycéridémie essentielle,389,245,"5,02",144,0,0
+E782,Hyperlipidémie mixte,181,30,"5,17",151,0,0
+E784,Autres hyperlipidémies,34,12,"4,50",22,0,0
+E785,"Hyperlipidémie, sans précision",104,32,"5,31",72,0,0
+E786,Déficit en lipoprotéines,15,1 à 10,NA,1 à 10,0,0
+E788,Autres anomalies du métabolisme des lipoprotéines,46,19,"10,53",27,0,0
+E789,"Anomalie du métabolisme des lipoprotéines, sans précision",13,1 à 10,NA,1 à 10,0,0
+"",Total,1 657,424,"",1 233,"",0

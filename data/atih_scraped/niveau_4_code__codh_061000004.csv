@@ -1,10 +1,10 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"G830","Diplégie des membres supérieurs","82","51","5,06","31","0","0"
-"G831","Monoplégie d'un membre inférieur","1 457","850","8,49","607","294","0"
-"G832","Monoplégie d'un membre supérieur","1 493","729","7,48","764","368","0"
-"G833","Monoplégie, sans précision","45","1 à 10","NA","35","17","0"
-"G834","Syndrome de la queue de cheval","576","369","9,69","207","95","0"
-"G836","Paralysie faciale du neurone moteur supérieur [NMS] [MNS]","505","244","7,41","261","136","0"
-"G838","Autres syndromes paralytiques précisés","467","248","8,01","219","107","0"
-"G839","Syndrome paralytique, sans précision","65","16","5,13","49","17","0"
-"","Total","4 696","2 523","","2 173","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+G830,Diplégie des membres supérieurs,82,51,"5,06",31,0,0
+G831,Monoplégie d'un membre inférieur,1 457,850,"8,49",607,294,0
+G832,Monoplégie d'un membre supérieur,1 493,729,"7,48",764,368,0
+G833,"Monoplégie, sans précision",45,1 à 10,NA,35,17,0
+G834,Syndrome de la queue de cheval,576,369,"9,69",207,95,0
+G836,Paralysie faciale du neurone moteur supérieur [NMS] [MNS],505,244,"7,41",261,136,0
+G838,Autres syndromes paralytiques précisés,467,248,"8,01",219,107,0
+G839,"Syndrome paralytique, sans précision",65,16,"5,13",49,17,0
+"",Total,4 696,2 523,"",2 173,"",0

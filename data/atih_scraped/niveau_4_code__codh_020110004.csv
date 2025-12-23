@@ -1,12 +1,12 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"C670","Tumeur maligne du trigone de la vessie","1 241","1 187","6,45","54","1 à 10","0"
-"C671","Tumeur maligne du dôme de la vessie","906","865","4,06","41","1 à 10","0"
-"C672","Tumeur maligne de la paroi latérale de la vessie","3 453","3 367","4,34","86","1 à 10","0"
-"C673","Tumeur maligne de la paroi antérieure de la vessie","504","489","4,99","15","1 à 10","0"
-"C674","Tumeur maligne de la paroi postérieure de la vessie","590","557","5,21","33","1 à 10","0"
-"C675","Tumeur maligne du col vésical","536","509","5,16","27","1 à 10","0"
-"C676","Tumeur maligne de l'orifice urétéral","324","302","4,29","22","1 à 10","0"
-"C677","Tumeur maligne de l'ouraque","32","28","9,39","1 à 10","1 à 10","0"
-"C678","Tumeur maligne à localisations contiguës de la vessie","2 367","2 284","6,71","83","1 à 10","0"
-"C679","Tumeur maligne de la vessie, sans précision","16 711","15 793","5,68","918","140","0"
-"","Total","26 664","25 381","","1 283","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+C670,Tumeur maligne du trigone de la vessie,1 241,1 187,"6,45",54,1 à 10,0
+C671,Tumeur maligne du dôme de la vessie,906,865,"4,06",41,1 à 10,0
+C672,Tumeur maligne de la paroi latérale de la vessie,3 453,3 367,"4,34",86,1 à 10,0
+C673,Tumeur maligne de la paroi antérieure de la vessie,504,489,"4,99",15,1 à 10,0
+C674,Tumeur maligne de la paroi postérieure de la vessie,590,557,"5,21",33,1 à 10,0
+C675,Tumeur maligne du col vésical,536,509,"5,16",27,1 à 10,0
+C676,Tumeur maligne de l'orifice urétéral,324,302,"4,29",22,1 à 10,0
+C677,Tumeur maligne de l'ouraque,32,28,"9,39",1 à 10,1 à 10,0
+C678,Tumeur maligne à localisations contiguës de la vessie,2 367,2 284,"6,71",83,1 à 10,0
+C679,"Tumeur maligne de la vessie, sans précision",16 711,15 793,"5,68",918,140,0
+"",Total,26 664,25 381,"",1 283,"",0

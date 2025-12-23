@@ -1,12 +1,12 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"M122","Synovite villonodulaire (pigmentaire)","16","1 à 10","NA","11","0","0"
-"M1224","Synovite villonodulaire (pigmentaire) - Articulations de la main","37","1 à 10","NA","31","0","0"
-"M1225","Synovite villonodulaire (pigmentaire) - Articulations de la hanche et sacro-iliaque","13","11","3,09","1 à 10","0","0"
-"M1226","Synovite villonodulaire (pigmentaire) - Articulation du genou","260","113","3,38","147","0","0"
-"M1227","Synovite villonodulaire (pigmentaire) - Articulations de la cheville et du pied","45","14","1,86","31","0","0"
-"M1246","Hydarthrose intermittente - Articulation du genou","129","11","7,18","118","0","0"
-"M1251","Arthropathie traumatique - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire","29","14","5,64","15","0","0"
-"M1256","Arthropathie traumatique - Articulation du genou","12","1 à 10","NA","1 à 10","0","0"
-"M1257","Arthropathie traumatique - Articulations de la cheville et du pied","21","11","3,09","1 à 10","0","0"
-"M1281","Autres arthropathies spécifiques, non classées ailleurs - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire","71","16","2,88","55","0","0"
-"","Total","719","264","","455","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+M122,Synovite villonodulaire (pigmentaire),16,1 à 10,NA,11,0,0
+M1224,Synovite villonodulaire (pigmentaire) - Articulations de la main,37,1 à 10,NA,31,0,0
+M1225,Synovite villonodulaire (pigmentaire) - Articulations de la hanche et sacro-iliaque,13,11,"3,09",1 à 10,0,0
+M1226,Synovite villonodulaire (pigmentaire) - Articulation du genou,260,113,"3,38",147,0,0
+M1227,Synovite villonodulaire (pigmentaire) - Articulations de la cheville et du pied,45,14,"1,86",31,0,0
+M1246,Hydarthrose intermittente - Articulation du genou,129,11,"7,18",118,0,0
+M1251,"Arthropathie traumatique - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire",29,14,"5,64",15,0,0
+M1256,Arthropathie traumatique - Articulation du genou,12,1 à 10,NA,1 à 10,0,0
+M1257,Arthropathie traumatique - Articulations de la cheville et du pied,21,11,"3,09",1 à 10,0,0
+M1281,"Autres arthropathies spécifiques, non classées ailleurs - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire",71,16,"2,88",55,0,0
+"",Total,719,264,"",455,"",0

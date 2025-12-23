@@ -1,9 +1,0 @@
-Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
-S250,Lésion traumatique de l'aorte thoracique,144,113,"13,85",31,16,0
-S251,Lésion traumatique de l'artère innominée ou sous-clavière,26,21,"13,90",1 à 10,1 à 10,0
-S254,Lésion traumatique de vaisseaux sanguins du poumon,16,14,"9,71",1 à 10,1 à 10,0
-S255,Lésion traumatique de vaisseaux sanguins intercostaux,11,1 à 10,NA,1 à 10,1 à 10,0
-S257,Lésions traumatiques de multiples vaisseaux sanguins du thorax,15,11,"10,18",1 à 10,1 à 10,0
-S2588,Lésion traumatique d'autres vaisseaux sanguins du thorax sauf de la veine azygos,64,47,"6,26",17,1 à 10,0
-S259,Lésion traumatique d'un vaisseau sanguin non précisé du thorax,12,1 à 10,NA,1 à 10,1 à 10,0
-"",Total,299,227,"",72,"",0

@@ -1,9 +1,9 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"F50","Troubles de l'alimentation, non organique","7 577","4 286","21,72","3 291","0","0"
-"F51","Troubles du sommeil non organiques","301","123","6,85","178","89","0"
-"F52","Dysfonctionnement sexuel, non dû à un trouble ou à une maladie organique","76","26","6,23","50","1 à 10","0"
-"F53","Troubles mentaux et du comportement associés à la puerpéralité, non classés ailleurs","202","94","5,19","108","53","0"
-"F54","Facteurs psychologiques et comportementaux associés à des maladies ou des troubles classés ailleurs","75","37","12,54","38","22","0"
-"F55","Abus de substances n'entraînant pas de dépendance","45","24","5,00","21","13","0"
-"F59","Syndromes comportementaux non précisés associés à des perturbations physiologiques et à des facteurs physiques","60","18","4,39","42","23","0"
-"","Total","8 336","4 608","","3 728","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+F50,"Troubles de l'alimentation, non organique",7 577,4 286,"21,72",3 291,0,0
+F51,Troubles du sommeil non organiques,301,123,"6,85",178,89,0
+F52,"Dysfonctionnement sexuel, non dû à un trouble ou à une maladie organique",76,26,"6,23",50,1 à 10,0
+F53,"Troubles mentaux et du comportement associés à la puerpéralité, non classés ailleurs",202,94,"5,19",108,53,0
+F54,Facteurs psychologiques et comportementaux associés à des maladies ou des troubles classés ailleurs,75,37,"12,54",38,22,0
+F55,Abus de substances n'entraînant pas de dépendance,45,24,"5,00",21,13,0
+F59,Syndromes comportementaux non précisés associés à des perturbations physiologiques et à des facteurs physiques,60,18,"4,39",42,23,0
+"",Total,8 336,4 608,"",3 728,"",0

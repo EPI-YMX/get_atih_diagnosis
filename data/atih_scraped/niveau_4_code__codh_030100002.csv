@@ -1,7 +1,7 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"D510","Anémie par carence en vitamine B12 due à une carence en facteur intrinsèque","1 315","489","8,36","826","103","0"
-"D511","Anémie par carence en vitamine B12 due à une malabsorption sélective de la vitamine B12, avec protéinurie","23","1 à 10","NA","14","1 à 10","0"
-"D513","Autres anémies par carence alimentaire en vitamine B12","95","64","10,42","31","13","0"
-"D518","Autres anémies par carence en vitamine B12","312","197","8,68","115","44","0"
-"D519","Anémie par carence en vitamine B12, sans précision","471","257","8,56","214","71","0"
-"","Total","2 226","1 019","","1 207","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+D510,Anémie par carence en vitamine B12 due à une carence en facteur intrinsèque,1 315,489,"8,36",826,103,0
+D511,"Anémie par carence en vitamine B12 due à une malabsorption sélective de la vitamine B12, avec protéinurie",23,1 à 10,NA,14,1 à 10,0
+D513,Autres anémies par carence alimentaire en vitamine B12,95,64,"10,42",31,13,0
+D518,Autres anémies par carence en vitamine B12,312,197,"8,68",115,44,0
+D519,"Anémie par carence en vitamine B12, sans précision",471,257,"8,56",214,71,0
+"",Total,2 226,1 019,"",1 207,"",0

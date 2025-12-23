@@ -1,5 +1,5 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"N151","Abcès rénal et périrénal","1 196","1 125","10,10","71","1 à 10","0"
-"N158","Autres maladies rénales tubulo-interstitielles précisées","126","75","4,04","51","0","0"
-"N159","Maladie rénale tubulo-interstitielle, sans précision","14","14","3,43","0","0","0"
-"","Total","1 336","1 214","","122","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+N151,Abcès rénal et périrénal,1 196,1 125,"10,10",71,1 à 10,0
+N158,Autres maladies rénales tubulo-interstitielles précisées,126,75,"4,04",51,0,0
+N159,"Maladie rénale tubulo-interstitielle, sans précision",14,14,"3,43",0,0,0
+"",Total,1 336,1 214,"",122,"",0

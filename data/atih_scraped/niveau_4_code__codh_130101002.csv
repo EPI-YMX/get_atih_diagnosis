@@ -1,13 +1,13 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"M0126","Arthrite au cours de la maladie de Lyme (A69.2) - Articulation du genou","20","16","6,00","1 à 10","1 à 10","0"
-"M013","Arthrite au cours d'autres maladies bactériennes classées ailleurs","15","1 à 10","NA","1 à 10","1 à 10","0"
-"M0130","Arthrite au cours d'autres maladies bactériennes classées ailleurs - Sièges multiples","12","11","11,09","1 à 10","0","0"
-"M0135","Arthrite au cours d'autres maladies bactériennes classées ailleurs - Articulations de la hanche et sacro-iliaque","33","30","20,97","1 à 10","1 à 10","0"
-"M0136","Arthrite au cours d'autres maladies bactériennes classées ailleurs - Articulation du genou","81","64","11,78","17","11","0"
-"M0137","Arthrite au cours d'autres maladies bactériennes classées ailleurs - Articulations de la cheville et du pied","22","16","11,56","1 à 10","0","0"
-"M0150","Arthrite au cours d'autres maladies virales classées ailleurs - Sièges multiples","15","14","5,07","1 à 10","0","0"
-"M0156","Arthrite au cours d'autres maladies virales classées ailleurs - Articulation du genou","12","11","5,27","1 à 10","0","0"
-"M0166","Arthrite au cours de mycoses (B35-B49) - Articulation du genou","15","14","20,64","1 à 10","0","0"
-"M018","Arthrite au cours d'autres maladies infectieuses et parasitaires classées ailleurs","15","13","7,08","1 à 10","0","0"
-"M0186","Arthrite au cours d'autres maladies infectieuses et parasitaires classées ailleurs - Articulation du genou","12","1 à 10","NA","1 à 10","1 à 10","0"
-"","Total","407","337","","70","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+M0126,Arthrite au cours de la maladie de Lyme (A69.2) - Articulation du genou,20,16,"6,00",1 à 10,1 à 10,0
+M013,Arthrite au cours d'autres maladies bactériennes classées ailleurs,15,1 à 10,NA,1 à 10,1 à 10,0
+M0130,Arthrite au cours d'autres maladies bactériennes classées ailleurs - Sièges multiples,12,11,"11,09",1 à 10,0,0
+M0135,Arthrite au cours d'autres maladies bactériennes classées ailleurs - Articulations de la hanche et sacro-iliaque,33,30,"20,97",1 à 10,1 à 10,0
+M0136,Arthrite au cours d'autres maladies bactériennes classées ailleurs - Articulation du genou,81,64,"11,78",17,11,0
+M0137,Arthrite au cours d'autres maladies bactériennes classées ailleurs - Articulations de la cheville et du pied,22,16,"11,56",1 à 10,0,0
+M0150,Arthrite au cours d'autres maladies virales classées ailleurs - Sièges multiples,15,14,"5,07",1 à 10,0,0
+M0156,Arthrite au cours d'autres maladies virales classées ailleurs - Articulation du genou,12,11,"5,27",1 à 10,0,0
+M0166,Arthrite au cours de mycoses (B35-B49) - Articulation du genou,15,14,"20,64",1 à 10,0,0
+M018,Arthrite au cours d'autres maladies infectieuses et parasitaires classées ailleurs,15,13,"7,08",1 à 10,0,0
+M0186,Arthrite au cours d'autres maladies infectieuses et parasitaires classées ailleurs - Articulation du genou,12,1 à 10,NA,1 à 10,1 à 10,0
+"",Total,407,337,"",70,"",0

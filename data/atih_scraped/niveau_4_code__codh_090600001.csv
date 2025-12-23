@@ -1,6 +1,6 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"I300","Péricardite idiopathique aiguë non spécifique","805","557","6,65","248","122","0"
-"I301","Péricardite infectieuse","959","700","7,55","259","138","0"
-"I308","Autres formes de péricardite aiguë","1 721","1 117","7,05","604","278","0"
-"I309","Péricardite aiguë, sans précision","3 910","1 831","6,51","2 079","850","0"
-"","Total","7 395","4 205","","3 190","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+I300,Péricardite idiopathique aiguë non spécifique,805,557,"6,65",248,122,0
+I301,Péricardite infectieuse,959,700,"7,55",259,138,0
+I308,Autres formes de péricardite aiguë,1 721,1 117,"7,05",604,278,0
+I309,"Péricardite aiguë, sans précision",3 910,1 831,"6,51",2 079,850,0
+"",Total,7 395,4 205,"",3 190,"",0

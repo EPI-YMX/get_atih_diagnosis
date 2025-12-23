@@ -1,8 +1,8 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"E160","Hypoglycémie médicamenteuse, sans coma","1 016","537","8,17","479","304","0"
-"E161","Autres hypoglycémies","1 595","866","6,60","729","375","0"
-"E162","Hypoglycémie, sans précision","3 176","1 334","5,91","1 842","1 116","0"
-"E164","Sécrétion anormale de gastrine","16","1 à 10","NA","1 à 10","1 à 10","0"
-"E168","Autres anomalies précisées de la sécrétion pancréatique interne","31","16","11,44","15","1 à 10","0"
-"E169","Anomalie de la régulation de la sécrétion pancréatique","30","11","6,55","19","1 à 10","0"
-"","Total","5 866","2 775","","3 091","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+E160,"Hypoglycémie médicamenteuse, sans coma",1 016,537,"8,17",479,304,0
+E161,Autres hypoglycémies,1 595,866,"6,60",729,375,0
+E162,"Hypoglycémie, sans précision",3 176,1 334,"5,91",1 842,1 116,0
+E164,Sécrétion anormale de gastrine,16,1 à 10,NA,1 à 10,1 à 10,0
+E168,Autres anomalies précisées de la sécrétion pancréatique interne,31,16,"11,44",15,1 à 10,0
+E169,Anomalie de la régulation de la sécrétion pancréatique,30,11,"6,55",19,1 à 10,0
+"",Total,5 866,2 775,"",3 091,"",0

@@ -1,45 +1,45 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"M000","Arthrite et polyarthrite à staphylocoques","143","135","15,10","1 à 10","1 à 10","0"
-"M0000","Arthrite et polyarthrite à staphylocoques - Sièges multiples","46","40","24,30","1 à 10","1 à 10","0"
-"M0001","Arthrite et polyarthrite à staphylocoques - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire","528","504","15,37","24","1 à 10","0"
-"M0002","Arthrite et polyarthrite à staphylocoques - Articulation du coude","252","239","11,23","13","1 à 10","0"
-"M0003","Arthrite et polyarthrite à staphylocoques - Articulation du poignet","114","106","13,06","1 à 10","1 à 10","0"
-"M0004","Arthrite et polyarthrite à staphylocoques - Articulations de la main","476","291","5,66","185","1 à 10","0"
-"M0005","Arthrite et polyarthrite à staphylocoques - Articulations de la hanche et sacro-iliaque","2 547","2 426","17,31","121","18","0"
-"M0006","Arthrite et polyarthrite à staphylocoques - Articulation du genou","2 863","2 560","16,41","303","50","0"
-"M0007","Arthrite et polyarthrite à staphylocoques - Articulations de la cheville et du pied","1 176","1 053","12,43","123","11","0"
-"M0008","Arthrite et polyarthrite à staphylocoques - Autres articulations","200","193","17,13","1 à 10","1 à 10","0"
-"M0011","Arthrite et polyarthrite à pneumocoques - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire","15","14","15,29","1 à 10","1 à 10","0"
-"M0016","Arthrite et polyarthrite à pneumocoques - Articulation du genou","31","30","22,37","1 à 10","0","0"
-"M002","Autres arthrites et polyarthrites à streptocoques","42","40","16,48","1 à 10","1 à 10","0"
-"M0020","Autres arthrites et polyarthrites à streptocoques - Sièges multiples","46","41","28,05","1 à 10","1 à 10","0"
-"M0021","Autres arthrites et polyarthrites à streptocoques - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire","113","111","19,05","1 à 10","0","0"
-"M0022","Autres arthrites et polyarthrites à streptocoques - Articulation du coude","21","20","15,15","1 à 10","1 à 10","0"
-"M0023","Autres arthrites et polyarthrites à streptocoques - Articulation du poignet","39","38","18,34","1 à 10","1 à 10","0"
-"M0024","Autres arthrites et polyarthrites à streptocoques - Articulations de la main","96","67","7,06","29","0","0"
-"M0025","Autres arthrites et polyarthrites à streptocoques - Articulations de la hanche et sacro-iliaque","417","404","19,21","13","1 à 10","0"
-"M0026","Autres arthrites et polyarthrites à streptocoques - Articulation du genou","816","754","18,53","62","15","0"
-"M0027","Autres arthrites et polyarthrites à streptocoques - Articulations de la cheville et du pied","158","142","16,77","16","1 à 10","0"
-"M0028","Autres arthrites et polyarthrites à streptocoques - Autres articulations","28","27","15,33","1 à 10","1 à 10","0"
-"M008","Arthrite et polyarthrite dues à d'autres bactéries précisées","99","82","16,28","17","1 à 10","0"
-"M0080","Arthrite et polyarthrite dues à d'autres bactéries précisées - Sièges multiples","33","27","18,67","1 à 10","1 à 10","0"
-"M0081","Arthrite et polyarthrite dues à d'autres bactéries précisées - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire","348","338","12,33","1 à 10","1 à 10","0"
-"M0082","Arthrite et polyarthrite dues à d'autres bactéries précisées - Articulation du coude","69","64","11,16","1 à 10","1 à 10","0"
-"M0083","Arthrite et polyarthrite dues à d'autres bactéries précisées - Articulation du poignet","46","40","9,78","1 à 10","1 à 10","0"
-"M0084","Arthrite et polyarthrite dues à d'autres bactéries précisées - Articulations de la main","192","102","5,62","90","0","0"
-"M0085","Arthrite et polyarthrite dues à d'autres bactéries précisées - Articulations de la hanche et sacro-iliaque","990","916","19,91","74","13","0"
-"M0086","Arthrite et polyarthrite dues à d'autres bactéries précisées - Articulation du genou","1 191","1 026","17,04","165","28","0"
-"M0087","Arthrite et polyarthrite dues à d'autres bactéries précisées - Articulations de la cheville et du pied","430","386","13,85","44","1 à 10","0"
-"M0088","Arthrite et polyarthrite dues à d'autres bactéries précisées - Autres articulations","69","65","15,31","1 à 10","1 à 10","0"
-"M009","Arthrite à bactéries pyogènes, sans précision","235","155","12,27","80","28","0"
-"M0090","Arthrite à bactéries pyogènes, sans précision - Sièges multiples","30","27","16,96","1 à 10","1 à 10","0"
-"M0091","Arthrite à bactéries pyogènes, sans précision - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire","176","156","14,90","20","1 à 10","0"
-"M0092","Arthrite à bactéries pyogènes, sans précision - Articulation du coude","103","91","9,33","12","1 à 10","0"
-"M0093","Arthrite à bactéries pyogènes, sans précision - Articulation du poignet","86","75","9,87","11","1 à 10","0"
-"M0094","Arthrite à bactéries pyogènes, sans précision - Articulations de la main","300","170","4,04","130","1 à 10","0"
-"M0095","Arthrite à bactéries pyogènes, sans précision - Articulations de la hanche et sacro-iliaque","591","538","13,22","53","31","0"
-"M0096","Arthrite à bactéries pyogènes, sans précision - Articulation du genou","987","866","11,38","121","53","0"
-"M0097","Arthrite à bactéries pyogènes, sans précision - Articulations de la cheville et du pied","409","348","10,79","61","19","0"
-"M0098","Arthrite à bactéries pyogènes, sans précision - Autres articulations","72","66","13,89","1 à 10","1 à 10","0"
-"M0099","Arthrite à bactéries pyogènes, sans précision - Siège non précisé","20","12","11,00","1 à 10","1 à 10","0"
-"","Total","16 696","14 830","","1 866","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+M000,Arthrite et polyarthrite à staphylocoques,143,135,"15,10",1 à 10,1 à 10,0
+M0000,Arthrite et polyarthrite à staphylocoques - Sièges multiples,46,40,"24,30",1 à 10,1 à 10,0
+M0001,"Arthrite et polyarthrite à staphylocoques - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire",528,504,"15,37",24,1 à 10,0
+M0002,Arthrite et polyarthrite à staphylocoques - Articulation du coude,252,239,"11,23",13,1 à 10,0
+M0003,Arthrite et polyarthrite à staphylocoques - Articulation du poignet,114,106,"13,06",1 à 10,1 à 10,0
+M0004,Arthrite et polyarthrite à staphylocoques - Articulations de la main,476,291,"5,66",185,1 à 10,0
+M0005,Arthrite et polyarthrite à staphylocoques - Articulations de la hanche et sacro-iliaque,2 547,2 426,"17,31",121,18,0
+M0006,Arthrite et polyarthrite à staphylocoques - Articulation du genou,2 863,2 560,"16,41",303,50,0
+M0007,Arthrite et polyarthrite à staphylocoques - Articulations de la cheville et du pied,1 176,1 053,"12,43",123,11,0
+M0008,Arthrite et polyarthrite à staphylocoques - Autres articulations,200,193,"17,13",1 à 10,1 à 10,0
+M0011,"Arthrite et polyarthrite à pneumocoques - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire",15,14,"15,29",1 à 10,1 à 10,0
+M0016,Arthrite et polyarthrite à pneumocoques - Articulation du genou,31,30,"22,37",1 à 10,0,0
+M002,Autres arthrites et polyarthrites à streptocoques,42,40,"16,48",1 à 10,1 à 10,0
+M0020,Autres arthrites et polyarthrites à streptocoques - Sièges multiples,46,41,"28,05",1 à 10,1 à 10,0
+M0021,"Autres arthrites et polyarthrites à streptocoques - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire",113,111,"19,05",1 à 10,0,0
+M0022,Autres arthrites et polyarthrites à streptocoques - Articulation du coude,21,20,"15,15",1 à 10,1 à 10,0
+M0023,Autres arthrites et polyarthrites à streptocoques - Articulation du poignet,39,38,"18,34",1 à 10,1 à 10,0
+M0024,Autres arthrites et polyarthrites à streptocoques - Articulations de la main,96,67,"7,06",29,0,0
+M0025,Autres arthrites et polyarthrites à streptocoques - Articulations de la hanche et sacro-iliaque,417,404,"19,21",13,1 à 10,0
+M0026,Autres arthrites et polyarthrites à streptocoques - Articulation du genou,816,754,"18,53",62,15,0
+M0027,Autres arthrites et polyarthrites à streptocoques - Articulations de la cheville et du pied,158,142,"16,77",16,1 à 10,0
+M0028,Autres arthrites et polyarthrites à streptocoques - Autres articulations,28,27,"15,33",1 à 10,1 à 10,0
+M008,Arthrite et polyarthrite dues à d'autres bactéries précisées,99,82,"16,28",17,1 à 10,0
+M0080,Arthrite et polyarthrite dues à d'autres bactéries précisées - Sièges multiples,33,27,"18,67",1 à 10,1 à 10,0
+M0081,"Arthrite et polyarthrite dues à d'autres bactéries précisées - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire",348,338,"12,33",1 à 10,1 à 10,0
+M0082,Arthrite et polyarthrite dues à d'autres bactéries précisées - Articulation du coude,69,64,"11,16",1 à 10,1 à 10,0
+M0083,Arthrite et polyarthrite dues à d'autres bactéries précisées - Articulation du poignet,46,40,"9,78",1 à 10,1 à 10,0
+M0084,Arthrite et polyarthrite dues à d'autres bactéries précisées - Articulations de la main,192,102,"5,62",90,0,0
+M0085,Arthrite et polyarthrite dues à d'autres bactéries précisées - Articulations de la hanche et sacro-iliaque,990,916,"19,91",74,13,0
+M0086,Arthrite et polyarthrite dues à d'autres bactéries précisées - Articulation du genou,1 191,1 026,"17,04",165,28,0
+M0087,Arthrite et polyarthrite dues à d'autres bactéries précisées - Articulations de la cheville et du pied,430,386,"13,85",44,1 à 10,0
+M0088,Arthrite et polyarthrite dues à d'autres bactéries précisées - Autres articulations,69,65,"15,31",1 à 10,1 à 10,0
+M009,"Arthrite à bactéries pyogènes, sans précision",235,155,"12,27",80,28,0
+M0090,"Arthrite à bactéries pyogènes, sans précision - Sièges multiples",30,27,"16,96",1 à 10,1 à 10,0
+M0091,"Arthrite à bactéries pyogènes, sans précision - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire",176,156,"14,90",20,1 à 10,0
+M0092,"Arthrite à bactéries pyogènes, sans précision - Articulation du coude",103,91,"9,33",12,1 à 10,0
+M0093,"Arthrite à bactéries pyogènes, sans précision - Articulation du poignet",86,75,"9,87",11,1 à 10,0
+M0094,"Arthrite à bactéries pyogènes, sans précision - Articulations de la main",300,170,"4,04",130,1 à 10,0
+M0095,"Arthrite à bactéries pyogènes, sans précision - Articulations de la hanche et sacro-iliaque",591,538,"13,22",53,31,0
+M0096,"Arthrite à bactéries pyogènes, sans précision - Articulation du genou",987,866,"11,38",121,53,0
+M0097,"Arthrite à bactéries pyogènes, sans précision - Articulations de la cheville et du pied",409,348,"10,79",61,19,0
+M0098,"Arthrite à bactéries pyogènes, sans précision - Autres articulations",72,66,"13,89",1 à 10,1 à 10,0
+M0099,"Arthrite à bactéries pyogènes, sans précision - Siège non précisé",20,12,"11,00",1 à 10,1 à 10,0
+"",Total,16 696,14 830,"",1 866,"",0

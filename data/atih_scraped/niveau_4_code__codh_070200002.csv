@@ -1,9 +1,9 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"H110","Ptérygion","3 344","66","1,26","3 278","0","0"
-"H111","Dépôts et affections dégénératives de la conjonctive","43","1 à 10","NA","39","0","0"
-"H112","Cicatrices de la conjonctive","113","17","3,24","96","0","0"
-"H113","Hémorragie conjonctivale","89","57","3,68","32","0","0"
-"H114","Autres troubles vasculaires et kystes de la conjonctive","113","18","4,06","95","0","0"
-"H118","Autres affections précisées de la conjonctive","224","28","1,82","196","0","0"
-"H119","Affection de la conjonctive, sans précision","17","0","","17","0","0"
-"","Total","3 943","190","","3 753","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+H110,Ptérygion,3 344,66,"1,26",3 278,0,0
+H111,Dépôts et affections dégénératives de la conjonctive,43,1 à 10,NA,39,0,0
+H112,Cicatrices de la conjonctive,113,17,"3,24",96,0,0
+H113,Hémorragie conjonctivale,89,57,"3,68",32,0,0
+H114,Autres troubles vasculaires et kystes de la conjonctive,113,18,"4,06",95,0,0
+H118,Autres affections précisées de la conjonctive,224,28,"1,82",196,0,0
+H119,"Affection de la conjonctive, sans précision",17,0,"",17,0,0
+"",Total,3 943,190,"",3 753,"",0

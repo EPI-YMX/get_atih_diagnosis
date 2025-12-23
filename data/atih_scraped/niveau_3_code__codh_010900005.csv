@@ -1,8 +1,8 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"A81","Infections atypiques à virus, du système nerveux central","341","322","20,53","19","1 à 10","0"
-"A84","Encéphalite virale transmise par des tiques","35","35","13,37","0","0","0"
-"A85","Autres encéphalites virales, non classées ailleurs","185","172","8,54","13","0","0"
-"A86","Encéphalite virale, sans précision","112","102","7,78","1 à 10","0","0"
-"A87","Méningite virale","4 374","3 018","5,13","1 356","1 124","0"
-"A88","Autres infections virales du système nerveux central, non classées ailleurs","74","1 à 10","NA","65","28","0"
-"","Total","5 129","3 665","","1 464","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+A81,"Infections atypiques à virus, du système nerveux central",341,322,"20,53",19,1 à 10,0
+A84,Encéphalite virale transmise par des tiques,35,35,"13,37",0,0,0
+A85,"Autres encéphalites virales, non classées ailleurs",185,172,"8,54",13,0,0
+A86,"Encéphalite virale, sans précision",112,102,"7,78",1 à 10,0,0
+A87,Méningite virale,4 374,3 018,"5,13",1 356,1 124,0
+A88,"Autres infections virales du système nerveux central, non classées ailleurs",74,1 à 10,NA,65,28,0
+"",Total,5 129,3 665,"",1 464,"",0

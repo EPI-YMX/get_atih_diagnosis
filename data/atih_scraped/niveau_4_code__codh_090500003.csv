@@ -1,5 +1,5 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"I280","Fistule artérioveineuse des vaisseaux pulmonaires","170","83","5,18","87","1 à 10","0"
-"I281","Anévrisme de l'artère pulmonaire","77","64","8,67","13","1 à 10","0"
-"I288","Autres maladies précisées des vaisseaux pulmonaires","531","477","7,94","54","20","0"
-"","Total","778","624","","154","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+I280,Fistule artérioveineuse des vaisseaux pulmonaires,170,83,"5,18",87,1 à 10,0
+I281,Anévrisme de l'artère pulmonaire,77,64,"8,67",13,1 à 10,0
+I288,Autres maladies précisées des vaisseaux pulmonaires,531,477,"7,94",54,20,0
+"",Total,778,624,"",154,"",0

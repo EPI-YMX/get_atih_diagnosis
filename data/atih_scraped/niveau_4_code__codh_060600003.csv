@@ -1,8 +1,8 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"G430","Migraine sans aura [migraine commune]","2 344","1 029","1,71","1 315","0","0"
-"G431","Migraine avec aura [migraine classique]","6 371","3 656","1,83","2 715","0","0"
-"G432","État de mal migraineux","1 009","822","3,14","187","0","0"
-"G433","Migraine compliquée","1 160","158","2,34","1 002","0","0"
-"G438","Autres migraines","2 050","658","1,97","1 392","0","0"
-"G439","Migraine, sans précision","3 931","1 424","1,61","2 507","0","0"
-"","Total","16 865","7 747","","9 118","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+G430,Migraine sans aura [migraine commune],2 344,1 029,"1,71",1 315,0,0
+G431,Migraine avec aura [migraine classique],6 371,3 656,"1,83",2 715,0,0
+G432,État de mal migraineux,1 009,822,"3,14",187,0,0
+G433,Migraine compliquée,1 160,158,"2,34",1 002,0,0
+G438,Autres migraines,2 050,658,"1,97",1 392,0,0
+G439,"Migraine, sans précision",3 931,1 424,"1,61",2 507,0,0
+"",Total,16 865,7 747,"",9 118,"",0

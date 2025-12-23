@@ -1,12 +1,12 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"I420","Myocardiopathie avec dilatation","6 062","4 346","7,74","1 716","377","0"
-"I421","Myocardiopathie obstructive hypertrophique","725","392","6,62","333","44","0"
-"I422","Autres myocardiopathies hypertrophiques","2 020","1 125","6,00","895","134","0"
-"I423","Maladie endomyocardique (éosinophilique)","13","1 à 10","NA","1 à 10","1 à 10","0"
-"I424","Fibroélastose endocardique","21","1 à 10","NA","11","1 à 10","0"
-"I425","Autres myocardiopathies restrictives","69","49","14,65","20","1 à 10","0"
-"I426","Myocardiopathie alcoolique","127","106","8,38","21","1 à 10","0"
-"I427","Myocardiopathie due à des médicaments et d'autres causes externes","187","122","8,89","65","11","0"
-"I428","Autres myocardiopathies","2 837","2 474","7,17","363","105","0"
-"I429","Myocardiopathie, sans précision","171","90","5,33","81","1 à 10","0"
-"","Total","12 232","8 722","","3 510","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+I420,Myocardiopathie avec dilatation,6 062,4 346,"7,74",1 716,377,0
+I421,Myocardiopathie obstructive hypertrophique,725,392,"6,62",333,44,0
+I422,Autres myocardiopathies hypertrophiques,2 020,1 125,"6,00",895,134,0
+I423,Maladie endomyocardique (éosinophilique),13,1 à 10,NA,1 à 10,1 à 10,0
+I424,Fibroélastose endocardique,21,1 à 10,NA,11,1 à 10,0
+I425,Autres myocardiopathies restrictives,69,49,"14,65",20,1 à 10,0
+I426,Myocardiopathie alcoolique,127,106,"8,38",21,1 à 10,0
+I427,Myocardiopathie due à des médicaments et d'autres causes externes,187,122,"8,89",65,11,0
+I428,Autres myocardiopathies,2 837,2 474,"7,17",363,105,0
+I429,"Myocardiopathie, sans précision",171,90,"5,33",81,1 à 10,0
+"",Total,12 232,8 722,"",3 510,"",0

@@ -1,7 +1,7 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"C720","Tumeur maligne de la moelle épinière","112","100","16,40","12","1 à 10","0"
-"C721","Tumeur maligne de la queue de cheval","25","20","8,05","1 à 10","1 à 10","0"
-"C723","Tumeur maligne du nerf optique","51","28","7,57","23","1 à 10","0"
-"C728","Tumeur maligne à localisations contiguës de l'encéphale et d'autres parties du système nerveux central","41","29","13,10","12","1 à 10","0"
-"C729","Tumeur maligne du système nerveux (central), sans précision","36","26","13,08","1 à 10","1 à 10","0"
-"","Total","285","220","","65","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+C720,Tumeur maligne de la moelle épinière,112,100,"16,40",12,1 à 10,0
+C721,Tumeur maligne de la queue de cheval,25,20,"8,05",1 à 10,1 à 10,0
+C723,Tumeur maligne du nerf optique,51,28,"7,57",23,1 à 10,0
+C728,Tumeur maligne à localisations contiguës de l'encéphale et d'autres parties du système nerveux central,41,29,"13,10",12,1 à 10,0
+C729,"Tumeur maligne du système nerveux (central), sans précision",36,26,"13,08",1 à 10,1 à 10,0
+"",Total,285,220,"",65,"",0

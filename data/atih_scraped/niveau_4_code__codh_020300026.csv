@@ -1,7 +1,7 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"D350","Tumeur bénigne de la surrénale","2 434","2 004","3,98","430","92","0"
-"D351","Tumeur bénigne d'une parathyroïde","3 709","3 642","1,68","67","12","0"
-"D352","Tumeur bénigne de l'hypophyse","3 408","2 672","6,44","736","153","0"
-"D355","Tumeur bénigne du corpuscule carotidien","13","12","8,08","1 à 10","0","0"
-"D356","Tumeur bénigne du glomus aortique et autres paraganglions","40","35","4,51","1 à 10","1 à 10","0"
-"","Total","9 631","8 386","","1 245","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+D350,Tumeur bénigne de la surrénale,2 434,2 004,"3,98",430,92,0
+D351,Tumeur bénigne d'une parathyroïde,3 709,3 642,"1,68",67,12,0
+D352,Tumeur bénigne de l'hypophyse,3 408,2 672,"6,44",736,153,0
+D355,Tumeur bénigne du corpuscule carotidien,13,12,"8,08",1 à 10,0,0
+D356,Tumeur bénigne du glomus aortique et autres paraganglions,40,35,"4,51",1 à 10,1 à 10,0
+"",Total,9 631,8 386,"",1 245,"",0

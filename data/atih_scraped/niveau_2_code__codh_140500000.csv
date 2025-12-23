@@ -1,7 +1,7 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"N25","Affections dues à une tubulopathie","195","135","8,41","60","1 à 10","0"
-"N26","Rein scléreux, sans précision","208","181","4,55","27","0","0"
-"N27","Petit rein de cause inconnue","18","15","2,47","1 à 10","0","0"
-"N28","Autres affections du rein et de l'uretère, non classées ailleurs","3 939","3 075","5,56","864","1 à 10","0"
-"N29","Autres affections du rein et de l'uretère au cours de maladies classées ailleurs","84","60","5,23","24","0","0"
-"","Total","4 444","3 466","","978","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+N25,Affections dues à une tubulopathie,195,135,"8,41",60,1 à 10,0
+N26,"Rein scléreux, sans précision",208,181,"4,55",27,0,0
+N27,Petit rein de cause inconnue,18,15,"2,47",1 à 10,0,0
+N28,"Autres affections du rein et de l'uretère, non classées ailleurs",3 939,3 075,"5,56",864,1 à 10,0
+N29,Autres affections du rein et de l'uretère au cours de maladies classées ailleurs,84,60,"5,23",24,0,0
+"",Total,4 444,3 466,"",978,"",0

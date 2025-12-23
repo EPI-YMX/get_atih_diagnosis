@@ -1,7 +1,0 @@
-Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
-P290,Insuffisance cardiaque néonatale,75,58,"13,48",17,11,0
-P291,Arythmie cardiaque néonatale,447,430,"6,63",17,1 à 10,0
-P292,Hypertension néonatale,16,11,"6,91",1 à 10,1 à 10,0
-P293,Persistance de la circulation foetale,92,91,"12,19",1 à 10,0,0
-P298,Autres affections cardio-vasculaires survenant pendant la période périnatale,227,208,"5,89",19,0,0
-"",Total,858,799,"",59,"",0

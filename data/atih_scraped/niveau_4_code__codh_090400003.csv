@@ -1,14 +1,14 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"I2200","Infarctus du myocarde à répétition (de la paroi) antérieure, prise en charge initiale","80","58","7,41","22","1 à 10","0"
-"I22000","Infarctus du myocarde à répétition (de la paroi antérieure), prise en charge initiale, infarctus de 24 heures ou moins","60","43","7,51","17","1 à 10","0"
-"I2208","Infarctus du myocarde à répétition (de la paroi) antérieure, autres prises en charge","34","21","6,95","13","0","0"
-"I2210","Infarctus du myocarde à répétition, de la paroi inférieure, prise en charge initiale","44","33","6,30","11","1 à 10","0"
-"I22100","Infarctus du myocarde à répétition (de la paroi inférieure), prise en charge initiale, infarctus de 24 heures ou moins","44","36","6,39","1 à 10","1 à 10","0"
-"I2218","Infarctus du myocarde à répétition (de la paroi inférieure), autres prises en charge","26","16","3,81","1 à 10","0","0"
-"I2280","Infarctus du myocarde à répétition d'autres localisations, prise en charge initiale","27","19","5,79","1 à 10","0","0"
-"I22800","Infarctus du myocarde à répétition d'autres localisations, prise en charge initiale, infarctus de 24 heures ou moins","28","16","5,06","12","1 à 10","0"
-"I2288","Infarctus du myocarde à répétition d'autres localisations, autres prises en charge","24","21","6,33","1 à 10","0","0"
-"I2290","Infarctus du myocarde à répétition de localisation non précisée, prise en charge initiale","32","19","5,00","13","1 à 10","0"
-"I22900","Infarctus du myocarde à répétition de localisation non précisée, prise en charge initiale, infarctus de 24 heures ou moins","28","19","6,68","1 à 10","1 à 10","0"
-"I2298","Infarctus du myocarde à répétition de localisation non précisée, autres prises en charge","20","14","7,14","1 à 10","0","0"
-"","Total","447","315","","132","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+I2200,"Infarctus du myocarde à répétition (de la paroi) antérieure, prise en charge initiale",80,58,"7,41",22,1 à 10,0
+I22000,"Infarctus du myocarde à répétition (de la paroi antérieure), prise en charge initiale, infarctus de 24 heures ou moins",60,43,"7,51",17,1 à 10,0
+I2208,"Infarctus du myocarde à répétition (de la paroi) antérieure, autres prises en charge",34,21,"6,95",13,0,0
+I2210,"Infarctus du myocarde à répétition, de la paroi inférieure, prise en charge initiale",44,33,"6,30",11,1 à 10,0
+I22100,"Infarctus du myocarde à répétition (de la paroi inférieure), prise en charge initiale, infarctus de 24 heures ou moins",44,36,"6,39",1 à 10,1 à 10,0
+I2218,"Infarctus du myocarde à répétition (de la paroi inférieure), autres prises en charge",26,16,"3,81",1 à 10,0,0
+I2280,"Infarctus du myocarde à répétition d'autres localisations, prise en charge initiale",27,19,"5,79",1 à 10,0,0
+I22800,"Infarctus du myocarde à répétition d'autres localisations, prise en charge initiale, infarctus de 24 heures ou moins",28,16,"5,06",12,1 à 10,0
+I2288,"Infarctus du myocarde à répétition d'autres localisations, autres prises en charge",24,21,"6,33",1 à 10,0,0
+I2290,"Infarctus du myocarde à répétition de localisation non précisée, prise en charge initiale",32,19,"5,00",13,1 à 10,0
+I22900,"Infarctus du myocarde à répétition de localisation non précisée, prise en charge initiale, infarctus de 24 heures ou moins",28,19,"6,68",1 à 10,1 à 10,0
+I2298,"Infarctus du myocarde à répétition de localisation non précisée, autres prises en charge",20,14,"7,14",1 à 10,0,0
+"",Total,447,315,"",132,"",0

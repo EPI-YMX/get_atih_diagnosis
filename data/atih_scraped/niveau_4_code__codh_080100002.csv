@@ -1,7 +1,7 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"H610","Périchondrite de l'oreille externe","587","492","3,90","95","21","0"
-"H611","Affections non infectieuses du pavillon de l'oreille","108","18","3,61","90","1 à 10","0"
-"H612","Bouchon de cérumen","312","1 à 10","NA","304","18","0"
-"H613","Sténose acquise du conduit auditif externe","288","59","1,39","229","1 à 10","0"
-"H618","Autres affections précisées de l'oreille externe","481","92","2,52","389","1 à 10","0"
-"","Total","1 776","669","","1 107","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+H610,Périchondrite de l'oreille externe,587,492,"3,90",95,21,0
+H611,Affections non infectieuses du pavillon de l'oreille,108,18,"3,61",90,1 à 10,0
+H612,Bouchon de cérumen,312,1 à 10,NA,304,18,0
+H613,Sténose acquise du conduit auditif externe,288,59,"1,39",229,1 à 10,0
+H618,Autres affections précisées de l'oreille externe,481,92,"2,52",389,1 à 10,0
+"",Total,1 776,669,"",1 107,"",0

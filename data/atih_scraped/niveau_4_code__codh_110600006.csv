@@ -1,8 +1,8 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"K600","Fissure anale aiguë","580","208","3,96","372","43","0"
-"K601","Fissure anale chronique","1 438","269","2,11","1 169","12","0"
-"K602","Fissure anale, sans précision","1 332","264","2,50","1 068","67","0"
-"K603","Fistule anale","9 368","2 074","2,45","7 294","132","0"
-"K604","Fistule rectale","411","287","12,62","124","25","0"
-"K605","Fistule ano-rectale","298","115","6,15","183","1 à 10","0"
-"","Total","13 427","3 217","","10 210","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+K600,Fissure anale aiguë,580,208,"3,96",372,43,0
+K601,Fissure anale chronique,1 438,269,"2,11",1 169,12,0
+K602,"Fissure anale, sans précision",1 332,264,"2,50",1 068,67,0
+K603,Fistule anale,9 368,2 074,"2,45",7 294,132,0
+K604,Fistule rectale,411,287,"12,62",124,25,0
+K605,Fistule ano-rectale,298,115,"6,15",183,1 à 10,0
+"",Total,13 427,3 217,"",10 210,"",0

@@ -1,6 +1,6 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"G70","Myasthénie et autres affections neuro-musculaires","2 417","2 010","9,86","407","1 à 10","0"
-"G71","Affections musculaires primitives","974","289","14,26","685","66","0"
-"G72","Autres myopathies","686","404","9,11","282","56","0"
-"G73","Affections musculaires et neuro-musculaires au cours de maladies classées ailleurs","94","69","9,81","25","1 à 10","0"
-"","Total","4 171","2 772","","1 399","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+G70,Myasthénie et autres affections neuro-musculaires,2 417,2 010,"9,86",407,1 à 10,0
+G71,Affections musculaires primitives,974,289,"14,26",685,66,0
+G72,Autres myopathies,686,404,"9,11",282,56,0
+G73,Affections musculaires et neuro-musculaires au cours de maladies classées ailleurs,94,69,"9,81",25,1 à 10,0
+"",Total,4 171,2 772,"",1 399,"",0

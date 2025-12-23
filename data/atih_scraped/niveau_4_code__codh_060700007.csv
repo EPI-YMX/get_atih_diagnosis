@@ -1,8 +1,8 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"G560","Syndrome du canal carpien","43 755","1 341","1,61","42 414","20","0"
-"G561","Autres lésions du nerf médian","678","62","2,26","616","1 à 10","0"
-"G562","Lésion du nerf cubital","3 383","271","1,95","3 112","11","0"
-"G563","Lésion du nerf radial","323","107","5,34","216","28","0"
-"G568","Autres mononévrites du membre supérieur","128","22","3,14","106","1 à 10","0"
-"G569","Mononévrite du membre supérieur, sans précision","11","1 à 10","NA","1 à 10","1 à 10","0"
-"","Total","48 278","1 805","","46 473","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+G560,Syndrome du canal carpien,43 755,1 341,"1,61",42 414,20,0
+G561,Autres lésions du nerf médian,678,62,"2,26",616,1 à 10,0
+G562,Lésion du nerf cubital,3 383,271,"1,95",3 112,11,0
+G563,Lésion du nerf radial,323,107,"5,34",216,28,0
+G568,Autres mononévrites du membre supérieur,128,22,"3,14",106,1 à 10,0
+G569,"Mononévrite du membre supérieur, sans précision",11,1 à 10,NA,1 à 10,1 à 10,0
+"",Total,48 278,1 805,"",46 473,"",0

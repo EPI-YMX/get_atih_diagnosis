@@ -1,11 +1,11 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"H500","Strabisme convergent concomitant","1 509","92","1,49","1 417","0","0"
-"H501","Strabisme divergent concomitant","1 798","107","1,31","1 691","0","0"
-"H502","Strabisme vertical","244","11","1,64","233","0","0"
-"H503","Hétérotropie intermittente","93","11","1,36","82","0","0"
-"H504","Hétérotropies, autres et sans précision","70","1 à 10","NA","67","0","0"
-"H505","Hétérophorie","13","1 à 10","NA","1 à 10","0","0"
-"H506","Strabisme mécanique","31","1 à 10","NA","27","0","0"
-"H508","Autres strabismes précisés","309","24","2,25","285","0","0"
-"H509","Strabisme, sans précision","597","48","1,42","549","0","0"
-"","Total","4 664","304","","4 360","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+H500,Strabisme convergent concomitant,1 509,92,"1,49",1 417,0,0
+H501,Strabisme divergent concomitant,1 798,107,"1,31",1 691,0,0
+H502,Strabisme vertical,244,11,"1,64",233,0,0
+H503,Hétérotropie intermittente,93,11,"1,36",82,0,0
+H504,"Hétérotropies, autres et sans précision",70,1 à 10,NA,67,0,0
+H505,Hétérophorie,13,1 à 10,NA,1 à 10,0,0
+H506,Strabisme mécanique,31,1 à 10,NA,27,0,0
+H508,Autres strabismes précisés,309,24,"2,25",285,0,0
+H509,"Strabisme, sans précision",597,48,"1,42",549,0,0
+"",Total,4 664,304,"",4 360,"",0

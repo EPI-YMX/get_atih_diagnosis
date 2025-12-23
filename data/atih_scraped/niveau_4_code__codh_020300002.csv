@@ -1,5 +1,5 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"D110","Tumeur bénigne de la glande parotide","3 105","2 738","2,28","367","30","0"
-"D117","Tumeur bénigne d'autres glandes salivaires principales","202","166","1,94","36","1 à 10","0"
-"D119","Tumeur bénigne de la glande salivaire principale, sans précision","33","31","1,74","1 à 10","0","0"
-"","Total","3 340","2 935","","405","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+D110,Tumeur bénigne de la glande parotide,3 105,2 738,"2,28",367,30,0
+D117,Tumeur bénigne d'autres glandes salivaires principales,202,166,"1,94",36,1 à 10,0
+D119,"Tumeur bénigne de la glande salivaire principale, sans précision",33,31,"1,74",1 à 10,0,0
+"",Total,3 340,2 935,"",405,"",0

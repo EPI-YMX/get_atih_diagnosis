@@ -1,12 +1,12 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"A00","Choléra","204","175","4,31","29","24","0"
-"A01","Fièvres typhoïde et paratyphoïde","102","102","7,85","0","0","0"
-"A02","Autres salmonelloses","3 180","2 790","5,81","390","288","0"
-"A03","Shigellose","429","356","4,88","73","48","0"
-"A04","Autres infections intestinales bactériennes","13 181","11 022","8,32","2 159","1 016","0"
-"A05","Autres intoxications bactériennes d'origine alimentaire, non classées ailleurs","1 253","384","6,21","869","473","0"
-"A06","Amibiase","123","104","12,03","19","1 à 10","0"
-"A07","Autres maladies intestinales à protozoaires","379","309","8,40","70","42","0"
-"A08","Infections virales intestinales et autres infections intestinales précisées","19 698","10 768","3,65","8 930","7 032","0"
-"A09","Autres gastroentérites et colites d'origine infectieuse ou non précisée","55 319","22 678","5,66","32 641","19 947","0"
-"","Total","93 868","48 688","","45 180","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+A00,Choléra,204,175,"4,31",29,24,0
+A01,Fièvres typhoïde et paratyphoïde,102,102,"7,85",0,0,0
+A02,Autres salmonelloses,3 180,2 790,"5,81",390,288,0
+A03,Shigellose,429,356,"4,88",73,48,0
+A04,Autres infections intestinales bactériennes,13 181,11 022,"8,32",2 159,1 016,0
+A05,"Autres intoxications bactériennes d'origine alimentaire, non classées ailleurs",1 253,384,"6,21",869,473,0
+A06,Amibiase,123,104,"12,03",19,1 à 10,0
+A07,Autres maladies intestinales à protozoaires,379,309,"8,40",70,42,0
+A08,Infections virales intestinales et autres infections intestinales précisées,19 698,10 768,"3,65",8 930,7 032,0
+A09,Autres gastroentérites et colites d'origine infectieuse ou non précisée,55 319,22 678,"5,66",32 641,19 947,0
+"",Total,93 868,48 688,"",45 180,"",0

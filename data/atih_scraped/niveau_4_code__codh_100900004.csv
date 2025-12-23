@@ -1,6 +1,6 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"J930","Pneumothorax spontané avec pression positive","978","824","6,93","154","93","0"
-"J931","Autres pneumothorax spontanés","6 146","5 009","6,67","1 137","671","0"
-"J938","Autres pneumothorax","1 684","1 276","7,84","408","233","0"
-"J939","Pneumothorax, sans précision","2 371","1 518","6,84","853","443","0"
-"","Total","11 179","8 627","","2 552","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+J930,Pneumothorax spontané avec pression positive,978,824,"6,93",154,93,0
+J931,Autres pneumothorax spontanés,6 146,5 009,"6,67",1 137,671,0
+J938,Autres pneumothorax,1 684,1 276,"7,84",408,233,0
+J939,"Pneumothorax, sans précision",2 371,1 518,"6,84",853,443,0
+"",Total,11 179,8 627,"",2 552,"",0

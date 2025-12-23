@@ -1,6 +1,6 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"A370","Coqueluche à Bordetella pertussis","1 993","1 557","7,26","436","338","0"
-"A371","Coqueluche à Bordetella parapertussis","121","98","7,50","23","18","0"
-"A378","Coqueluche due à d'autres espèces de Bordetella","53","37","6,14","16","1 à 10","0"
-"A379","Coqueluche, sans précision","876","518","5,61","358","254","0"
-"","Total","3 043","2 210","","833","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+A370,Coqueluche à Bordetella pertussis,1 993,1 557,"7,26",436,338,0
+A371,Coqueluche à Bordetella parapertussis,121,98,"7,50",23,18,0
+A378,Coqueluche due à d'autres espèces de Bordetella,53,37,"6,14",16,1 à 10,0
+A379,"Coqueluche, sans précision",876,518,"5,61",358,254,0
+"",Total,3 043,2 210,"",833,"",0

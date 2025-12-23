@@ -1,6 +1,6 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"A970","Dengue sans signe d'alerte","573","405","3,80","168","102","0"
-"A971","Dengue avec signes d'alerte","556","463","4,53","93","54","0"
-"A972","Dengue sévère","174","156","6,83","18","14","0"
-"A979","Dengue, sans précision","691","458","3,60","233","124","0"
-"","Total","1 994","1 482","","512","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+A970,Dengue sans signe d'alerte,573,405,"3,80",168,102,0
+A971,Dengue avec signes d'alerte,556,463,"4,53",93,54,0
+A972,Dengue sévère,174,156,"6,83",18,14,0
+A979,"Dengue, sans précision",691,458,"3,60",233,124,0
+"",Total,1 994,1 482,"",512,"",0

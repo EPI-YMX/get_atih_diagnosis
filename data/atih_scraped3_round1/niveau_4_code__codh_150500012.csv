@@ -1,9 +1,0 @@
-Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
-O710,Rupture de l'utérus avant le début du travail,43,43,"6,33",0,0,0
-O711,Rupture de l'utérus pendant le travail,175,175,"5,96",0,0,0
-O713,Déchirure obstétricale du col de l'utérus,42,41,"4,59",1 à 10,0,0
-O714,Déchirure obstétricale vaginale haute isolée,423,421,"3,97",1 à 10,1 à 10,0
-O715,Autres lésions obstétricales des organes pelviens,16,15,"4,67",1 à 10,1 à 10,0
-O717,Hématome pelvien d'origine osbtétricale,95,75,"4,13",20,1 à 10,0
-O718,Autres traumatismes obstétricaux précisés,29,28,"4,25",1 à 10,0,0
-"",Total,832,806,"",26,"",0

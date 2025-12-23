@@ -1,6 +1,6 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"K581","Syndrome de l'intestin irritable, avec diarrhée prédominante [SII-D]","1 377","160","5,09","1 217","73","0"
-"K582","Syndrome de l'intestin irritable, avec constipation prédominante [SII-C]","827","117","5,10","710","53","0"
-"K583","Syndrome de l'intestin irritable, avec troubles du transit mixtes [SII-M]","743","97","3,55","646","55","0"
-"K588","Syndrome de l'intestin irritable, autre et non précisé","1 485","186","3,63","1 299","81","0"
-"","Total","4 432","560","","3 872","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+K581,"Syndrome de l'intestin irritable, avec diarrhée prédominante [SII-D]",1 377,160,"5,09",1 217,73,0
+K582,"Syndrome de l'intestin irritable, avec constipation prédominante [SII-C]",827,117,"5,10",710,53,0
+K583,"Syndrome de l'intestin irritable, avec troubles du transit mixtes [SII-M]",743,97,"3,55",646,55,0
+K588,"Syndrome de l'intestin irritable, autre et non précisé",1 485,186,"3,63",1 299,81,0
+"",Total,4 432,560,"",3 872,"",0

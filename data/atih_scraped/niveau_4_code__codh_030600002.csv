@@ -1,6 +1,6 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"D811","Déficit immunitaire combiné sévère [DICS] avec nombre faible de cellules B et T","23","23","34,13","0","0","0"
-"D812","Déficit immunitaire combiné sévère [DICS] avec nombre faible ou normal de cellules B","15","15","26,20","0","0","0"
-"D818","Autres déficits immunitaires combinés","16","16","21,31","0","0","0"
-"D819","Déficit immunitaire combiné, sans précision","62","61","10,67","1 à 10","0","0"
-"","Total","121","120","","1 à 10","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+D811,Déficit immunitaire combiné sévère [DICS] avec nombre faible de cellules B et T,23,23,"34,13",0,0,0
+D812,Déficit immunitaire combiné sévère [DICS] avec nombre faible ou normal de cellules B,15,15,"26,20",0,0,0
+D818,Autres déficits immunitaires combinés,16,16,"21,31",0,0,0
+D819,"Déficit immunitaire combiné, sans précision",62,61,"10,67",1 à 10,0,0
+"",Total,121,120,"",1 à 10,"",0

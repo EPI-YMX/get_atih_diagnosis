@@ -1,8 +1,8 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"N320","Obstruction du col de la vessie","1 059","923","2,76","136","0","0"
-"N321","Fistule vésico-intestinale","619","581","13,12","38","1 à 10","0"
-"N322","Fistule vésicale, non classée ailleurs","272","249","11,21","23","0","0"
-"N323","Diverticule de la vessie","231","210","4,09","21","0","0"
-"N324","Rupture de la vessie, non traumatique","72","66","10,48","1 à 10","0","0"
-"N328","Autres affections précisées de la vessie","5 376","3 029","3,90","2 347","1 à 10","0"
-"","Total","7 629","5 058","","2 571","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+N320,Obstruction du col de la vessie,1 059,923,"2,76",136,0,0
+N321,Fistule vésico-intestinale,619,581,"13,12",38,1 à 10,0
+N322,"Fistule vésicale, non classée ailleurs",272,249,"11,21",23,0,0
+N323,Diverticule de la vessie,231,210,"4,09",21,0,0
+N324,"Rupture de la vessie, non traumatique",72,66,"10,48",1 à 10,0,0
+N328,Autres affections précisées de la vessie,5 376,3 029,"3,90",2 347,1 à 10,0
+"",Total,7 629,5 058,"",2 571,"",0

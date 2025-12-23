@@ -1,10 +1,10 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"K280","Ulcère gastro-jéjunal aigu, avec hémorragie","236","209","8,31","27","20","0"
-"K281","Ulcère gastro-jéjunal aigu, avec perforation","139","137","9,38","1 à 10","0","0"
-"K282","Ulcère gastro-jéjunal aigu, avec hémorragie et perforation","17","15","9,40","1 à 10","1 à 10","0"
-"K283","Ulcère gastro-jéjunal aigu, sans hémorragie ni perforation","158","82","5,59","76","27","0"
-"K284","Ulcère gastro-jéjunal chronique ou non précisé, avec hémorragie","58","48","9,56","1 à 10","1 à 10","0"
-"K285","Ulcère gastro-jéjunal chronique ou non précisé, avec perforation","26","22","10,68","1 à 10","0","0"
-"K287","Ulcère gastro-jéjunal chronique, sans hémorragie ni perforation","53","30","3,50","23","1 à 10","0"
-"K289","Ulcère gastro-jéjunal non précisé comme étant aigu ou chronique, sans hémorragie ni perforation","154","64","5,66","90","14","0"
-"","Total","844","610","","234","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+K280,"Ulcère gastro-jéjunal aigu, avec hémorragie",236,209,"8,31",27,20,0
+K281,"Ulcère gastro-jéjunal aigu, avec perforation",139,137,"9,38",1 à 10,0,0
+K282,"Ulcère gastro-jéjunal aigu, avec hémorragie et perforation",17,15,"9,40",1 à 10,1 à 10,0
+K283,"Ulcère gastro-jéjunal aigu, sans hémorragie ni perforation",158,82,"5,59",76,27,0
+K284,"Ulcère gastro-jéjunal chronique ou non précisé, avec hémorragie",58,48,"9,56",1 à 10,1 à 10,0
+K285,"Ulcère gastro-jéjunal chronique ou non précisé, avec perforation",26,22,"10,68",1 à 10,0,0
+K287,"Ulcère gastro-jéjunal chronique, sans hémorragie ni perforation",53,30,"3,50",23,1 à 10,0
+K289,"Ulcère gastro-jéjunal non précisé comme étant aigu ou chronique, sans hémorragie ni perforation",154,64,"5,66",90,14,0
+"",Total,844,610,"",234,"",0

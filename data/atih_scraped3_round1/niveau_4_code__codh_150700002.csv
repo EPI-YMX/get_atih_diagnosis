@@ -1,8 +1,0 @@
-Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
-O860,Infection d'une plaie d'origine obstétricale chirurgicale,365,275,"4,87",90,66,0
-O861,"Autres infections des voies génitales, après accouchement",110,95,"4,08",15,1 à 10,0
-O862,"Infection des voies urinaires, après accouchement",212,183,"3,99",29,21,0
-O863,"Autres infections des voies génito-urinaires, après accouchement",43,36,"5,06",1 à 10,1 à 10,0
-O864,"Hyperthermie (d'origine inconnue), après accouchement",124,105,"4,02",19,14,0
-O868,Autres infections puerpérales précisées,15,13,"6,69",1 à 10,0,0
-"",Total,869,707,"",162,"",0

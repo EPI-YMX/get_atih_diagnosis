@@ -1,5 +1,5 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"C740","Tumeur maligne du cortex de la surrénale","251","214","11,58","37","1 à 10","0"
-"C741","Tumeur maligne de la médullosurrénale","233","208","7,36","25","1 à 10","0"
-"C749","Tumeur maligne de la surrénale, sans précision","380","313","11,35","67","19","0"
-"","Total","864","735","","129","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+C740,Tumeur maligne du cortex de la surrénale,251,214,"11,58",37,1 à 10,0
+C741,Tumeur maligne de la médullosurrénale,233,208,"7,36",25,1 à 10,0
+C749,"Tumeur maligne de la surrénale, sans précision",380,313,"11,35",67,19,0
+"",Total,864,735,"",129,"",0

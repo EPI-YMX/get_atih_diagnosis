@@ -1,10 +1,10 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"K270","Ulcère digestif, de siège non précisé, aigu avec hémorragie","313","227","9,07","86","54","0"
-"K271","Ulcère digestif, de siège non précisé, aigu avec perforation","50","50","6,86","0","0","0"
-"K272","Ulcère digestif, de siège non précisé, aigu avec hémorragie et perforation","18","15","11,87","1 à 10","0","0"
-"K273","Ulcère digestif, de siège non précisé, aigu sans hémorragie ni perforation","80","30","4,73","50","24","0"
-"K274","Ulcère digestif, de siège non précisé, chronique ou non précisé, avec hémorragie","118","78","8,35","40","23","0"
-"K275","Ulcère digestif, de siège non précisé, chronique ou non précisé, avec perforation","32","31","7,52","1 à 10","0","0"
-"K277","Ulcère digestif, de siège non précisé, chronique sans hémorragie ni perforation","39","1 à 10","NA","31","1 à 10","0"
-"K279","Ulcère digestif, de siège non précisé, non précisé comme étant aigu ou chronique, sans hémorragie ni perforation","64","15","5,33","49","21","0"
-"","Total","717","455","","262","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+K270,"Ulcère digestif, de siège non précisé, aigu avec hémorragie",313,227,"9,07",86,54,0
+K271,"Ulcère digestif, de siège non précisé, aigu avec perforation",50,50,"6,86",0,0,0
+K272,"Ulcère digestif, de siège non précisé, aigu avec hémorragie et perforation",18,15,"11,87",1 à 10,0,0
+K273,"Ulcère digestif, de siège non précisé, aigu sans hémorragie ni perforation",80,30,"4,73",50,24,0
+K274,"Ulcère digestif, de siège non précisé, chronique ou non précisé, avec hémorragie",118,78,"8,35",40,23,0
+K275,"Ulcère digestif, de siège non précisé, chronique ou non précisé, avec perforation",32,31,"7,52",1 à 10,0,0
+K277,"Ulcère digestif, de siège non précisé, chronique sans hémorragie ni perforation",39,1 à 10,NA,31,1 à 10,0
+K279,"Ulcère digestif, de siège non précisé, non précisé comme étant aigu ou chronique, sans hémorragie ni perforation",64,15,"5,33",49,21,0
+"",Total,717,455,"",262,"",0

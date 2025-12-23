@@ -1,7 +1,7 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"C570","Tumeur maligne d'une trompe de Fallope","121","112","4,36","1 à 10","1 à 10","0"
-"C574","Tumeur maligne des annexes de l'utérus, sans précision","31","27","12,22","1 à 10","1 à 10","0"
-"C577","Tumeur maligne d'autres organes génitaux de la femme précisés","12","1 à 10","NA","1 à 10","0","0"
-"C578","Tumeur maligne à localisations contiguës des organes génitaux de la femme","131","102","9,21","29","1 à 10","0"
-"C579","Tumeur maligne d'un organe génital de la femme, sans précision","56","42","10,83","14","1 à 10","0"
-"","Total","354","295","","59","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+C570,Tumeur maligne d'une trompe de Fallope,121,112,"4,36",1 à 10,1 à 10,0
+C574,"Tumeur maligne des annexes de l'utérus, sans précision",31,27,"12,22",1 à 10,1 à 10,0
+C577,Tumeur maligne d'autres organes génitaux de la femme précisés,12,1 à 10,NA,1 à 10,0,0
+C578,Tumeur maligne à localisations contiguës des organes génitaux de la femme,131,102,"9,21",29,1 à 10,0
+C579,"Tumeur maligne d'un organe génital de la femme, sans précision",56,42,"10,83",14,1 à 10,0
+"",Total,354,295,"",59,"",0

@@ -1,12 +1,12 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"K110","Atrophie des glandes salivaires","14","1 à 10","NA","1 à 10","0","0"
-"K111","Hypertrophie des glandes salivaires","66","19","3,53","47","1 à 10","0"
-"K112","Sialoadénite","1 954","1 071","6,38","883","218","0"
-"K113","Abcès des glandes salivaires","321","238","6,03","83","33","0"
-"K114","Fistule des glandes salivaires","23","13","4,08","1 à 10","1 à 10","0"
-"K115","Sialolithiase","1 431","398","2,55","1 033","137","0"
-"K116","Mucocèle des glandes salivaires","290","83","2,36","207","1 à 10","0"
-"K117","Troubles de la sécrétion salivaire","1 539","68","9,38","1 471","46","0"
-"K118","Autres maladies des glandes salivaires","562","123","3,31","439","44","0"
-"K119","Maladie des glandes salivaires, sans précision","32","1 à 10","NA","27","1 à 10","0"
-"","Total","6 232","2 022","","4 210","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+K110,Atrophie des glandes salivaires,14,1 à 10,NA,1 à 10,0,0
+K111,Hypertrophie des glandes salivaires,66,19,"3,53",47,1 à 10,0
+K112,Sialoadénite,1 954,1 071,"6,38",883,218,0
+K113,Abcès des glandes salivaires,321,238,"6,03",83,33,0
+K114,Fistule des glandes salivaires,23,13,"4,08",1 à 10,1 à 10,0
+K115,Sialolithiase,1 431,398,"2,55",1 033,137,0
+K116,Mucocèle des glandes salivaires,290,83,"2,36",207,1 à 10,0
+K117,Troubles de la sécrétion salivaire,1 539,68,"9,38",1 471,46,0
+K118,Autres maladies des glandes salivaires,562,123,"3,31",439,44,0
+K119,"Maladie des glandes salivaires, sans précision",32,1 à 10,NA,27,1 à 10,0
+"",Total,6 232,2 022,"",4 210,"",0

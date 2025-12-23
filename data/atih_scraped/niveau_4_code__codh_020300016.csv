@@ -1,6 +1,6 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"D250","Léiomyome sous-muqueux de l'utérus","6 148","5 829","0,82","319","1 à 10","0"
-"D251","Léiomyome intramural de l'utérus","3 765","3 662","2,07","103","0","0"
-"D252","Léiomyome sous-séreux de l'utérus","1 388","1 363","2,32","25","0","0"
-"D259","Léiomyome de l'utérus, sans précision","13 858","13 399","1,77","459","1 à 10","0"
-"","Total","25 159","24 253","","906","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+D250,Léiomyome sous-muqueux de l'utérus,6 148,5 829,"0,82",319,1 à 10,0
+D251,Léiomyome intramural de l'utérus,3 765,3 662,"2,07",103,0,0
+D252,Léiomyome sous-séreux de l'utérus,1 388,1 363,"2,32",25,0,0
+D259,"Léiomyome de l'utérus, sans précision",13 858,13 399,"1,77",459,1 à 10,0
+"",Total,25 159,24 253,"",906,"",0

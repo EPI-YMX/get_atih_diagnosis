@@ -1,6 +1,6 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"D500","Anémie par carence en fer secondaire à une perte de sang (chronique)","14 214","8 113","7,62","6 101","3 548","0"
-"D501","Dysphagie sidéropénique","18","12","8,08","1 à 10","1 à 10","0"
-"D508","Autres anémies par carence en fer","22 958","12 628","7,71","10 330","4 586","0"
-"D509","Anémie par carence en fer, sans précision","17 974","8 359","7,09","9 615","4 341","0"
-"","Total","55 164","29 112","","26 052","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+D500,Anémie par carence en fer secondaire à une perte de sang (chronique),14 214,8 113,"7,62",6 101,3 548,0
+D501,Dysphagie sidéropénique,18,12,"8,08",1 à 10,1 à 10,0
+D508,Autres anémies par carence en fer,22 958,12 628,"7,71",10 330,4 586,0
+D509,"Anémie par carence en fer, sans précision",17 974,8 359,"7,09",9 615,4 341,0
+"",Total,55 164,29 112,"",26 052,"",0

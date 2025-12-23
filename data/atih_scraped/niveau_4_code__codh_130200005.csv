@@ -1,6 +1,6 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"M340","Sclérodermie systémique progresssive","615","445","7,48","170","0","0"
-"M341","Syndrome C.R.E.S.T.","275","129","6,67","146","0","0"
-"M348","Autres formes de sclérodermie systémique","362","220","7,84","142","0","0"
-"M349","Sclérodermie systémique, sans précision","819","244","7,15","575","0","0"
-"","Total","2 074","1 040","","1 034","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+M340,Sclérodermie systémique progresssive,615,445,"7,48",170,0,0
+M341,Syndrome C.R.E.S.T.,275,129,"6,67",146,0,0
+M348,Autres formes de sclérodermie systémique,362,220,"7,84",142,0,0
+M349,"Sclérodermie systémique, sans précision",819,244,"7,15",575,0,0
+"",Total,2 074,1 040,"",1 034,"",0

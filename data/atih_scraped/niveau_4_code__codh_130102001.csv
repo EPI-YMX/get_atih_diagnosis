@@ -1,30 +1,30 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"M051","Maladie pulmonaire rhumatoïde (J99.0)","16","1 à 10","NA","1 à 10","0","0"
-"M0510","Maladie pulmonaire rhumatoïde (J99.0) - Sièges multiples","24","22","7,91","1 à 10","0","0"
-"M052","Vascularite rhumatoïde","39","35","4,71","1 à 10","0","0"
-"M0520","Vascularite rhumatoïde - Sièges multiples","50","46","7,63","1 à 10","0","0"
-"M053","Polyarthrite rhumatoïde avec atteinte d'autres organes et appareils","70","47","5,64","23","0","0"
-"M0530","Polyarthrite rhumatoïde avec atteinte d'autres organes et appareils - Sièges multiples","175","112","7,88","63","0","0"
-"M0533","Polyarthrite rhumatoïde avec atteinte d'autres organes et appareils - Articulation du poignet","16","12","4,00","1 à 10","0","0"
-"M0534","Polyarthrite rhumatoïde avec atteinte d'autres organes et appareils - Articulations de la main","18","1 à 10","NA","1 à 10","0","0"
-"M0537","Polyarthrite rhumatoïde avec atteinte d'autres organes et appareils - Articulations de la cheville et du pied","11","1 à 10","NA","1 à 10","0","0"
-"M0538","Polyarthrite rhumatoïde avec atteinte d'autres organes et appareils - Autres articulations","14","12","5,92","1 à 10","0","0"
-"M0539","Polyarthrite rhumatoïde avec atteinte d'autres organes et appareils - Siège non précisé","73","1 à 10","NA","67","0","0"
-"M058","Autres polyarthrites rhumatoïdes séropositives","203","110","5,97","93","0","0"
-"M0580","Autres polyarthrites rhumatoïdes séropositives - Sièges multiples","1 449","991","5,36","458","0","0"
-"M0581","Autres polyarthrites rhumatoïdes séropositives - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire","11","1 à 10","NA","1 à 10","0","0"
-"M0583","Autres polyarthrites rhumatoïdes séropositives - Articulation du poignet","17","16","4,00","1 à 10","0","0"
-"M0584","Autres polyarthrites rhumatoïdes séropositives - Articulations de la main","18","14","5,86","1 à 10","0","0"
-"M0586","Autres polyarthrites rhumatoïdes séropositives - Articulation du genou","25","22","7,14","1 à 10","0","0"
-"M0587","Autres polyarthrites rhumatoïdes séropositives - Articulations de la cheville et du pied","15","11","3,82","1 à 10","0","0"
-"M0588","Autres polyarthrites rhumatoïdes séropositives - Autres articulations","24","15","7,07","1 à 10","0","0"
-"M0589","Autres polyarthrites rhumatoïdes séropositives - Siège non précisé","25","15","6,87","1 à 10","0","0"
-"M059","Polyarthrite rhumatoïde séropositive, sans précision","1 116","552","5,40","564","0","0"
-"M0590","Polyarthrite rhumatoïde séropositive, sans précision - Sièges multiples","1 341","925","6,45","416","0","0"
-"M0593","Polyarthrite rhumatoïde séropositive, sans précision - Articulation du poignet","17","13","8,54","1 à 10","0","0"
-"M0594","Polyarthrite rhumatoïde séropositive, sans précision - Articulations de la main","26","19","5,53","1 à 10","0","0"
-"M0596","Polyarthrite rhumatoïde séropositive, sans précision - Articulation du genou","23","19","7,26","1 à 10","0","0"
-"M0597","Polyarthrite rhumatoïde séropositive, sans précision - Articulations de la cheville et du pied","13","11","7,55","1 à 10","0","0"
-"M0598","Polyarthrite rhumatoïde séropositive, sans précision - Autres articulations","28","23","6,78","1 à 10","0","0"
-"M0599","Polyarthrite rhumatoïde séropositive, sans précision - Siège non précisé","167","75","8,36","92","0","0"
-"","Total","5 111","3 222","","1 889","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+M051,Maladie pulmonaire rhumatoïde (J99.0),16,1 à 10,NA,1 à 10,0,0
+M0510,Maladie pulmonaire rhumatoïde (J99.0) - Sièges multiples,24,22,"7,91",1 à 10,0,0
+M052,Vascularite rhumatoïde,39,35,"4,71",1 à 10,0,0
+M0520,Vascularite rhumatoïde - Sièges multiples,50,46,"7,63",1 à 10,0,0
+M053,Polyarthrite rhumatoïde avec atteinte d'autres organes et appareils,70,47,"5,64",23,0,0
+M0530,Polyarthrite rhumatoïde avec atteinte d'autres organes et appareils - Sièges multiples,175,112,"7,88",63,0,0
+M0533,Polyarthrite rhumatoïde avec atteinte d'autres organes et appareils - Articulation du poignet,16,12,"4,00",1 à 10,0,0
+M0534,Polyarthrite rhumatoïde avec atteinte d'autres organes et appareils - Articulations de la main,18,1 à 10,NA,1 à 10,0,0
+M0537,Polyarthrite rhumatoïde avec atteinte d'autres organes et appareils - Articulations de la cheville et du pied,11,1 à 10,NA,1 à 10,0,0
+M0538,Polyarthrite rhumatoïde avec atteinte d'autres organes et appareils - Autres articulations,14,12,"5,92",1 à 10,0,0
+M0539,Polyarthrite rhumatoïde avec atteinte d'autres organes et appareils - Siège non précisé,73,1 à 10,NA,67,0,0
+M058,Autres polyarthrites rhumatoïdes séropositives,203,110,"5,97",93,0,0
+M0580,Autres polyarthrites rhumatoïdes séropositives - Sièges multiples,1 449,991,"5,36",458,0,0
+M0581,"Autres polyarthrites rhumatoïdes séropositives - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire",11,1 à 10,NA,1 à 10,0,0
+M0583,Autres polyarthrites rhumatoïdes séropositives - Articulation du poignet,17,16,"4,00",1 à 10,0,0
+M0584,Autres polyarthrites rhumatoïdes séropositives - Articulations de la main,18,14,"5,86",1 à 10,0,0
+M0586,Autres polyarthrites rhumatoïdes séropositives - Articulation du genou,25,22,"7,14",1 à 10,0,0
+M0587,Autres polyarthrites rhumatoïdes séropositives - Articulations de la cheville et du pied,15,11,"3,82",1 à 10,0,0
+M0588,Autres polyarthrites rhumatoïdes séropositives - Autres articulations,24,15,"7,07",1 à 10,0,0
+M0589,Autres polyarthrites rhumatoïdes séropositives - Siège non précisé,25,15,"6,87",1 à 10,0,0
+M059,"Polyarthrite rhumatoïde séropositive, sans précision",1 116,552,"5,40",564,0,0
+M0590,"Polyarthrite rhumatoïde séropositive, sans précision - Sièges multiples",1 341,925,"6,45",416,0,0
+M0593,"Polyarthrite rhumatoïde séropositive, sans précision - Articulation du poignet",17,13,"8,54",1 à 10,0,0
+M0594,"Polyarthrite rhumatoïde séropositive, sans précision - Articulations de la main",26,19,"5,53",1 à 10,0,0
+M0596,"Polyarthrite rhumatoïde séropositive, sans précision - Articulation du genou",23,19,"7,26",1 à 10,0,0
+M0597,"Polyarthrite rhumatoïde séropositive, sans précision - Articulations de la cheville et du pied",13,11,"7,55",1 à 10,0,0
+M0598,"Polyarthrite rhumatoïde séropositive, sans précision - Autres articulations",28,23,"6,78",1 à 10,0,0
+M0599,"Polyarthrite rhumatoïde séropositive, sans précision - Siège non précisé",167,75,"8,36",92,0,0
+"",Total,5 111,3 222,"",1 889,"",0

@@ -1,5 +1,5 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"B670","Infection hépatique à Echinococcus granulosus","51","49","10,98","1 à 10","0","0"
-"B671","Infection pulmonaire à Echinococcus granulosus","14","12","14,00","1 à 10","0","0"
-"B678","Infection hépatique à Echinococcus, sans précision","72","61","9,00","11","0","0"
-"","Total","163","143","","20","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+B670,Infection hépatique à Echinococcus granulosus,51,49,"10,98",1 à 10,0,0
+B671,Infection pulmonaire à Echinococcus granulosus,14,12,"14,00",1 à 10,0,0
+B678,"Infection hépatique à Echinococcus, sans précision",72,61,"9,00",11,0,0
+"",Total,163,143,"",20,"",0

@@ -1,8 +1,0 @@
-Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
-O900,Rupture d'une suture de césarienne,81,47,"7,13",34,15,0
-O901,Rupture d'une suture obstétricale du périnée,74,27,"5,89",47,22,0
-O902,Hématome d'une plaie obstétricale,210,153,"4,95",57,25,0
-O903,Myocardiopathie au cours de la puerpéralité,20,19,"8,26",1 à 10,1 à 10,0
-O904,Insuffisance rénale aiguë du post-partum,12,12,"7,08",0,0,0
-O908,"Autres complications puerpérales, non classées ailleurs",178,91,"3,87",87,30,0
-"",Total,580,350,"",230,"",0

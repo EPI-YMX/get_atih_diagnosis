@@ -1,5 +1,5 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"C680","Tumeur maligne de l'urètre","128","119","6,18","1 à 10","1 à 10","0"
-"C688","Tumeur maligne à localisations contiguës des organes urinaires","49","44","8,73","1 à 10","1 à 10","0"
-"C689","Tumeur maligne d'un organe urinaire, sans précision","26","12","14,00","14","1 à 10","0"
-"","Total","204","176","","28","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+C680,Tumeur maligne de l'urètre,128,119,"6,18",1 à 10,1 à 10,0
+C688,Tumeur maligne à localisations contiguës des organes urinaires,49,44,"8,73",1 à 10,1 à 10,0
+C689,"Tumeur maligne d'un organe urinaire, sans précision",26,12,"14,00",14,1 à 10,0
+"",Total,204,176,"",28,"",0

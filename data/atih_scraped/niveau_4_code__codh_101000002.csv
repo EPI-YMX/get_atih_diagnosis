@@ -1,22 +1,22 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"J960","Insuffisance respiratoire aiguë","8 067","7 508","8,48","559","1 à 10","0"
-"J9600","Insuffisance respiratoire aigüe de type I [hypoxique]","18 091","17 274","10,25","817","1 à 10","0"
-"J9601","Insuffisance respiratoire aigüe de type II [hypercapnique]","8 063","7 828","12,45","235","1 à 10","0"
-"J9609","Insuffisance respiratoire aigüe, type non précisé","6 126","5 724","8,28","402","1 à 10","0"
-"J961","Insuffisance respiratoire chronique","728","508","9,66","220","0","0"
-"J961+0","Insuffisance respiratoire chronique obstructive","826","574","11,14","252","0","0"
-"J961+1","Insuffisance respiratoire chronique restrictive","677","459","10,62","218","0","0"
-"J9610","Insuffisance respiratoire chronique de type I [hypoxique]","285","198","7,23","87","0","0"
-"J96100","Insuffisance respiratoire chronique obstructive de type I [hypoxique]","390","249","10,50","141","0","0"
-"J96101","Insuffisance respiratoire chronique restrictive de type I [hypoxique]","216","173","10,74","43","0","0"
-"J9611","Insuffisance respiratoire chronique de type II [hypercapnique]","533","275","9,08","258","0","0"
-"J96110","Insuffisance respiratoire chronique obstructive de type II [hypercapnique]","430","287","8,82","143","0","0"
-"J96111","Insuffisance respiratoire chronique restrictive de type II [hypercapnique]","313","217","7,69","96","0","0"
-"J9619","Insuffisance respiratoire chronique, type non précisé","304","236","9,78","68","0","0"
-"J96190","Insuffisance respiratoire chronique obstructive, type non précisé","151","108","10,27","43","0","0"
-"J96191","Insuffisance respiratoire chronique restrictive, type non précisé","124","97","8,99","27","0","0"
-"J969","Insuffisance respiratoire, sans précision","277","234","6,00","43","0","0"
-"J9690","Insuffisance respiratoire sans précision, de type I [hypoxique]","148","123","6,83","25","0","0"
-"J9691","Insuffisance respiratoire sans précision, de type II [hypercapnique]","68","59","10,27","1 à 10","0","0"
-"J9699","Insuffisance respiratoire sans précision, type non précisé","126","113","7,02","13","0","0"
-"","Total","45 943","42 244","","3 699","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+J960,Insuffisance respiratoire aiguë,8 067,7 508,"8,48",559,1 à 10,0
+J9600,Insuffisance respiratoire aigüe de type I [hypoxique],18 091,17 274,"10,25",817,1 à 10,0
+J9601,Insuffisance respiratoire aigüe de type II [hypercapnique],8 063,7 828,"12,45",235,1 à 10,0
+J9609,"Insuffisance respiratoire aigüe, type non précisé",6 126,5 724,"8,28",402,1 à 10,0
+J961,Insuffisance respiratoire chronique,728,508,"9,66",220,0,0
+J961+0,Insuffisance respiratoire chronique obstructive,826,574,"11,14",252,0,0
+J961+1,Insuffisance respiratoire chronique restrictive,677,459,"10,62",218,0,0
+J9610,Insuffisance respiratoire chronique de type I [hypoxique],285,198,"7,23",87,0,0
+J96100,Insuffisance respiratoire chronique obstructive de type I [hypoxique],390,249,"10,50",141,0,0
+J96101,Insuffisance respiratoire chronique restrictive de type I [hypoxique],216,173,"10,74",43,0,0
+J9611,Insuffisance respiratoire chronique de type II [hypercapnique],533,275,"9,08",258,0,0
+J96110,Insuffisance respiratoire chronique obstructive de type II [hypercapnique],430,287,"8,82",143,0,0
+J96111,Insuffisance respiratoire chronique restrictive de type II [hypercapnique],313,217,"7,69",96,0,0
+J9619,"Insuffisance respiratoire chronique, type non précisé",304,236,"9,78",68,0,0
+J96190,"Insuffisance respiratoire chronique obstructive, type non précisé",151,108,"10,27",43,0,0
+J96191,"Insuffisance respiratoire chronique restrictive, type non précisé",124,97,"8,99",27,0,0
+J969,"Insuffisance respiratoire, sans précision",277,234,"6,00",43,0,0
+J9690,"Insuffisance respiratoire sans précision, de type I [hypoxique]",148,123,"6,83",25,0,0
+J9691,"Insuffisance respiratoire sans précision, de type II [hypercapnique]",68,59,"10,27",1 à 10,0,0
+J9699,"Insuffisance respiratoire sans précision, type non précisé",126,113,"7,02",13,0,0
+"",Total,45 943,42 244,"",3 699,"",0

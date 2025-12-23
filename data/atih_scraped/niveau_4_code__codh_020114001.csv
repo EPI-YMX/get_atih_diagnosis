@@ -1,9 +1,9 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"C810","Lymphome de Hodgkin à prédominance lymphocytaire, forme nodulaire","195","109","7,40","86","0","0"
-"C811","Lymphome de Hodgkin (classique), sclérose nodulaire","1 301","855","10,10","446","0","0"
-"C812","Lymphome de Hodgkin (classique), à cellularité mixte","130","97","12,40","33","0","0"
-"C813","Lymphome de Hodgkin (classique), à déplétion lymphocytaire","16","15","15,93","1 à 10","0","0"
-"C814","Lymphome de Hodgkin (classique), riche en lymphocytes","65","44","11,23","21","0","0"
-"C817","Autres formes de lymphome de Hodgkin (classique)","269","180","10,04","89","0","0"
-"C819","Lymphome de Hodgkin, sans précision","702","470","10,39","232","0","0"
-"","Total","2 678","1 770","","908","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+C810,"Lymphome de Hodgkin à prédominance lymphocytaire, forme nodulaire",195,109,"7,40",86,0,0
+C811,"Lymphome de Hodgkin (classique), sclérose nodulaire",1 301,855,"10,10",446,0,0
+C812,"Lymphome de Hodgkin (classique), à cellularité mixte",130,97,"12,40",33,0,0
+C813,"Lymphome de Hodgkin (classique), à déplétion lymphocytaire",16,15,"15,93",1 à 10,0,0
+C814,"Lymphome de Hodgkin (classique), riche en lymphocytes",65,44,"11,23",21,0,0
+C817,Autres formes de lymphome de Hodgkin (classique),269,180,"10,04",89,0,0
+C819,"Lymphome de Hodgkin, sans précision",702,470,"10,39",232,0,0
+"",Total,2 678,1 770,"",908,"",0

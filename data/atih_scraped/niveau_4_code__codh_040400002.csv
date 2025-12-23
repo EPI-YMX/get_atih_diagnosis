@@ -1,7 +1,7 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"E210","Hyperparathyroïdie primaire","4 636","2 920","2,97","1 716","75","0"
-"E211","Hyperparathyroïdie secondaire, non classée ailleurs","562","245","4,81","317","1 à 10","0"
-"E212","Autres hyperparathyroïdies","185","140","3,96","45","1 à 10","0"
-"E213","Hyperparathyroïdie, sans précision","179","103","4,44","76","14","0"
-"E214","Autres maladies précisées de la glande parathyroïde","31","14","1,79","17","1 à 10","0"
-"","Total","5 593","3 422","","2 171","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+E210,Hyperparathyroïdie primaire,4 636,2 920,"2,97",1 716,75,0
+E211,"Hyperparathyroïdie secondaire, non classée ailleurs",562,245,"4,81",317,1 à 10,0
+E212,Autres hyperparathyroïdies,185,140,"3,96",45,1 à 10,0
+E213,"Hyperparathyroïdie, sans précision",179,103,"4,44",76,14,0
+E214,Autres maladies précisées de la glande parathyroïde,31,14,"1,79",17,1 à 10,0
+"",Total,5 593,3 422,"",2 171,"",0

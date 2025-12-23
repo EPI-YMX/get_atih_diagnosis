@@ -1,5 +1,5 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"F920","Troubles des conduites avec dépression","1 690","1 287","3,56","403","0","0"
-"F928","Autres troubles mixtes des conduites et troubles émotionnels","525","457","3,82","68","0","0"
-"F929","Trouble mixte des conduites et troubles émotionnels, sans précision","223","212","3,65","11","0","0"
-"","Total","2 438","1 956","","482","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+F920,Troubles des conduites avec dépression,1 690,1 287,"3,56",403,0,0
+F928,Autres troubles mixtes des conduites et troubles émotionnels,525,457,"3,82",68,0,0
+F929,"Trouble mixte des conduites et troubles émotionnels, sans précision",223,212,"3,65",11,0,0
+"",Total,2 438,1 956,"",482,"",0

@@ -1,8 +1,8 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"D290","Tumeur bénigne de la verge","77","14","2,79","63","0","0"
-"D291","Tumeur bénigne de la prostate","4 788","4 314","3,58","474","44","0"
-"D292","Tumeur bénigne du testicule","179","60","2,72","119","0","0"
-"D293","Tumeur bénigne de l'épididyme","417","63","2,24","354","0","0"
-"D294","Tumeur bénigne du scrotum","46","1 à 10","NA","41","0","0"
-"D297","Tumeur bénigne d'autres organes génitaux de l'homme","15","1 à 10","NA","1 à 10","0","0"
-"","Total","5 524","4 462","","1 062","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+D290,Tumeur bénigne de la verge,77,14,"2,79",63,0,0
+D291,Tumeur bénigne de la prostate,4 788,4 314,"3,58",474,44,0
+D292,Tumeur bénigne du testicule,179,60,"2,72",119,0,0
+D293,Tumeur bénigne de l'épididyme,417,63,"2,24",354,0,0
+D294,Tumeur bénigne du scrotum,46,1 à 10,NA,41,0,0
+D297,Tumeur bénigne d'autres organes génitaux de l'homme,15,1 à 10,NA,1 à 10,0,0
+"",Total,5 524,4 462,"",1 062,"",0

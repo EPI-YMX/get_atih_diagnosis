@@ -1,13 +1,13 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"K20","Oesophagite","16 564","4 714","5,18","11 850","1 153","0"
-"K21","Reflux gastro-oesophagien","19 085","4 540","3,57","14 545","1 879","0"
-"K22","Autres maladies de l'oesophage","28 377","14 675","4,02","13 702","1 881","0"
-"K23","Atteintes de l'oesophage au cours de maladies classées ailleurs","936","461","9,11","475","57","0"
-"K25","Ulcère de l'estomac","10 200","6 803","7,97","3 397","764","0"
-"K26","Ulcère du duodénum","7 274","6 080","9,51","1 194","374","0"
-"K27","Ulcère digestif, de siège non précisé","717","455","8,17","262","130","0"
-"K28","Ulcère gastro-jéjunal","844","610","7,89","234","73","0"
-"K29","Gastrite et duodénite","69 465","12 681","2,30","56 784","4 286","0"
-"K30","Dyspepsie fonctionnelle","1 757","189","4,08","1 568","109","0"
-"K31","Autres maladies de l'estomac et du duodénum","15 018","9 159","4,87","5 859","710","0"
-"","Total","170 237","60 367","","109 870","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+K20,Oesophagite,16 564,4 714,"5,18",11 850,1 153,0
+K21,Reflux gastro-oesophagien,19 085,4 540,"3,57",14 545,1 879,0
+K22,Autres maladies de l'oesophage,28 377,14 675,"4,02",13 702,1 881,0
+K23,Atteintes de l'oesophage au cours de maladies classées ailleurs,936,461,"9,11",475,57,0
+K25,Ulcère de l'estomac,10 200,6 803,"7,97",3 397,764,0
+K26,Ulcère du duodénum,7 274,6 080,"9,51",1 194,374,0
+K27,"Ulcère digestif, de siège non précisé",717,455,"8,17",262,130,0
+K28,Ulcère gastro-jéjunal,844,610,"7,89",234,73,0
+K29,Gastrite et duodénite,69 465,12 681,"2,30",56 784,4 286,0
+K30,Dyspepsie fonctionnelle,1 757,189,"4,08",1 568,109,0
+K31,Autres maladies de l'estomac et du duodénum,15 018,9 159,"4,87",5 859,710,0
+"",Total,170 237,60 367,"",109 870,"",0

@@ -1,11 +1,11 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"G00","Méningite bactérienne, non classée ailleurs","2 046","1 937","15,05","109","0","0"
-"G01","Méningite au cours d'affections bactériennes classées ailleurs","238","223","12,42","15","1 à 10","0"
-"G02","Méningite au cours d'autres maladies infectieuses et parasitaires classées ailleurs","1 006","780","7,06","226","189","0"
-"G03","Méningite due à des causes autres et non précisées","1 554","1 264","10,34","290","147","0"
-"G04","Encéphalite, myélite et encéphalomyélite","3 520","3 129","13,08","391","0","0"
-"G05","Encéphalite, myélite et encéphalomyélite au cours d'affections classées ailleurs","928","883","14,99","45","1 à 10","0"
-"G06","Abcès et granulome intracrâniens et intrarachidiens","1 669","1 604","17,71","65","0","0"
-"G07","Abcès et granulome intracrâniens et intrarachidiens au cours d'affections classées ailleurs","43","39","15,00","1 à 10","0","0"
-"G08","Phlébite et thrombophlébite intracrâniennes et intrarachidiennes","546","425","10,50","121","69","0"
-"","Total","11 550","10 284","","1 266","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+G00,"Méningite bactérienne, non classée ailleurs",2 046,1 937,"15,05",109,0,0
+G01,Méningite au cours d'affections bactériennes classées ailleurs,238,223,"12,42",15,1 à 10,0
+G02,Méningite au cours d'autres maladies infectieuses et parasitaires classées ailleurs,1 006,780,"7,06",226,189,0
+G03,Méningite due à des causes autres et non précisées,1 554,1 264,"10,34",290,147,0
+G04,"Encéphalite, myélite et encéphalomyélite",3 520,3 129,"13,08",391,0,0
+G05,"Encéphalite, myélite et encéphalomyélite au cours d'affections classées ailleurs",928,883,"14,99",45,1 à 10,0
+G06,Abcès et granulome intracrâniens et intrarachidiens,1 669,1 604,"17,71",65,0,0
+G07,Abcès et granulome intracrâniens et intrarachidiens au cours d'affections classées ailleurs,43,39,"15,00",1 à 10,0,0
+G08,Phlébite et thrombophlébite intracrâniennes et intrarachidiennes,546,425,"10,50",121,69,0
+"",Total,11 550,10 284,"",1 266,"",0

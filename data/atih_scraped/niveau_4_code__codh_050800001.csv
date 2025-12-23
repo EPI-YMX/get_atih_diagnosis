@@ -1,6 +1,6 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"F700","Retard mental léger : déficience du comportement absent ou minime","93","1 à 10","NA","90","1 à 10","0"
-"F701","Retard mental léger : déficience du comportement significatif, nécessitant une surveillance ou traitement","59","1 à 10","NA","51","1 à 10","0"
-"F708","Retard mental léger : autres déficiences du comportement","23","1 à 10","NA","20","1 à 10","0"
-"F709","Retard mental léger : sans mention d'une déficience du comportement","31","1 à 10","NA","27","1 à 10","0"
-"","Total","206","18","","188","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+F700,Retard mental léger : déficience du comportement absent ou minime,93,1 à 10,NA,90,1 à 10,0
+F701,"Retard mental léger : déficience du comportement significatif, nécessitant une surveillance ou traitement",59,1 à 10,NA,51,1 à 10,0
+F708,Retard mental léger : autres déficiences du comportement,23,1 à 10,NA,20,1 à 10,0
+F709,Retard mental léger : sans mention d'une déficience du comportement,31,1 à 10,NA,27,1 à 10,0
+"",Total,206,18,"",188,"",0

@@ -1,7 +1,7 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"G510","Paralysie faciale a frigore","3 646","1 085","5,39","2 561","874","0"
-"G513","Hémispasme facial clonique","4 878","106","5,39","4 772","12","0"
-"G514","Myokymies faciales","13","1 à 10","NA","1 à 10","1 à 10","0"
-"G518","Autres affections du nerf facial","941","225","5,46","716","131","0"
-"G519","Affection du nerf facial, sans précision","170","40","4,13","130","69","0"
-"","Total","9 666","1 472","","8 194","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+G510,Paralysie faciale a frigore,3 646,1 085,"5,39",2 561,874,0
+G513,Hémispasme facial clonique,4 878,106,"5,39",4 772,12,0
+G514,Myokymies faciales,13,1 à 10,NA,1 à 10,1 à 10,0
+G518,Autres affections du nerf facial,941,225,"5,46",716,131,0
+G519,"Affection du nerf facial, sans précision",170,40,"4,13",130,69,0
+"",Total,9 666,1 472,"",8 194,"",0

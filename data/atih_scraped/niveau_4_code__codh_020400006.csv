@@ -1,5 +1,5 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"D420","Tumeur à évolution imprévisible ou inconnue des méninges cérébrales","660","532","8,25","128","86","0"
-"D421","Tumeur à évolution imprévisible ou inconnue des méninges rachidiennes","25","21","5,57","1 à 10","1 à 10","0"
-"D429","Tumeur à évolution imprévisible ou inconnue des méninges, sans précision","53","43","10,98","1 à 10","1 à 10","0"
-"","Total","738","596","","142","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+D420,Tumeur à évolution imprévisible ou inconnue des méninges cérébrales,660,532,"8,25",128,86,0
+D421,Tumeur à évolution imprévisible ou inconnue des méninges rachidiennes,25,21,"5,57",1 à 10,1 à 10,0
+D429,"Tumeur à évolution imprévisible ou inconnue des méninges, sans précision",53,43,"10,98",1 à 10,1 à 10,0
+"",Total,738,596,"",142,"",0

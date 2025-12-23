@@ -1,5 +1,5 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"H60","Otite externe","1 965","1 161","7,23","804","334","0"
-"H61","Autres affections de l'oreille externe","1 776","669","3,51","1 107","50","0"
-"H62","Affections de l'oreille externe au cours de maladies classées ailleurs","64","32","8,16","32","1 à 10","0"
-"","Total","3 805","1 862","","1 943","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+H60,Otite externe,1 965,1 161,"7,23",804,334,0
+H61,Autres affections de l'oreille externe,1 776,669,"3,51",1 107,50,0
+H62,Affections de l'oreille externe au cours de maladies classées ailleurs,64,32,"8,16",32,1 à 10,0
+"",Total,3 805,1 862,"",1 943,"",0

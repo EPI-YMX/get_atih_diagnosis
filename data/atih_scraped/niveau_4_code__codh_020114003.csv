@@ -1,9 +1,9 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"C830","Lymphome à petites cellules B","1 368","809","8,26","559","0","0"
-"C831","Lymphome à cellules du manteau","1 180","906","13,42","274","0","0"
-"C833","Lymphome diffus à grandes cellules B","7 968","6 667","15,13","1 301","1 à 10","0"
-"C835","Lymphome lymphoblastique","152","135","18,93","17","0","0"
-"C837","Lymphome de Burkitt","345","315","21,30","30","0","0"
-"C838","Autres lymphomes non folliculaires","95","71","11,08","24","0","0"
-"C839","Lymphome (diffus) non folliculaire, sans précision","87","64","9,81","23","0","0"
-"","Total","11 195","8 967","","2 228","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+C830,Lymphome à petites cellules B,1 368,809,"8,26",559,0,0
+C831,Lymphome à cellules du manteau,1 180,906,"13,42",274,0,0
+C833,Lymphome diffus à grandes cellules B,7 968,6 667,"15,13",1 301,1 à 10,0
+C835,Lymphome lymphoblastique,152,135,"18,93",17,0,0
+C837,Lymphome de Burkitt,345,315,"21,30",30,0,0
+C838,Autres lymphomes non folliculaires,95,71,"11,08",24,0,0
+C839,"Lymphome (diffus) non folliculaire, sans précision",87,64,"9,81",23,0,0
+"",Total,11 195,8 967,"",2 228,"",0

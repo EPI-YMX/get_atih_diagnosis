@@ -1,7 +1,7 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"G210","Syndrome malin des neuroleptiques","222","207","12,57","15","0","0"
-"G211","Autres syndromes secondaires parkinsoniens dus à des médicaments","180","168","12,38","12","0","0"
-"G214","Parkinsonisme d'origine vasculaire","64","48","9,46","16","0","0"
-"G218","Autres syndromes parkinsoniens secondaires","240","205","9,73","35","0","0"
-"G219","Syndrome parkinsonien secondaire, sans précision","51","31","8,23","20","0","0"
-"","Total","765","666","","99","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+G210,Syndrome malin des neuroleptiques,222,207,"12,57",15,0,0
+G211,Autres syndromes secondaires parkinsoniens dus à des médicaments,180,168,"12,38",12,0,0
+G214,Parkinsonisme d'origine vasculaire,64,48,"9,46",16,0,0
+G218,Autres syndromes parkinsoniens secondaires,240,205,"9,73",35,0,0
+G219,"Syndrome parkinsonien secondaire, sans précision",51,31,"8,23",20,0,0
+"",Total,765,666,"",99,"",0

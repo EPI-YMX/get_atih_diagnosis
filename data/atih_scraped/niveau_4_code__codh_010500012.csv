@@ -1,5 +1,5 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"A6300","Condylomes anaux (vénériens)","1 898","263","1,89","1 635","0","0"
-"A6308","Autres condylomes ano-génitaux (vénériens)","1 835","162","1,55","1 673","16","0"
-"A638","Autres maladies précisées dont le mode de transmission est essentiellement sexuel","14","1 à 10","NA","1 à 10","1 à 10","0"
-"","Total","3 747","429","","3 318","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+A6300,Condylomes anaux (vénériens),1 898,263,"1,89",1 635,0,0
+A6308,Autres condylomes ano-génitaux (vénériens),1 835,162,"1,55",1 673,16,0
+A638,Autres maladies précisées dont le mode de transmission est essentiellement sexuel,14,1 à 10,NA,1 à 10,1 à 10,0
+"",Total,3 747,429,"",3 318,"",0

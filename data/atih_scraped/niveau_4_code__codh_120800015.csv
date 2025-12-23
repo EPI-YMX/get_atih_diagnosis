@@ -1,7 +1,7 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"L940","Sclérodermie localisée [morphée]","180","93","6,55","87","0","0"
-"L941","Sclérodermie linéaire","14","1 à 10","NA","1 à 10","0","0"
-"L942","Calcinose cutanée","230","119","14,31","111","0","0"
-"L943","Sclérodactylie","20","14","5,79","1 à 10","0","0"
-"L948","Autres affections localisées précisées du tissu conjonctif","18","1 à 10","NA","1 à 10","0","0"
-"","Total","467","244","","223","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+L940,Sclérodermie localisée [morphée],180,93,"6,55",87,0,0
+L941,Sclérodermie linéaire,14,1 à 10,NA,1 à 10,0,0
+L942,Calcinose cutanée,230,119,"14,31",111,0,0
+L943,Sclérodactylie,20,14,"5,79",1 à 10,0,0
+L948,Autres affections localisées précisées du tissu conjonctif,18,1 à 10,NA,1 à 10,0,0
+"",Total,467,244,"",223,"",0

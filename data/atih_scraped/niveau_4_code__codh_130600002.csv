@@ -1,7 +1,7 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"M960","Pseudarthrose après arthrodèse","981","861","6,09","120","1 à 10","0"
-"M961","Syndrome post-laminectomie, non classé ailleurs","73","66","6,24","1 à 10","1 à 10","0"
-"M963","Cyphose après laminectomie","16","16","9,50","0","0","0"
-"M966","Fracture osseuse après mise en place d'un implant, d'une prothèse articulaire ou d'une plaque d'ostéosynthèse","10 085","9 240","11,24","845","520","0"
-"M968","Autres affections du système ostéo-articulaire et des muscles après un acte à visée diagnostique et thérapeutique","432","354","8,05","78","17","0"
-"","Total","11 589","10 539","","1 050","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+M960,Pseudarthrose après arthrodèse,981,861,"6,09",120,1 à 10,0
+M961,"Syndrome post-laminectomie, non classé ailleurs",73,66,"6,24",1 à 10,1 à 10,0
+M963,Cyphose après laminectomie,16,16,"9,50",0,0,0
+M966,"Fracture osseuse après mise en place d'un implant, d'une prothèse articulaire ou d'une plaque d'ostéosynthèse",10 085,9 240,"11,24",845,520,0
+M968,Autres affections du système ostéo-articulaire et des muscles après un acte à visée diagnostique et thérapeutique,432,354,"8,05",78,17,0
+"",Total,11 589,10 539,"",1 050,"",0

@@ -1,6 +1,6 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"B350","Teigne de la barbe et du cuir chevelu","48","38","4,11","1 à 10","0","0"
-"B351","Teigne de l'ongle","103","1 à 10","NA","96","0","0"
-"B358","Autres dermatophytoses","48","32","4,94","16","0","0"
-"B359","Dermatophytose, sans précision","12","1 à 10","NA","1 à 10","0","0"
-"","Total","227","91","","136","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+B350,Teigne de la barbe et du cuir chevelu,48,38,"4,11",1 à 10,0,0
+B351,Teigne de l'ongle,103,1 à 10,NA,96,0,0
+B358,Autres dermatophytoses,48,32,"4,94",16,0,0
+B359,"Dermatophytose, sans précision",12,1 à 10,NA,1 à 10,0,0
+"",Total,227,91,"",136,"",0

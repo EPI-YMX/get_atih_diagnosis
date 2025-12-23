@@ -1,11 +1,11 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"L980","Granulome pyogénique","590","58","3,40","532","0","0"
-"L981","Dermite factice","17","15","7,00","1 à 10","0","0"
-"L982","Dermatose neutrophile fébrile [Sweet]","201","185","8,29","16","0","0"
-"L983","Phlegmon à éosinophiles [Wells]","14","14","8,29","0","0","0"
-"L984","Ulcérations chroniques de la peau, non classées ailleurs","1 689","1 055","10,72","634","0","0"
-"L985","Mucinose cutanée","15","1 à 10","NA","1 à 10","0","0"
-"L986","Autres lésions infiltrantes de la peau et du tissu cellulaire sous-cutané","291","155","6,10","136","0","0"
-"L987","Hypertrophie et affaissement de la peau et du tissu cellulaire souscutané","1 228","1 206","2,59","22","0","0"
-"L988","Autres affections précisées de la peau et du tissu cellulaire sous-cutané","1 825","998","5,52","827","0","0"
-"","Total","5 870","3 694","","2 176","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+L980,Granulome pyogénique,590,58,"3,40",532,0,0
+L981,Dermite factice,17,15,"7,00",1 à 10,0,0
+L982,Dermatose neutrophile fébrile [Sweet],201,185,"8,29",16,0,0
+L983,Phlegmon à éosinophiles [Wells],14,14,"8,29",0,0,0
+L984,"Ulcérations chroniques de la peau, non classées ailleurs",1 689,1 055,"10,72",634,0,0
+L985,Mucinose cutanée,15,1 à 10,NA,1 à 10,0,0
+L986,Autres lésions infiltrantes de la peau et du tissu cellulaire sous-cutané,291,155,"6,10",136,0,0
+L987,Hypertrophie et affaissement de la peau et du tissu cellulaire souscutané,1 228,1 206,"2,59",22,0,0
+L988,Autres affections précisées de la peau et du tissu cellulaire sous-cutané,1 825,998,"5,52",827,0,0
+"",Total,5 870,3 694,"",2 176,"",0

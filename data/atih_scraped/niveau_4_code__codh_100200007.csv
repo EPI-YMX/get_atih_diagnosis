@@ -1,12 +1,12 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"J150","Pneumopathie due à Klebsiella pneumoniae","1 106","1 036","14,50","70","34","0"
-"J151","Pneumopathie due à Pseudomonas","3 936","3 595","13,31","341","90","0"
-"J152","Pneumopathie due à des staphylocoques","2 109","1 870","13,70","239","84","0"
-"J153","Pneumopathie due à des streptocoques, groupe B","206","185","10,84","21","13","0"
-"J154","Pneumopathie due à d'autres streptocoques","800","714","12,03","86","40","0"
-"J155","Pneumopathie due à Escherichia coli","799","735","13,34","64","29","0"
-"J156","Pneumopathie due à d'autres bactéries à Gram négatif","1 761","1 602","12,90","159","74","0"
-"J157","Pneumopathie due à Mycoplasma pneumoniae","7 260","6 974","5,85","286","195","0"
-"J158","Autres pneumopathies bactériennes","9 422","7 345","9,13","2 077","1 415","0"
-"J159","Pneumopathie bactérienne, sans précision","26 750","19 312","8,41","7 438","4 903","0"
-"","Total","54 149","43 368","","10 781","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+J150,Pneumopathie due à Klebsiella pneumoniae,1 106,1 036,"14,50",70,34,0
+J151,Pneumopathie due à Pseudomonas,3 936,3 595,"13,31",341,90,0
+J152,Pneumopathie due à des staphylocoques,2 109,1 870,"13,70",239,84,0
+J153,"Pneumopathie due à des streptocoques, groupe B",206,185,"10,84",21,13,0
+J154,Pneumopathie due à d'autres streptocoques,800,714,"12,03",86,40,0
+J155,Pneumopathie due à Escherichia coli,799,735,"13,34",64,29,0
+J156,Pneumopathie due à d'autres bactéries à Gram négatif,1 761,1 602,"12,90",159,74,0
+J157,Pneumopathie due à Mycoplasma pneumoniae,7 260,6 974,"5,85",286,195,0
+J158,Autres pneumopathies bactériennes,9 422,7 345,"9,13",2 077,1 415,0
+J159,"Pneumopathie bactérienne, sans précision",26 750,19 312,"8,41",7 438,4 903,0
+"",Total,54 149,43 368,"",10 781,"",0

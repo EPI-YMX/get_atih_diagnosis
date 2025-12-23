@@ -1,14 +1,14 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"N040","Syndrome néphrotique avec anomalies glomérulaires mineures","372","345","7,39","27","0","0"
-"N0400","Syndrome néphrotique avec anomalies glomérulaires mineures, avec dépôts d'Ig A","287","269","5,22","18","0","0"
-"N0409","Syndrome néphrotique avec anomalies glomérulaires mineures, autres et sans précision","387","351","7,63","36","0","0"
-"N041","Syndrome néphrotique avec lésions glomérulaires segmentaires et focales","623","568","6,71","55","0","0"
-"N042","Syndrome néphrotique avec glomérulonéphrite membraneuse diffuse","521","478","7,40","43","0","0"
-"N043","Syndrome néphrotique avec glomérulonéphrite proliférative mésangiale diffuse","20","19","8,11","1 à 10","0","0"
-"N044","Syndrome néphrotique avec glomérulonéphrite proliférative endocapillaire diffuse","29","27","4,89","1 à 10","0","0"
-"N045","Syndrome néphrotique avec glomérulonéphrite mésangiocapillaire diffuse","52","49","8,61","1 à 10","0","0"
-"N046","Syndrome néphrotique avec maladie à dépôt dense","21","20","8,60","1 à 10","0","0"
-"N047","Syndrome néphrotique avec glomérulonéphrite diffuse en croissant","55","54","6,57","1 à 10","0","0"
-"N048","Syndromes néphrotiques avec autres lésions morphologiques","255","234","7,40","21","0","0"
-"N049","Syndrome néphrotique, sans précision","1 651","1 447","6,45","204","0","0"
-"","Total","4 273","3 861","","412","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+N040,Syndrome néphrotique avec anomalies glomérulaires mineures,372,345,"7,39",27,0,0
+N0400,"Syndrome néphrotique avec anomalies glomérulaires mineures, avec dépôts d'Ig A",287,269,"5,22",18,0,0
+N0409,"Syndrome néphrotique avec anomalies glomérulaires mineures, autres et sans précision",387,351,"7,63",36,0,0
+N041,Syndrome néphrotique avec lésions glomérulaires segmentaires et focales,623,568,"6,71",55,0,0
+N042,Syndrome néphrotique avec glomérulonéphrite membraneuse diffuse,521,478,"7,40",43,0,0
+N043,Syndrome néphrotique avec glomérulonéphrite proliférative mésangiale diffuse,20,19,"8,11",1 à 10,0,0
+N044,Syndrome néphrotique avec glomérulonéphrite proliférative endocapillaire diffuse,29,27,"4,89",1 à 10,0,0
+N045,Syndrome néphrotique avec glomérulonéphrite mésangiocapillaire diffuse,52,49,"8,61",1 à 10,0,0
+N046,Syndrome néphrotique avec maladie à dépôt dense,21,20,"8,60",1 à 10,0,0
+N047,Syndrome néphrotique avec glomérulonéphrite diffuse en croissant,55,54,"6,57",1 à 10,0,0
+N048,Syndromes néphrotiques avec autres lésions morphologiques,255,234,"7,40",21,0,0
+N049,"Syndrome néphrotique, sans précision",1 651,1 447,"6,45",204,0,0
+"",Total,4 273,3 861,"",412,"",0

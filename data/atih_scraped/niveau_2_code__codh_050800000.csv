@@ -1,8 +1,8 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"F70","Retard mental léger","206","18","4,67","188","27","0"
-"F71","Retard mental moyen","201","22","3,45","179","28","0"
-"F72","Retard mental grave","77","15","7,07","62","11","0"
-"F73","Retard mental profond","32","1 à 10","NA","25","1 à 10","0"
-"F78","Autres formes de retard mental","39","1 à 10","NA","35","1 à 10","0"
-"F79","Retard mental, sans précision","305","42","5,55","263","44","0"
-"","Total","860","108","","752","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+F70,Retard mental léger,206,18,"4,67",188,27,0
+F71,Retard mental moyen,201,22,"3,45",179,28,0
+F72,Retard mental grave,77,15,"7,07",62,11,0
+F73,Retard mental profond,32,1 à 10,NA,25,1 à 10,0
+F78,Autres formes de retard mental,39,1 à 10,NA,35,1 à 10,0
+F79,"Retard mental, sans précision",305,42,"5,55",263,44,0
+"",Total,860,108,"",752,"",0

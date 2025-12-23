@@ -1,8 +1,8 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"K550","Troubles vasculaires aigus de l'intestin","5 049","4 144","12,52","905","507","0"
-"K551","Troubles vasculaires chroniques de l'intestin","972","735","8,52","237","131","0"
-"K552","Angiodysplasie du côlon","2 385","1 923","4,38","462","76","0"
-"K553","Angiodysplasie de l'intestin grêle","708","596","6,51","112","37","0"
-"K558","Autres troubles vasculaires de l'intestin","520","387","6,97","133","44","0"
-"K559","Trouble vasculaire de l'intestin, sans précision","241","183","7,73","58","29","0"
-"","Total","9 875","7 968","","1 907","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+K550,Troubles vasculaires aigus de l'intestin,5 049,4 144,"12,52",905,507,0
+K551,Troubles vasculaires chroniques de l'intestin,972,735,"8,52",237,131,0
+K552,Angiodysplasie du côlon,2 385,1 923,"4,38",462,76,0
+K553,Angiodysplasie de l'intestin grêle,708,596,"6,51",112,37,0
+K558,Autres troubles vasculaires de l'intestin,520,387,"6,97",133,44,0
+K559,"Trouble vasculaire de l'intestin, sans précision",241,183,"7,73",58,29,0
+"",Total,9 875,7 968,"",1 907,"",0

@@ -1,8 +1,8 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"K850","Pancréatite aiguë idiopathique","3 105","2 267","8,29","838","873","0"
-"K851","Pancréatite aiguë d'origine biliaire","10 625","8 951","9,36","1 674","1 878","0"
-"K852","Pancréatite aiguë d'origine alcoolique","8 271","6 992","9,22","1 279","1 530","0"
-"K853","Pancréatite aiguë médicamenteuse","498","391","8,59","107","130","0"
-"K858","Autres pancréatites aiguës","6 963","5 205","9,47","1 758","1 876","0"
-"K859","Pancréatite aiguë, sans précision","7 511","4 796","8,46","2 715","2 669","0"
-"","Total","36 973","28 602","","8 371","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+K850,Pancréatite aiguë idiopathique,3 105,2 267,"8,29",838,873,0
+K851,Pancréatite aiguë d'origine biliaire,10 625,8 951,"9,36",1 674,1 878,0
+K852,Pancréatite aiguë d'origine alcoolique,8 271,6 992,"9,22",1 279,1 530,0
+K853,Pancréatite aiguë médicamenteuse,498,391,"8,59",107,130,0
+K858,Autres pancréatites aiguës,6 963,5 205,"9,47",1 758,1 876,0
+K859,"Pancréatite aiguë, sans précision",7 511,4 796,"8,46",2 715,2 669,0
+"",Total,36 973,28 602,"",8 371,"",0

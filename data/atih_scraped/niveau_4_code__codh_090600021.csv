@@ -1,11 +1,11 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"I5000","Insuffisance cardiaque congestive, avec fraction d'éjection ventriculaire gauche [FEVG] supérieure ou égale à 50","32 742","29 951","11,27","2 791","2 744","0"
-"I5001","Insuffisance cardiaque congestive, avec fraction d'éjection ventriculaire gauche [FEVG] inférieure à 50 et supérieure ou égale à 40","11 405","10 292","10,99","1 113","989","0"
-"I5002","Insuffisance cardiaque congestive, avec fraction d'éjection ventriculaire gauche [FEVG] inférieure à 40","24 008","21 757","11,31","2 251","2 056","0"
-"I5009","Insuffisance cardiaque congestive, avec fraction d'éjection ventriculaire gauche [FEVG] non précisée","38 043","29 146","11,17","8 897","8 067","0"
-"I5010","Insuffisance ventriculaire gauche, avec fraction d'éjection ventriculaire gauche [FEVG] supérieure ou égale à 50","15 358","13 337","10,15","2 021","1 871","0"
-"I5011","Insuffisance ventriculaire gauche, avec fraction d'éjection ventriculaire gauche [FEVG] inférieure à 50 et supérieure ou égale à 40","7 149","6 002","9,39","1 147","748","0"
-"I5012","Insuffisance ventriculaire gauche, avec fraction d'éjection ventriculaire gauche [FEVG] inférieure à 40","16 088","13 688","9,78","2 400","1 691","0"
-"I5019","Insuffisance ventriculaire gauche, avec fraction d'éjection ventriculaire gauche [FEVG] non précisée","24 875","17 050","9,99","7 825","6 447","0"
-"I509","Insuffisance cardiaque, sans précision","18 783","11 163","10,36","7 620","6 420","0"
-"","Total","188 451","152 386","","36 065","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+I5000,"Insuffisance cardiaque congestive, avec fraction d'éjection ventriculaire gauche [FEVG] supérieure ou égale à 50",32 742,29 951,"11,27",2 791,2 744,0
+I5001,"Insuffisance cardiaque congestive, avec fraction d'éjection ventriculaire gauche [FEVG] inférieure à 50 et supérieure ou égale à 40",11 405,10 292,"10,99",1 113,989,0
+I5002,"Insuffisance cardiaque congestive, avec fraction d'éjection ventriculaire gauche [FEVG] inférieure à 40",24 008,21 757,"11,31",2 251,2 056,0
+I5009,"Insuffisance cardiaque congestive, avec fraction d'éjection ventriculaire gauche [FEVG] non précisée",38 043,29 146,"11,17",8 897,8 067,0
+I5010,"Insuffisance ventriculaire gauche, avec fraction d'éjection ventriculaire gauche [FEVG] supérieure ou égale à 50",15 358,13 337,"10,15",2 021,1 871,0
+I5011,"Insuffisance ventriculaire gauche, avec fraction d'éjection ventriculaire gauche [FEVG] inférieure à 50 et supérieure ou égale à 40",7 149,6 002,"9,39",1 147,748,0
+I5012,"Insuffisance ventriculaire gauche, avec fraction d'éjection ventriculaire gauche [FEVG] inférieure à 40",16 088,13 688,"9,78",2 400,1 691,0
+I5019,"Insuffisance ventriculaire gauche, avec fraction d'éjection ventriculaire gauche [FEVG] non précisée",24 875,17 050,"9,99",7 825,6 447,0
+I509,"Insuffisance cardiaque, sans précision",18 783,11 163,"10,36",7 620,6 420,0
+"",Total,188 451,152 386,"",36 065,"",0

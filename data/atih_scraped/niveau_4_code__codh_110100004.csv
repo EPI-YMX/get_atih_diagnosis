@@ -1,10 +1,10 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"K030","Attrition excessive des dents","11","1 à 10","NA","1 à 10","0","0"
-"K031","Abrasion des dents","15","1 à 10","NA","12","0","0"
-"K032","Érosion des dents","18","1 à 10","NA","17","0","0"
-"K033","Résorption pathologique des dents","18","1 à 10","NA","16","0","0"
-"K035","Ankylose dentaire","79","11","1,18","68","0","0"
-"K036","Dépôts [accrétions] sur les dents","2 125","21","1,38","2 104","0","0"
-"K038","Autres maladies précisées des tissus dentaires durs","368","56","1,50","312","0","0"
-"K039","Maladie des tissus dentaires durs, sans précision","25","1 à 10","NA","20","0","0"
-"","Total","2 660","101","","2 559","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+K030,Attrition excessive des dents,11,1 à 10,NA,1 à 10,0,0
+K031,Abrasion des dents,15,1 à 10,NA,12,0,0
+K032,Érosion des dents,18,1 à 10,NA,17,0,0
+K033,Résorption pathologique des dents,18,1 à 10,NA,16,0,0
+K035,Ankylose dentaire,79,11,"1,18",68,0,0
+K036,Dépôts [accrétions] sur les dents,2 125,21,"1,38",2 104,0,0
+K038,Autres maladies précisées des tissus dentaires durs,368,56,"1,50",312,0,0
+K039,"Maladie des tissus dentaires durs, sans précision",25,1 à 10,NA,20,0,0
+"",Total,2 660,101,"",2 559,"",0

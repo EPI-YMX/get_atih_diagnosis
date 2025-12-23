@@ -1,9 +1,9 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"N10","Néphrite tubulo-interstitielle aiguë","66 193","59 919","6,38","6 274","11","0"
-"N11","Néphrite tubulo-interstitielle chronique","7 256","6 368","6,42","888","0","0"
-"N12","Néphrite tubulo-interstitielle, (non précisée comme aiguë ou chronique)","691","584","5,34","107","0","0"
-"N13","Uropathie obstructive et par reflux","36 971","27 953","5,64","9 018","1 645","0"
-"N14","Atteintes tubulo-interstitielles et tubulaires dues à des médicaments et des métaux lourds","1 294","1 227","8,30","67","0","0"
-"N15","Autres maladies rénales tubulo-interstitielles","1 336","1 214","9,65","122","1 à 10","0"
-"N16","Maladies rénales tubulo-interstitielles au cours de maladies classées ailleurs","246","215","7,87","31","0","0"
-"","Total","113 987","97 480","","16 507","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+N10,Néphrite tubulo-interstitielle aiguë,66 193,59 919,"6,38",6 274,11,0
+N11,Néphrite tubulo-interstitielle chronique,7 256,6 368,"6,42",888,0,0
+N12,"Néphrite tubulo-interstitielle, (non précisée comme aiguë ou chronique)",691,584,"5,34",107,0,0
+N13,Uropathie obstructive et par reflux,36 971,27 953,"5,64",9 018,1 645,0
+N14,Atteintes tubulo-interstitielles et tubulaires dues à des médicaments et des métaux lourds,1 294,1 227,"8,30",67,0,0
+N15,Autres maladies rénales tubulo-interstitielles,1 336,1 214,"9,65",122,1 à 10,0
+N16,Maladies rénales tubulo-interstitielles au cours de maladies classées ailleurs,246,215,"7,87",31,0,0
+"",Total,113 987,97 480,"",16 507,"",0

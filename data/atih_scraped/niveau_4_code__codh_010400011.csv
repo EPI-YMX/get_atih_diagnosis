@@ -1,8 +1,8 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"A400","Sepsis à streptocoques, groupe A","292","278","13,63","14","1 à 10","0"
-"A401","Sepsis à streptocoques, groupe B","254","240","15,26","14","12","0"
-"A402","Sepsis à streptocoques, groupe D et entérocoques","761","713","14,68","48","28","0"
-"A403","Sepsis à Streptococcus pneumoniae","332","307","12,30","25","11","0"
-"A408","Autres sepsis à streptocoques","485","459","14,75","26","16","0"
-"A409","Sepsis à streptocoques, sans précision","87","79","12,92","1 à 10","1 à 10","0"
-"","Total","2 211","2 076","","135","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+A400,"Sepsis à streptocoques, groupe A",292,278,"13,63",14,1 à 10,0
+A401,"Sepsis à streptocoques, groupe B",254,240,"15,26",14,12,0
+A402,"Sepsis à streptocoques, groupe D et entérocoques",761,713,"14,68",48,28,0
+A403,Sepsis à Streptococcus pneumoniae,332,307,"12,30",25,11,0
+A408,Autres sepsis à streptocoques,485,459,"14,75",26,16,0
+A409,"Sepsis à streptocoques, sans précision",87,79,"12,92",1 à 10,1 à 10,0
+"",Total,2 211,2 076,"",135,"",0

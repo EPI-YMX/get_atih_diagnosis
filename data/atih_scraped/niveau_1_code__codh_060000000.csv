@@ -1,13 +1,13 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"060100000","Maladies inflammatoires du système nerveux central","11 550","10 284","13,43","1 266","412","0"
-"060200000","Affections dégénératives sytématiques affectant principalement le système nerveux central","4 725","2 979","9,35","1 746","0","0"
-"060300000","Syndromes extrapyramidaux et troubles de la motricité","26 230","10 025","10,27","16 205","432","0"
-"060400000","Autres affections dégénératives du système nerveux","11 257","4 824","13,84","6 433","0","0"
-"060500000","Maladies démyélinisantes du système nerveux central","6 629","4 479","7,47","2 150","0","0"
-"060600000","Affections épisodiques et paroxistiques","119 897","60 636","6,27","59 261","33 548","0"
-"060700000","Affections des nerfs et des racines et plexus nerveux","75 470","14 950","5,55","60 520","2 484","0"
-"060800000","Polynévrites et autres affections du système nerveux périphérique","9 737","6 703","12,25","3 034","591","0"
-"060900000","Affections musculaires et neuro-musculaires","4 171","2 772","10,21","1 399","126","0"
-"061000000","Paralysies cérébrales et autre syndromes paralytiques","16 226","8 081","8,94","8 145","1 034","0"
-"061100000","Autres affections du système nerveux","26 121","19 764","8,29","6 357","817","0"
-"","Total","312 013","145 497","","166 516","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+060100000,Maladies inflammatoires du système nerveux central,11 550,10 284,"13,43",1 266,412,0
+060200000,Affections dégénératives sytématiques affectant principalement le système nerveux central,4 725,2 979,"9,35",1 746,0,0
+060300000,Syndromes extrapyramidaux et troubles de la motricité,26 230,10 025,"10,27",16 205,432,0
+060400000,Autres affections dégénératives du système nerveux,11 257,4 824,"13,84",6 433,0,0
+060500000,Maladies démyélinisantes du système nerveux central,6 629,4 479,"7,47",2 150,0,0
+060600000,Affections épisodiques et paroxistiques,119 897,60 636,"6,27",59 261,33 548,0
+060700000,Affections des nerfs et des racines et plexus nerveux,75 470,14 950,"5,55",60 520,2 484,0
+060800000,Polynévrites et autres affections du système nerveux périphérique,9 737,6 703,"12,25",3 034,591,0
+060900000,Affections musculaires et neuro-musculaires,4 171,2 772,"10,21",1 399,126,0
+061000000,Paralysies cérébrales et autre syndromes paralytiques,16 226,8 081,"8,94",8 145,1 034,0
+061100000,Autres affections du système nerveux,26 121,19 764,"8,29",6 357,817,0
+"",Total,312 013,145 497,"",166 516,"",0

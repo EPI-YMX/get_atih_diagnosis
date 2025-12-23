@@ -1,12 +1,12 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"C160","Tumeur maligne du cardia","2 183","1 698","13,78","485","87","0"
-"C161","Tumeur maligne du fundus","495","339","9,32","156","27","0"
-"C162","Tumeur maligne du corps de l'estomac","700","560","14,09","140","18","0"
-"C163","Tumeur maligne de l'antre pylorique","1 035","866","13,91","169","35","0"
-"C164","Tumeur maligne du pylore","147","127","14,04","20","1 à 10","0"
-"C165","Tumeur maligne de la petite courbure de l'estomac, sans précision","429","343","12,41","86","18","0"
-"C166","Tumeur maligne de la grande courbure de l'estomac, sans précision","224","179","10,54","45","12","0"
-"C168","Tumeur maligne à localisations contiguës de l'estomac","283","213","11,76","70","1 à 10","0"
-"C169","Tumeur maligne de l'estomac, sans précision","1 359","1 008","11,79","351","77","0"
-"C169+8","Tumeurs malignes de l'estomac, autres et non précisées","520","396","13,03","124","21","0"
-"","Total","7 384","5 737","","1 647","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+C160,Tumeur maligne du cardia,2 183,1 698,"13,78",485,87,0
+C161,Tumeur maligne du fundus,495,339,"9,32",156,27,0
+C162,Tumeur maligne du corps de l'estomac,700,560,"14,09",140,18,0
+C163,Tumeur maligne de l'antre pylorique,1 035,866,"13,91",169,35,0
+C164,Tumeur maligne du pylore,147,127,"14,04",20,1 à 10,0
+C165,"Tumeur maligne de la petite courbure de l'estomac, sans précision",429,343,"12,41",86,18,0
+C166,"Tumeur maligne de la grande courbure de l'estomac, sans précision",224,179,"10,54",45,12,0
+C168,Tumeur maligne à localisations contiguës de l'estomac,283,213,"11,76",70,1 à 10,0
+C169,"Tumeur maligne de l'estomac, sans précision",1 359,1 008,"11,79",351,77,0
+C169+8,"Tumeurs malignes de l'estomac, autres et non précisées",520,396,"13,03",124,21,0
+"",Total,7 384,5 737,"",1 647,"",0

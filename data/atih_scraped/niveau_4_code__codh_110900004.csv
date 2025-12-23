@@ -1,9 +1,9 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"K830","Angiocholite [cholangite]","9 579","7 942","9,24","1 637","1 040","0"
-"K831","Obstruction des voies biliaires","9 523","7 862","6,14","1 661","687","0"
-"K832","Perforation des voies biliaires","113","105","9,86","1 à 10","1 à 10","0"
-"K833","Fistule des voies biliaires","323","299","11,14","24","15","0"
-"K834","Spasme du sphincter d'Oddi","181","116","4,40","65","22","0"
-"K835","Kyste biliaire","706","545","5,15","161","61","0"
-"K838","Autres maladies précisées des voies biliaires","2 310","1 343","6,13","967","358","0"
-"","Total","22 735","18 212","","4 523","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+K830,Angiocholite [cholangite],9 579,7 942,"9,24",1 637,1 040,0
+K831,Obstruction des voies biliaires,9 523,7 862,"6,14",1 661,687,0
+K832,Perforation des voies biliaires,113,105,"9,86",1 à 10,1 à 10,0
+K833,Fistule des voies biliaires,323,299,"11,14",24,15,0
+K834,Spasme du sphincter d'Oddi,181,116,"4,40",65,22,0
+K835,Kyste biliaire,706,545,"5,15",161,61,0
+K838,Autres maladies précisées des voies biliaires,2 310,1 343,"6,13",967,358,0
+"",Total,22 735,18 212,"",4 523,"",0

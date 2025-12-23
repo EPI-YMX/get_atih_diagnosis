@@ -1,5 +1,5 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"I26","Embolie pulmonaire","43 514","31 963","9,24","11 551","11 346","0"
-"I27","Autres affections cardiopulmonaires","7 783","5 293","6,94","2 490","270","0"
-"I28","Autres maladies des vaisseaux pulmonaires","778","624","7,65","154","25","0"
-"","Total","52 075","37 880","","14 195","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+I26,Embolie pulmonaire,43 514,31 963,"9,24",11 551,11 346,0
+I27,Autres affections cardiopulmonaires,7 783,5 293,"6,94",2 490,270,0
+I28,Autres maladies des vaisseaux pulmonaires,778,624,"7,65",154,25,0
+"",Total,52 075,37 880,"",14 195,"",0

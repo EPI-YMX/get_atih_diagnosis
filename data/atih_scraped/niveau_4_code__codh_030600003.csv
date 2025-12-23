@@ -1,5 +1,5 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"D820","Syndrome de Wiskott-Aldrich","18","18","15,67","0","0","0"
-"D821","Syndrome de Di George","50","50","3,56","0","0","0"
-"D823","Déficit immunitaire avec réponse héréditaire anormale au virus d'Epstein-Barr","31","29","20,10","1 à 10","0","0"
-"","Total","113","111","","1 à 10","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+D820,Syndrome de Wiskott-Aldrich,18,18,"15,67",0,0,0
+D821,Syndrome de Di George,50,50,"3,56",0,0,0
+D823,Déficit immunitaire avec réponse héréditaire anormale au virus d'Epstein-Barr,31,29,"20,10",1 à 10,0,0
+"",Total,113,111,"",1 à 10,"",0

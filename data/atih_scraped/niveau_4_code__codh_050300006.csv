@@ -1,13 +1,13 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"F250","Trouble schizo-affectif, type maniaque","245","117","5,52","128","84","0"
-"F2500","Trouble schizoaffectif, type maniaque, symptômes affectifs et schizophréniques simultanés, sans symptôme schizophrénique après la disparition des symptômes affectifs","16","1 à 10","NA","1 à 10","1 à 10","0"
-"F2501","Trouble schizoaffectif, type maniaque, symptômes affectifs et schizophréniques simultanés, avec symptômes schizophréniques persistants après la disparition des symptômes affectifs","19","1 à 10","NA","1 à 10","1 à 10","0"
-"F251","Trouble schizo-affectif, type dépressif","136","47","4,89","89","51","0"
-"F2510","Trouble schizoaffectif, type dépressif, symptômes affectifs et schizophréniques simultanés, sans symptôme schizophrénique après la disparition des symptômes affectifs","13","1 à 10","NA","1 à 10","1 à 10","0"
-"F2511","Trouble schizoaffectif, type dépressif, symptômes affectifs et schizophréniques simultanés, avec symptômes schizophréniques persistants après la disparition des symptômes affectifs","18","1 à 10","NA","1 à 10","1 à 10","0"
-"F252","Trouble schizo-affectif, type mixte","65","23","4,57","42","28","0"
-"F2521","Trouble schizoaffectif, type mixte, symptômes affectifs et schizophréniques simultanés, avec symptômes schizophréniques persistants après la disparition des symptômes affectifs","16","1 à 10","NA","11","1 à 10","0"
-"F258","Autres troubles schizo-affectifs","102","35","5,49","67","41","0"
-"F259","Trouble schizo-affectif, sans précision","346","134","4,44","212","132","0"
-"F2590","Trouble schizoaffectif, sans précision, symptômes affectifs et schizophréniques simultanés, sans symptôme schizophrénique après la disparition des symptômes affectifs","25","1 à 10","NA","15","1 à 10","0"
-"","Total","1 025","409","","616","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+F250,"Trouble schizo-affectif, type maniaque",245,117,"5,52",128,84,0
+F2500,"Trouble schizoaffectif, type maniaque, symptômes affectifs et schizophréniques simultanés, sans symptôme schizophrénique après la disparition des symptômes affectifs",16,1 à 10,NA,1 à 10,1 à 10,0
+F2501,"Trouble schizoaffectif, type maniaque, symptômes affectifs et schizophréniques simultanés, avec symptômes schizophréniques persistants après la disparition des symptômes affectifs",19,1 à 10,NA,1 à 10,1 à 10,0
+F251,"Trouble schizo-affectif, type dépressif",136,47,"4,89",89,51,0
+F2510,"Trouble schizoaffectif, type dépressif, symptômes affectifs et schizophréniques simultanés, sans symptôme schizophrénique après la disparition des symptômes affectifs",13,1 à 10,NA,1 à 10,1 à 10,0
+F2511,"Trouble schizoaffectif, type dépressif, symptômes affectifs et schizophréniques simultanés, avec symptômes schizophréniques persistants après la disparition des symptômes affectifs",18,1 à 10,NA,1 à 10,1 à 10,0
+F252,"Trouble schizo-affectif, type mixte",65,23,"4,57",42,28,0
+F2521,"Trouble schizoaffectif, type mixte, symptômes affectifs et schizophréniques simultanés, avec symptômes schizophréniques persistants après la disparition des symptômes affectifs",16,1 à 10,NA,11,1 à 10,0
+F258,Autres troubles schizo-affectifs,102,35,"5,49",67,41,0
+F259,"Trouble schizo-affectif, sans précision",346,134,"4,44",212,132,0
+F2590,"Trouble schizoaffectif, sans précision, symptômes affectifs et schizophréniques simultanés, sans symptôme schizophrénique après la disparition des symptômes affectifs",25,1 à 10,NA,15,1 à 10,0
+"",Total,1 025,409,"",616,"",0

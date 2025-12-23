@@ -1,9 +1,9 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"H160","Ulcère de la cornée","1 942","982","4,46","960","0","0"
-"H161","Autres kératites superficielles sans conjonctivite","37","14","2,07","23","0","0"
-"H162","Kératoconjonctivite","140","58","4,71","82","0","0"
-"H163","Kératite interstitielle et profonde","2 562","2 414","5,98","148","0","0"
-"H164","Néovascularisation cornéenne","69","16","1,75","53","0","0"
-"H168","Autres kératites","98","56","4,00","42","0","0"
-"H169","Kératite, sans précision","109","54","3,17","55","0","0"
-"","Total","4 957","3 594","","1 363","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+H160,Ulcère de la cornée,1 942,982,"4,46",960,0,0
+H161,Autres kératites superficielles sans conjonctivite,37,14,"2,07",23,0,0
+H162,Kératoconjonctivite,140,58,"4,71",82,0,0
+H163,Kératite interstitielle et profonde,2 562,2 414,"5,98",148,0,0
+H164,Néovascularisation cornéenne,69,16,"1,75",53,0,0
+H168,Autres kératites,98,56,"4,00",42,0,0
+H169,"Kératite, sans précision",109,54,"3,17",55,0,0
+"",Total,4 957,3 594,"",1 363,"",0

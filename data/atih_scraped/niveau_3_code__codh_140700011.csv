@@ -1,14 +1,14 @@
-"Code","Libellé","Nb total de séjours/séances","Nb de séjourshors GHM en J ou T et séances","DMS (en nuitée)hors GHM en J ou Tet séances","Nb de séjoursGHM en J ou T hors séances","Nb de nuitéesen GHM J ou T","Nb de séances"
-"N40","Hyperplasie de la prostate","25 756","22 182","3,38","3 574","472","0"
-"N41","Affections inflammatoires de la prostate","32 021","25 596","9,60","6 425","4 068","0"
-"N42","Autres affections de la prostate","1 043","816","4,07","227","1 à 10","0"
-"N43","Hydrocèle et spermatocèle","5 231","1 257","2,32","3 974","0","0"
-"N44","Torsion du testicule","6 624","3 860","1,17","2 764","0","0"
-"N45","Orchite et épididymite","4 083","2 317","5,66","1 766","720","0"
-"N46","Stérilité, chez l'homme","925","27","2,19","898","0","0"
-"N47","Hypertrophie du prépuce, phimosis et paraphimosis","21 820","1 310","1,85","20 510","0","0"
-"N48","Autres affections de la verge","3 691","1 683","2,74","2 008","0","0"
-"N49","Affections inflammatoires des organes génitaux de l'homme, non classées ailleurs","2 002","1 553","7,39","449","0","0"
-"N50","Autres affections des organes génitaux de l'homme","2 963","1 119","2,12","1 844","0","0"
-"N51","Affections des organes génitaux de l'homme au cours de maladies classées ailleurs","270","125","3,03","145","1 à 10","0"
-"","Total","106 429","61 845","","44 584","","0"
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+N40,Hyperplasie de la prostate,25 756,22 182,"3,38",3 574,472,0
+N41,Affections inflammatoires de la prostate,32 021,25 596,"9,60",6 425,4 068,0
+N42,Autres affections de la prostate,1 043,816,"4,07",227,1 à 10,0
+N43,Hydrocèle et spermatocèle,5 231,1 257,"2,32",3 974,0,0
+N44,Torsion du testicule,6 624,3 860,"1,17",2 764,0,0
+N45,Orchite et épididymite,4 083,2 317,"5,66",1 766,720,0
+N46,"Stérilité, chez l'homme",925,27,"2,19",898,0,0
+N47,"Hypertrophie du prépuce, phimosis et paraphimosis",21 820,1 310,"1,85",20 510,0,0
+N48,Autres affections de la verge,3 691,1 683,"2,74",2 008,0,0
+N49,"Affections inflammatoires des organes génitaux de l'homme, non classées ailleurs",2 002,1 553,"7,39",449,0,0
+N50,Autres affections des organes génitaux de l'homme,2 963,1 119,"2,12",1 844,0,0
+N51,Affections des organes génitaux de l'homme au cours de maladies classées ailleurs,270,125,"3,03",145,1 à 10,0
+"",Total,106 429,61 845,"",44 584,"",0
