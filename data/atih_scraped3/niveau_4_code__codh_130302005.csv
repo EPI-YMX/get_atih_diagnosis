@@ -1,0 +1,16 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+M490,Tuberculose vertébrale (A18.0),13,13,"22,69",0,0,0
+M4904,Tuberculose vertébrale (A18.0) - Région dorsale,13,13,"17,08",0,0,0
+M4905,Tuberculose vertébrale (A18.0) - Région dorso-lombaire,13,13,"21,77",0,0,0
+M4906,Tuberculose vertébrale (A18.0) - Région lombaire,21,20,"15,25",1 à 10,0,0
+M495,Tassement vertébral au cours de maladies classées ailleurs,169,133,"11,20",36,15,0
+M4950,Tassement vertébral au cours de maladies classées ailleurs - Localisations vertébrales multiples,138,108,"11,69",30,1 à 10,0
+M4952,Tassement vertébral au cours de maladies classées ailleurs - Région cervicale,44,35,"7,03",1 à 10,1 à 10,0
+M4953,Tassement vertébral au cours de maladies classées ailleurs - Région cervico-dorsale,11,1 à 10,NA,1 à 10,0,0
+M4954,Tassement vertébral au cours de maladies classées ailleurs - Région dorsale,395,293,"9,62",102,25,0
+M4955,Tassement vertébral au cours de maladies classées ailleurs - Région dorso-lombaire,251,208,"11,81",43,1 à 10,0
+M4956,Tassement vertébral au cours de maladies classées ailleurs - Région lombaire,513,417,"10,17",96,22,0
+M4957,Tassement vertébral au cours de maladies classées ailleurs - Région lombo-sacrée,17,13,"9,54",1 à 10,1 à 10,0
+M4958,Tassement vertébral au cours de maladies classées ailleurs - Région sacrée et sacro-coccygienne,32,17,"3,47",15,1 à 10,0
+M4959,Tassement vertébral au cours de maladies classées ailleurs - Localisation vertébrale non précisée,28,21,"10,19",1 à 10,1 à 10,0
+"",Total,1 699,1 350,"",349,"",0

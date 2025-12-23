@@ -3,6 +3,25 @@ Extraction de la page des diagnostics du site scan santé
 
 Data issues de https://www.scansante.fr/applications/statistiques-activite-MCO-par-diagnostique-et-actes
 
+**UPDATE**
+
+Utilisation d'une version optimisée du scraper avec parallélisation et cache des liens.
+
+```
+scrape_atih_optimized(
+  max_level = 4,
+  sleep_time = 0.01,
+  overwrite = FALSE,
+  use_cache = TRUE,
+  n_workers = 8  # Ajuster selon votre machine
+)
+```
+
+Après cela regarder le notebook `post_scraping.qmd` pour l'aggrégation des différents CSV créés.
+
+
+**Ancienne version**
+
 Exemple d'utilisation du script
 
 ```
@@ -19,4 +38,3 @@ max_links_per_level : nombre de liens à récupérer par niveau (NULL par défau
 sleep_time : période de repos entre 2 requêtes (0.5 secondes par défaut)
 ```
 
-Après cela regarder le notebook `post_scraping.qmd` pour l'aggrégation des différents CSV créés.

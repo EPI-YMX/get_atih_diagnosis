@@ -1,0 +1,39 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+M480,Rétrécissement du canal médullaire,450,341,"6,22",109,25,0
+M4800,Rétrécissement du canal médullaire - Localisations vertébrales multiples,78,68,"8,93",1 à 10,1 à 10,0
+M4802,Rétrécissement du canal médullaire - Région cervicale,965,892,"6,15",73,26,0
+M4803,Rétrécissement du canal médullaire - Région cervico-dorsale,21,18,"6,44",1 à 10,0,0
+M4804,Rétrécissement du canal médullaire - Région dorsale,81,79,"10,62",1 à 10,1 à 10,0
+M4805,Rétrécissement du canal médullaire - Région dorso-lombaire,151,129,"8,25",22,1 à 10,0
+M4806,Rétrécissement du canal médullaire - Région lombaire,9 130,8 533,"5,46",597,195,0
+M4807,Rétrécissement du canal médullaire - Région lombo-sacrée,641,584,"5,87",57,25,0
+M4808,Rétrécissement du canal médullaire - Région sacrée et sacro-coccygienne,15,1 à 10,NA,1 à 10,1 à 10,0
+M481,Hyperostose ankylosante [Forestier],18,13,"11,92",1 à 10,0,0
+M4810,Hyperostose ankylosante (Forestier) - Localisations vertébrales multiples,13,1 à 10,NA,1 à 10,1 à 10,0
+M482,Arthrose interépineuse,20,12,"6,50",1 à 10,1 à 10,0
+M4820,Arthrose interépineuse - Localisations vertébrales multiples,54,45,"5,49",1 à 10,1 à 10,0
+M4822,Arthrose interépineuse - Région cervicale,246,187,"4,86",59,17,0
+M4825,Arthrose interépineuse - Région dorso-lombaire,26,18,"10,94",1 à 10,1 à 10,0
+M4826,Arthrose interépineuse - Région lombaire,215,155,"7,16",60,15,0
+M4827,Arthrose interépineuse - Région lombo-sacrée,40,30,"5,73",1 à 10,1 à 10,0
+M484,Fracture vertébrale de fatigue,59,39,"9,49",20,13,0
+M4840,Fracture vertébrale de fatigue - Localisations vertébrales multiples,39,29,"10,93",1 à 10,1 à 10,0
+M4842,Fracture vertébrale de fatigue - Région cervicale,12,1 à 10,NA,11,1 à 10,0
+M4844,Fracture vertébrale de fatigue - Région dorsale,53,33,"9,03",20,14,0
+M4845,Fracture vertébrale de fatigue - Région dorso-lombaire,65,49,"7,20",16,1 à 10,0
+M4846,Fracture vertébrale de fatigue - Région lombaire,112,73,"9,52",39,26,0
+M4848,Fracture vertébrale de fatigue - Région sacrée et sacro-coccygienne,13,11,"12,36",1 à 10,1 à 10,0
+M4849,Fracture vertébrale de fatigue - Localisation vertébrale non précisée,15,12,"7,83",1 à 10,1 à 10,0
+M485,"Tassement vertébral, non classé ailleurs",383,220,"10,10",163,82,0
+M4850,"Tassement vertébral, non classé ailleurs - Localisations vertébrales multiples",358,249,"11,58",109,44,0
+M4853,"Tassement vertébral, non classé ailleurs - Région cervico-dorsale",14,1 à 10,NA,1 à 10,1 à 10,0
+M4854,"Tassement vertébral, non classé ailleurs - Région dorsale",976,638,"9,84",338,127,0
+M4855,"Tassement vertébral, non classé ailleurs - Région dorso-lombaire",815,616,"11,61",199,104,0
+M4856,"Tassement vertébral, non classé ailleurs - Région lombaire",1 945,1 394,"10,24",551,234,0
+M4857,"Tassement vertébral, non classé ailleurs - Région lombo-sacrée",66,49,"9,49",17,1 à 10,0
+M4858,"Tassement vertébral, non classé ailleurs - Région sacrée et sacro-coccygienne",13,1 à 10,NA,1 à 10,0,0
+M4859,"Tassement vertébral, non classé ailleurs - Localisation vertébrale non précisée",75,32,"11,31",43,29,0
+M4882,Autres spondylopathies précisées - Région cervicale,24,15,"7,60",1 à 10,0,0
+M4886,Autres spondylopathies précisées - Région lombaire,35,27,"7,07",1 à 10,1 à 10,0
+M4887,Autres spondylopathies précisées - Région lombo-sacrée,19,15,"2,13",1 à 10,0,0
+"",Total,17 390,14 724,"",2 666,"",0

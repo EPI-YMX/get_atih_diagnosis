@@ -1,0 +1,7 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+R100,Syndrome abdominal aigu,5 052,1 071,"4,74",3 981,1 986,0
+R101,Douleur localisée à la partie supérieure de l'abdomen,20 115,2 623,"4,14",17 492,5 349,0
+R102,Douleur pelvienne et périnéale,5 123,950,"3,21",4 173,1 681,0
+R103,Douleur localisée à d'autres parties inférieures de l'abdomen,9 150,1 374,"3,65",7 776,2 993,0
+R104,"Douleurs abdominales, autres et non précisées",75 428,12 261,"3,09",63 167,23 810,0
+"",Total,114 868,18 279,"",96 589,"",0

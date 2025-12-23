@@ -1,0 +1,9 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+R220,"Tuméfaction et masse localisées, au niveau de la tête",286,115,"2,63",171,0,0
+R221,"Tuméfaction et masse localisées, au niveau du cou",483,278,"2,31",205,0,0
+R222,"Tuméfaction et masse localisées, au niveau du tronc",353,144,"2,22",209,0,0
+R223,"Tuméfaction et masse localisées, au niveau du membre supérieur",197,45,"2,67",152,0,0
+R224,"Tuméfaction et masse localisées, au niveau du membre inférieur",276,101,"2,94",175,0,0
+R227,"Tuméfaction et masse localisées, sièges multiples",23,1 à 10,NA,14,0,0
+R229,"Tuméfaction et masse localisées, sans précision",66,25,"2,08",41,0,0
+"",Total,1 684,717,"",967,"",0

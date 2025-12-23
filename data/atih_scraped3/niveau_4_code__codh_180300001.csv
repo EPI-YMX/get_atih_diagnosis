@@ -1,0 +1,7 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+R200,Anesthésie cutanée,25,1 à 10,NA,17,1 à 10,0
+R201,Hypoesthésie cutanée,1 067,301,"3,63",766,352,0
+R202,Paresthésie cutanée,7 729,1 845,"3,96",5 884,2 586,0
+R203,Hyperesthésie,48,18,"3,72",30,14,0
+R208,"Troubles de la sensibilité cutanée, autres et non précisés",1 041,277,"3,73",764,371,0
+"",Total,9 910,2 449,"",7 461,"",0

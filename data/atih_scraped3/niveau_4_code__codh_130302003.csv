@@ -1,0 +1,33 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+M471,Autres spondylarthroses avec myélopathie,65,60,"9,37",1 à 10,1 à 10,0
+M4710,Autres spondylarthroses avec myélopathie - Localisations vertébrales multiples,14,13,"10,00",1 à 10,0,0
+M4712,Autres spondylarthroses avec myélopathie - Région cervicale,1 081,1 033,"7,72",48,28,0
+M4713,Autres spondylarthroses avec myélopathie - Région cervico-dorsale,19,18,"15,28",1 à 10,0,0
+M4714,Autres spondylarthroses avec myélopathie - Région dorsale,15,15,"15,80",0,0,0
+M4716,Autres spondylarthroses avec myélopathie - Région lombaire,43,42,"5,86",1 à 10,0,0
+M472,Autres spondylarthroses avec radiculopathie,37,31,"7,35",1 à 10,1 à 10,0
+M4720,Autres spondylarthroses avec radiculopathie - Localisations vertébrales multiples,50,43,"6,67",1 à 10,1 à 10,0
+M4722,Autres spondylarthroses avec radiculopathie - Région cervicale,256,200,"3,81",56,1 à 10,0
+M4725,Autres spondylarthroses avec radiculopathie - Région dorso-lombaire,322,20,"7,85",302,1 à 10,0
+M4726,Autres spondylarthroses avec radiculopathie - Région lombaire,555,504,"5,80",51,16,0
+M4727,Autres spondylarthroses avec radiculopathie - Région lombo-sacrée,227,200,"3,98",27,11,0
+M4729,Autres spondylarthroses avec radiculopathie - Localisation vertébrale non précisée,11,1 à 10,NA,1 à 10,0,0
+M478,Autres spondylarthroses,163,113,"3,71",50,1 à 10,0
+M4780,Autres spondylarthroses - Localisations vertébrales multiples,202,144,"6,13",58,1 à 10,0
+M4782,Autres spondylarthroses - Région cervicale,494,328,"6,05",166,36,0
+M4783,Autres spondylarthroses - Région cervico-dorsale,18,12,"6,00",1 à 10,1 à 10,0
+M4784,Autres spondylarthroses - Région dorsale,32,22,"7,23",1 à 10,1 à 10,0
+M4785,Autres spondylarthroses - Région dorso-lombaire,124,91,"9,96",33,11,0
+M4786,Autres spondylarthroses - Région lombaire,952,710,"6,19",242,55,0
+M4787,Autres spondylarthroses - Région lombo-sacrée,669,488,"2,27",181,16,0
+M4788,Autres spondylarthroses - Région sacrée et sacro-coccygienne,27,22,"1,91",1 à 10,1 à 10,0
+M4789,Autres spondylarthroses - Localisation vertébrale non précisée,24,13,"5,15",11,0,0
+M479,"Spondylarthrose, sans précision",24,1 à 10,NA,14,1 à 10,0
+M4790,"Spondylarthrose, sans précision - Localisations vertébrales multiples",48,34,"6,26",14,1 à 10,0
+M4792,"Spondylarthrose, sans précision - Région cervicale",46,30,"7,80",16,1 à 10,0
+M4794,"Spondylarthrose, sans précision - Région dorsale",12,1 à 10,NA,1 à 10,1 à 10,0
+M4795,"Spondylarthrose, sans précision - Région dorso-lombaire",30,23,"9,00",1 à 10,1 à 10,0
+M4796,"Spondylarthrose, sans précision - Région lombaire",190,140,"8,01",50,1 à 10,0
+M4797,"Spondylarthrose, sans précision - Région lombo-sacrée",74,37,"5,11",37,1 à 10,0
+M4799,"Spondylarthrose, sans précision - Localisation vertébrale non précisée",13,1 à 10,NA,1 à 10,1 à 10,0
+"",Total,5 908,4 477,"",1 431,"",0

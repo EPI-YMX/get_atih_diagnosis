@@ -1,0 +1,8 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+R230,Cyanose,353,121,"2,69",232,161,0
+R231,Pâleur,21,1 à 10,NA,17,13,0
+R232,Rougeur,49,15,"5,40",34,14,0
+R233,Ecchymoses spontanées,323,226,"2,54",97,0,0
+R234,Modifications du tissu cutané,32,14,"1,71",18,0,0
+R238,"Modifications de la peau, autres et non précisées",39,20,"2,65",19,0,0
+"",Total,817,400,"",417,"",0

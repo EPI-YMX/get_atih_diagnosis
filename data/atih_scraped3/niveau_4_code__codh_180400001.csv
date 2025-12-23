@@ -1,0 +1,7 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+R250,Mouvements anormaux de la tête,180,41,"3,15",139,34,0
+R251,"Tremblement, sans précision",677,143,"6,36",534,246,0
+R252,Crampe et spasme,10 999,129,"4,09",10 870,94,0
+R253,Fasciculation,71,26,"3,31",45,1 à 10,0
+R258,"Mouvements involontaires anormaux, autres et non précisés",1 231,474,"4,58",757,418,0
+"",Total,13 158,813,"",12 345,"",0

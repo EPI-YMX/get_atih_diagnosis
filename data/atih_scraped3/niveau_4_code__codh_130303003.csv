@@ -1,0 +1,16 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+M530,Syndrome cervico-céphalique,15,1 à 10,NA,1 à 10,1 à 10,0
+M5302,Syndrome cervico-céphalique - Région cervicale,14,1 à 10,NA,1 à 10,1 à 10,0
+M531,Syndrome cervico-brachial,720,311,"4,65",409,119,0
+M5310,Syndrome cervico-brachial - Localisations vertébrales multiples,51,27,"6,26",24,1 à 10,0
+M5312,Syndrome cervico-brachial - Région cervicale,1 271,799,"4,57",472,159,0
+M5313,Syndrome cervico-brachial - Région cervico-dorsale,91,35,"7,00",56,11,0
+M5319,Syndrome cervico-brachial - Localisation vertébrale non précisée,67,15,"5,07",52,24,0
+M5322,Instabilités vertébrales - Région cervicale,14,1 à 10,NA,1 à 10,0,0
+M5326,Instabilités vertébrales - Région lombaire,36,34,"5,56",1 à 10,1 à 10,0
+M533,"Atteintes sacro-coccygiennes, non classées ailleurs",104,47,"3,74",57,14,0
+M5338,"Atteintes sacro-coccygiennes, non classées ailleurs - Région sacrée et sacro-coccygienne",218,96,"3,65",122,12,0
+M5385,Autres dorsopathies précisées - Région dorso-lombaire,12,1 à 10,NA,1 à 10,1 à 10,0
+M5386,Autres dorsopathies précisées - Région lombaire,33,30,"6,10",1 à 10,1 à 10,0
+M5387,Autres dorsopathies précisées - Région lombo-sacrée,12,1 à 10,NA,1 à 10,0,0
+"",Total,2 727,1 472,"",1 255,"",0

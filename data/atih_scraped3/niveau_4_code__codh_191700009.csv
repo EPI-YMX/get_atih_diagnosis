@@ -1,0 +1,7 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+T590,Effet toxique d'oxydes d'azote,171,171,"3,39",0,0,0
+T594,Effet toxique du chlore gazeux,114,114,"1,12",0,0,0
+T597,Effet toxique du dioxyde de carbone,120,120,"1,99",0,0,0
+T598,"Effet toxique d'autres émanations, gaz et fumées précisés",370,370,"1,34",0,0,0
+T599,"Effet toxique d'émanation, gaz et fumée, sans précision",158,158,"1,48",0,0,0
+"",Total,951,951,"",0,"",0
