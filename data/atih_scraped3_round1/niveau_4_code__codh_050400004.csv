@@ -1,0 +1,14 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+F330,"Trouble dépressif récurrent, épisode actuel léger",89,27,"8,22",62,30,0
+F3300,"Trouble dépressif récurrent, épisode actuel léger, sans syndrome somatique",33,12,"6,08",21,11,0
+F3301,"Trouble dépressif récurrent, épisode actuel léger, avec syndrome somatique",14,1 à 10,NA,1 à 10,1 à 10,0
+F331,"Trouble dépressif récurrent, épisode actuel moyen",298,117,"7,02",181,101,0
+F3310,"Trouble dépressif récurrent, épisode actuel moyen, sans syndrome somatique",204,110,"8,15",94,52,0
+F3311,"Trouble dépressif récurrent, épisode actuel moyen, avec syndrome somatique",152,82,"8,26",70,34,0
+F332,"Trouble dépressif récurrent, épisode actuel sévère sans symptômes psychotiques",1 055,544,"10,26",511,269,0
+F333,"Trouble dépressif récurrent, épisode actuel sévère avec symptômes psychotiques",185,101,"9,87",84,43,0
+F3330,"Trouble dépressif récurrent, épisode actuel sévère avec symptômes psychotiques congruents à l'humeur",201,117,"11,97",84,42,0
+F3331,"Trouble dépressif récurrent, épisode actuel sévère avec symptômes psychotiques non congruents à l'humeur",18,1 à 10,NA,1 à 10,1 à 10,0
+F338,Autres troubles dépressifs récurrents,183,60,"9,30",123,67,0
+F339,"Trouble dépressif récurrent, sans précision",488,226,"7,25",262,143,0
+"",Total,2 925,1 413,"",1 512,"",0

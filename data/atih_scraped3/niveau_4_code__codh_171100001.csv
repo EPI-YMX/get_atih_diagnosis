@@ -1,0 +1,6 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+Q900,"Trisomie 21, non-disjonction méïotique",40,33,"15,30",1 à 10,0,0
+Q901,"Trisomie 21, mosaïque chromosomique (non-disjonction mitotique)",27,19,"13,26",1 à 10,0,0
+Q902,"Trisomie 21, translocation",19,15,"7,47",1 à 10,0,0
+Q909,"Syndrome de Down, sans précision",158,125,"14,61",33,0,0
+"",Total,244,192,"",52,"",0

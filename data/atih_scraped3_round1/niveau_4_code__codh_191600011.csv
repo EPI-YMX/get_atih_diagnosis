@@ -1,0 +1,11 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+T460,Intoxication par glucosides cardiotoniques et médicaments d'action similaire,131,93,"8,13",38,23,0
+T461,Intoxication par inhibiteurs calciques,346,171,"8,19",175,126,0
+T462,"Intoxication par autres antiarythmisants, non classés ailleurs",105,39,"6,03",66,52,0
+T463,"Intoxication par vasodilatateurs coronariens, non classés ailleurs",14,1 à 10,NA,1 à 10,1 à 10,0
+T464,Intoxication par inhibiteurs de l'enzyme de conversion,141,56,"6,18",85,58,0
+T465,"Intoxication par autres antihypertenseurs, non classés ailleurs",479,148,"6,66",331,238,0
+T466,Intoxication par antihyperlipidémiants et antiartériosclérosants,35,1 à 10,NA,26,18,0
+T467,Intoxication par vasodilatateurs périphériques,35,1 à 10,NA,29,18,0
+T469,"Intoxication par substances agissant essentiellement sur le système cardio-vasculaire, autres et sans précision",43,11,"5,18",32,24,0
+"",Total,1 339,538,"",801,"",0

@@ -1,0 +1,10 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+K630,Abcès de l'intestin,1 293,1 100,"10,02",193,90,0
+K631,Perforation de l'intestin (non traumatique),1 402,1 202,"14,41",200,99,0
+K632,Fistule de l'intestin,1 880,1 680,"15,78",200,103,0
+K633,Ulcère de l'intestin,1 075,392,"6,40",683,74,0
+K635,Polype du côlon,20 528,18 110,"0,36",2 418,290,0
+K635+0,Polypose (colique) hyperplasique,9 126,8 121,"0,19",1 005,84,0
+K635+8,"Polype du côlon, autre et non précisé",19 679,17 822,"0,30",1 857,193,0
+K638,Autres maladies précisées de l'intestin,1 815,718,"4,26",1 097,164,0
+"",Total,56 799,49 145,"",7 654,"",0

@@ -1,0 +1,8 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+S1200,Fracture fermée de la première vertèbre cervicale,652,652,"8,73",0,0,0
+S1210,Fracture fermée de la deuxième vertèbre cervicale,2 153,2 152,"8,92",1 à 10,0,0
+S1220,Fracture fermée d'autres vertèbres cervicales précisées,2 647,2 646,"8,30",1 à 10,0,0
+S1270,Fractures fermées multiples du rachis cervical,946,944,"11,69",1 à 10,0,0
+S1280,Fracture fermée d'autres parties du cou,56,28,"5,29",28,16,0
+S1290,"Fracture fermée du cou, partie non précisée",75,75,"5,04",0,0,0
+"",Total,6 536,6 504,"",32,"",0

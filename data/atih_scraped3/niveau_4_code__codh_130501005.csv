@@ -1,0 +1,43 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+M840,Fracture mal consolidée,78,50,"5,74",28,1 à 10,0
+M8401,Fracture mal consolidée - Région scapulaire,139,102,"4,02",37,1 à 10,0
+M8402,Fracture mal consolidée - Bras,105,79,"4,05",26,1 à 10,0
+M8403,Fracture mal consolidée - Avant-bras,374,190,"2,34",184,1 à 10,0
+M8404,Fracture mal consolidée - Main,204,33,"2,33",171,1 à 10,0
+M8405,Fracture mal consolidée - Région pelvienne et cuisse,193,178,"9,21",15,1 à 10,0
+M8406,Fracture mal consolidée - Jambe,237,187,"5,24",50,14,0
+M8407,Fracture mal consolidée - Cheville et pied,192,123,"5,25",69,1 à 10,0
+M8408,Fracture mal consolidée - Autres localisations,86,62,"5,13",24,1 à 10,0
+M841,Fracture non consolidée [pseudarthrose],123,92,"7,26",31,1 à 10,0
+M8411,Fracture non consolidée (pseudarthrose) - Région scapulaire,354,270,"3,54",84,1 à 10,0
+M8412,Fracture non consolidée (pseudarthrose) - Bras,419,367,"5,14",52,1 à 10,0
+M8413,Fracture non consolidée (pseudarthrose) - Avant-bras,465,311,"3,32",154,1 à 10,0
+M8414,Fracture non consolidée (pseudarthrose) - Main,493,155,"1,96",338,1 à 10,0
+M8415,Fracture non consolidée (pseudarthrose) - Région pelvienne et cuisse,1 031,963,"9,14",68,21,0
+M8416,Fracture non consolidée (pseudarthrose) - Jambe,1 162,1 005,"7,12",157,12,0
+M8417,Fracture non consolidée (pseudarthrose) - Cheville et pied,563,343,"5,19",220,1 à 10,0
+M8418,Fracture non consolidée (pseudarthrose) - Autres localisations,469,337,"6,29",132,1 à 10,0
+M8423,Retard de consolidation d'une fracture - Avant-bras,20,1 à 10,NA,11,1 à 10,0
+M8424,Retard de consolidation d'une fracture - Main,17,1 à 10,NA,16,0,0
+M8425,Retard de consolidation d'une fracture - Région pelvienne et cuisse,27,17,"7,35",1 à 10,0,0
+M8426,Retard de consolidation d'une fracture - Jambe,66,34,"5,12",32,0,0
+M8427,Retard de consolidation d'une fracture - Cheville et pied,23,18,"4,11",1 à 10,1 à 10,0
+M8428,Retard de consolidation d'une fracture - Autres localisations,40,29,"4,03",11,0,0
+M8435,"Fracture par sollicitation excessive, non classée ailleurs - Région pelvienne et cuisse",35,31,"7,42",1 à 10,1 à 10,0
+M8436,"Fracture par sollicitation excessive, non classée ailleurs - Jambe",35,24,"11,00",11,1 à 10,0
+M8437,"Fracture par sollicitation excessive, non classée ailleurs - Cheville et pied",30,22,"6,55",1 à 10,1 à 10,0
+M844,"Fracture pathologique, non classée ailleurs",145,69,"10,41",76,13,0
+M8440,"Fracture pathologique, non classée ailleurs - Sièges multiples",71,63,"13,87",1 à 10,1 à 10,0
+M8441,"Fracture pathologique, non classée ailleurs - Région scapulaire",52,44,"11,84",1 à 10,1 à 10,0
+M8442,"Fracture pathologique, non classée ailleurs - Bras",112,93,"9,52",19,1 à 10,0
+M8443,"Fracture pathologique, non classée ailleurs - Avant-bras",21,13,"5,92",1 à 10,1 à 10,0
+M8445,"Fracture pathologique, non classée ailleurs - Région pelvienne et cuisse",479,438,"12,33",41,25,0
+M8446,"Fracture pathologique, non classée ailleurs - Jambe",110,90,"9,92",20,15,0
+M8447,"Fracture pathologique, non classée ailleurs - Cheville et pied",40,22,"13,95",18,1 à 10,0
+M8448,"Fracture pathologique, non classée ailleurs - Autres localisations",654,541,"10,26",113,36,0
+M8449,"Fracture pathologique, non classée ailleurs - Siège non précisé",13,1 à 10,NA,1 à 10,1 à 10,0
+M8485,Autres anomalies de la continuité osseuse - Région pelvienne et cuisse,20,15,"6,33",1 à 10,1 à 10,0
+M8486,Autres anomalies de la continuité osseuse - Jambe,13,1 à 10,NA,1 à 10,0,0
+M8487,Autres anomalies de la continuité osseuse - Cheville et pied,12,1 à 10,NA,1 à 10,1 à 10,0
+M8488,Autres anomalies de la continuité osseuse - Autres localisations,58,51,"5,69",1 à 10,0,0
+"",Total,8 876,6 544,"",2 332,"",0

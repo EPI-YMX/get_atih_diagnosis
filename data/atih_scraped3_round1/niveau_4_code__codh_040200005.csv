@@ -1,0 +1,11 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+E140,"Diabète sucré, sans précision, avec coma",112,85,"12,98",27,19,0
+E141,"Diabète sucré, sans précision, avec acidocétose",971,759,"8,11",212,129,0
+E142,"Diabète sucré, sans précision, avec complications rénales",42,37,"4,46",1 à 10,0,0
+E143,"Diabète sucré, sans précision, avec complications oculaires",37,30,"4,60",1 à 10,0,0
+E144,"Diabète sucré, sans précision, avec complications neurologiques",64,54,"7,24",1 à 10,1 à 10,0
+E145,"Diabète sucré, sans précision, avec complications vasculaires périphériques",61,31,"7,87",30,19,0
+E146,"Diabète sucré, sans précision, avec autres complications précisées",151,112,"9,07",39,29,0
+E147,"Diabète sucré, sans précision, avec complications multiples",117,65,"7,69",52,31,0
+E149,"Diabète sucré, sans précision, sans complication",851,556,"5,85",295,141,0
+"",Total,2 406,1 729,"",677,"",0

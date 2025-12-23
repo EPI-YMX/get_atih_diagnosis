@@ -1,0 +1,9 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+M510,Atteintes d'un disque lombaire et d'autres disques intervertébraux avec myélopathie (G99.2),174,133,"7,54",41,14,0
+M511,Atteintes d'un disque lombaire et d'autres disques intervertébraux avec radiculopathie,12 050,10 381,"4,74",1 669,539,0
+M512,Hernie d'un autre disque intervertébral précisé,4 119,3 038,"4,66",1 081,451,0
+M513,Détérioration d'un autre disque intervertébral précisé,335,258,"4,31",77,22,0
+M514,Nodules de Schmorl,13,1 à 10,NA,1 à 10,1 à 10,0
+M518,Autres atteintes précisées d'un disque intervertébral,1 225,791,"5,19",434,104,0
+M519,"Atteinte d'un disque intervertébral, sans précision",142,91,"4,95",51,18,0
+"",Total,18 058,14 695,"",3 363,"",0

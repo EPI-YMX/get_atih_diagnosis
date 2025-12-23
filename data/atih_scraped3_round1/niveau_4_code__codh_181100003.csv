@@ -1,0 +1,7 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+R852,Résultats anormaux de prélèvements effectués sur l'appareil digestif et la cavité abdominale : taux d'autres substances médicamenteuses et biologiques,33,1 à 10,NA,26,1 à 10,0
+R854,Résultats immunologiques anormaux de prélèvements effectués sur l'appareil digestif et la cavité abdominale,69,1 à 10,NA,59,1 à 10,0
+R855,Résultats microbiologiques anormaux de prélèvements effectués sur l'appareil digestif et la cavité abdominale : cultures positives,12,1 à 10,NA,1 à 10,1 à 10,0
+R856,Résultats cytologiques anormaux de prélèvements effectués sur l'appareil digestif et la cavité abdominale : résultats cytologiques,21,1 à 10,NA,18,1 à 10,0
+R857,Résultats histologiques anormaux de prélèvements effectués sur l'appareil digestif et la cavité abdominale,23,1 à 10,NA,18,1 à 10,0
+"",Total,176,27,"",149,"",0

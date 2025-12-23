@@ -1,0 +1,15 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+T51,Effet toxique de l'alcool,1 260,168,"4,92",1 092,666,0
+T52,Effet toxique de solvants organiques,261,90,"5,87",171,113,0
+T54,Effet toxique de substances corrosives,1 164,392,"7,02",772,497,0
+T55,Effet toxique de savons et détergents,230,58,"4,53",172,115,0
+T56,Effet toxique des métaux,83,59,"7,73",24,22,0
+T57,Effet toxique d'autres substances non organiques,12,1 à 10,NA,1 à 10,1 à 10,0
+T58,Effet toxique du monoxyde de carbone,2 447,2 447,"1,15",0,0,0
+T59,"Effets toxiques d'autres émanations, gaz et fumées",951,951,"1,81",0,0,0
+T60,Effet toxique de pesticides,168,78,"6,76",90,66,0
+T61,Effet toxique de substances nocives absorbées par le biais de fruits de mer,62,62,"1,21",0,0,0
+T62,Effet toxique d'autres substances nocives absorbées par le biais d'aliments,391,391,"1,68",0,0,0
+T63,Effet toxique d'un contact avec un animal venimeux,1 677,1 672,"0,98",1 à 10,0,0
+T65,Effet toxique de substances autres et non précisées,386,47,"5,13",339,189,0
+"",Total,9 103,6 426,"",2 677,"",0

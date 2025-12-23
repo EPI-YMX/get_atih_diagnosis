@@ -1,0 +1,17 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+A30,Lèpre [maladie de Hansen],47,28,"8,96",19,0,0
+A31,Infections dues à d'autres mycobactéries,679,512,"13,17",167,25,0
+A32,Listériose,326,316,"17,82",1 à 10,1 à 10,0
+A36,Diphtérie,11,1 à 10,NA,1 à 10,1 à 10,0
+A37,Coqueluche,3 043,2 210,"6,86",833,620,0
+A38,Scarlatine,395,182,"3,09",213,169,0
+A39,Infection à méningocoques,469,439,"9,68",30,1 à 10,0
+A40,Sepsis à streptocoques,2 211,2 076,"14,21",135,81,0
+A41,Autres sepsis,14 638,12 986,"12,43",1 652,1 113,0
+A42,Actinomycose,226,157,"10,46",69,1 à 10,0
+A43,Nocardiose,123,102,"17,83",21,1 à 10,0
+A44,Bartonellose,70,53,"8,00",17,1 à 10,0
+A46,Érysipèle,27 158,20 977,"10,95",6 181,4 298,0
+A48,"Autres maladies bactériennes, non classées ailleurs",1 410,1 327,"11,52",83,51,0
+A49,"Infection bactérienne, siège non précisé",6 225,5 913,"10,65",312,74,0
+"",Total,57 037,47 293,"",9 744,"",0

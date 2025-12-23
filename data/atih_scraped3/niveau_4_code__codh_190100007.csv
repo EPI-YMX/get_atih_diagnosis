@@ -1,0 +1,32 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+S060,Commotion cérébrale,12 066,12 047,"1,28",19,1 à 10,0
+S0600,"Commotion cérébrale, sans plaie intracrânienne",46 507,46 449,"1,46",58,28,0
+S0601,"Commotion cérébrale, avec plaie intracrânienne",1 220,1 214,"2,10",1 à 10,1 à 10,0
+S061,Oedème cérébral traumatique,87,86,"10,47",1 à 10,0,0
+S0610,"Oedème cérébral traumatique, sans plaie intracrânienne",152,151,"10,66",1 à 10,0,0
+S0611,"Oedème cérébral traumatique, avec plaie intracrânienne",25,25,"5,36",0,0,0
+S062,Lésion traumatique cérébrale diffuse,673,540,"14,19",133,84,0
+S0620,"Lésion traumatique cérébrale diffuse, sans plaie intracrânienne",2 062,1 657,"12,17",405,268,0
+S0621,"Lésion traumatique cérébrale diffuse, avec plaie intracrânienne",264,226,"12,62",38,28,0
+S063,Lésion traumatique cérébrale en foyer,326,277,"10,85",49,41,0
+S0630,"Lésion traumatique cérébrale en foyer, sans plaie intracrânienne",1 605,1 388,"12,56",217,157,0
+S0631,"Lésion traumatique cérébrale en foyer, avec plaie intracrânienne",106,91,"13,90",15,13,0
+S064,Hémorragie épidurale,331,330,"8,48",1 à 10,1 à 10,0
+S0640,"Hémorragie épidurale, sans plaie intracrânienne",1 496,1 478,"8,61",18,13,0
+S0641,"Hémorragie épidurale, avec plaie intracrânienne",125,125,"9,36",0,0,0
+S065,Hémorragie sous-durale traumatique,3 617,3 597,"9,14",20,12,0
+S0650,"Hémorragie sous-durale traumatique, sans plaie intracrânienne",13 897,13 809,"9,18",88,49,0
+S0651,"Hémorragie sous-durale traumatique, avec plaie intracrânienne",758,752,"8,21",1 à 10,1 à 10,0
+S066,Hémorragie sous-arachnoïdienne traumatique,1 292,1 281,"7,98",11,1 à 10,0
+S0660,"Hémorragie sous-arachnoïdienne traumatique, sans plaie intracrânienne",6 138,6 098,"8,59",40,23,0
+S0661,"Hémorragie sous-arachnoïdienne traumatique, avec plaie intracrânienne",380,379,"9,67",1 à 10,1 à 10,0
+S067,Lésion traumatique intracrânienne avec coma prolongé,215,204,"26,05",11,1 à 10,0
+S0670,"Lésion traumatique intracrânienne avec coma prolongé, sans plaie intracrânienne",408,388,"15,36",20,1 à 10,0
+S0671,"Lésion traumatique intracrânienne avec coma prolongé, avec plaie intracrânienne",103,98,"11,38",1 à 10,1 à 10,0
+S068,Autres lésions traumatiques intracrâniennes,301,300,"4,54",1 à 10,0,0
+S0680,"Autres lésions traumatiques intracrâniennes, sans plaie intracrânienne",961,959,"6,61",1 à 10,1 à 10,0
+S0681,"Autres lésions traumatiques intracrâniennes, avec plaie intracrânienne",161,161,"4,55",0,0,0
+S069,"Lésion traumatique intracrânienne, sans précision",1 245,1 239,"2,11",1 à 10,1 à 10,0
+S0690,"Lésion traumatique intracrânienne, sans précision, sans plaie intracrânienne",3 631,3 626,"1,50",1 à 10,1 à 10,0
+S0691,"Lésion traumatique intracrânienne, sans précision, avec plaie intracrânienne",123,123,"4,00",0,0,0
+"",Total,100 275,99 098,"",1 177,"",0

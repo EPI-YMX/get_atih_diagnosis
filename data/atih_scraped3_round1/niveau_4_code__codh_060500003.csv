@@ -1,0 +1,8 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+G370,Sclérose diffuse,11,1 à 10,NA,1 à 10,0,0
+G371,Démyélinisation centrale du corps calleux,25,23,"28,13",1 à 10,0,0
+G372,Myélinolyse centropontine,32,29,"34,55",1 à 10,0,0
+G373,Myélite transverse aiguë (au cours d'affections démyélinisantes du système nerveux central),284,257,"9,81",27,0,0
+G378,Autres affections démyélinisantes précisées du système nerveux central,475,321,"8,77",154,0,0
+G379,"Affection démyélinisante du système nerveux central, sans précision",196,122,"5,27",74,0,0
+"",Total,1 026,764,"",262,"",0

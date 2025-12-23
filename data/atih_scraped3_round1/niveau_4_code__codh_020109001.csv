@@ -1,0 +1,7 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+C600,Tumeur maligne du prépuce,58,24,"5,79",34,1 à 10,0
+C601,Tumeur maligne du gland,239,184,"4,70",55,1 à 10,0
+C602,Tumeur maligne du corps de la verge,58,50,"6,68",1 à 10,1 à 10,0
+C608,Tumeur maligne à localisations contiguës de la verge,18,16,"6,50",1 à 10,0,0
+C609,"Tumeur maligne de la verge, sans précision",186,159,"7,94",27,1 à 10,0
+"",Total,559,433,"",126,"",0

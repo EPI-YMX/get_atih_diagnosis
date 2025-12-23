@@ -1,0 +1,11 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+T430,Intoxication par antidépresseurs tricycliques et tétracycliques,832,332,"5,68",500,388,0
+T431,Intoxication par antidépresseurs inhibiteurs de la mono-amine-oxydase,99,37,"5,78",62,46,0
+T432,"Intoxication par antidépresseurs, autres et non précisés",3 526,1 172,"5,53",2 354,1 732,0
+T433,Intoxication par psycholeptiques et neuroleptiques dérivés de la phénothiazine,3 089,1 211,"5,25",1 878,1 513,0
+T434,Intoxication par neuroleptiques de type butyrophénone et thioxanthène,191,73,"6,64",118,90,0
+T435,"Intoxication par psycholeptiques et neuroleptiques, autres et non précisés",4 923,1 915,"6,05",3 008,2 265,0
+T436,Intoxication par psychostimulants présentant un risque d'abus,432,97,"5,04",335,201,0
+T438,"Intoxication par autres médicaments psychotropes, non classés ailleurs",680,246,"6,12",434,311,0
+T439,"Intoxication par médicament psychotrope, sans précision",1 568,392,"4,87",1 176,798,0
+"",Total,15 340,5 475,"",9 865,"",0

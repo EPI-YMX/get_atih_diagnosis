@@ -37,7 +37,7 @@ for (col in columns_to_clean) {
     atih_clean[, (col) := as.numeric(get(col))]
 }
 
-atih_clean[, code := trimws(code)]
+atih_clean[!is.na(code) & code != "", code := trimws(code)]
 
 fwrite(unique(atih_clean), "atih_clean.csv")
 

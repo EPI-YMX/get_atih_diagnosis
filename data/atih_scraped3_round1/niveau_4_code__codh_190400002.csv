@@ -1,0 +1,10 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+S310,Plaie ouverte des lombes et du bassin,354,257,"3,78",97,0,0
+S311,Plaie ouverte de la paroi abdominale,943,698,"3,42",245,0,0
+S312,Plaie ouverte du pénis,141,96,"2,30",45,0,0
+S313,Plaie ouverte du scrotum et des testicules,237,192,"2,37",45,0,0
+S314,Plaie ouverte du vagin et de la vulve,1 006,631,"2,19",375,86,0
+S315,"Plaie ouverte des organes génitaux externes, autres et non précisés",59,34,"1,82",25,1 à 10,0
+S317,"Plaies ouvertes multiples de l'abdomen, des lombes et du bassin",47,36,"9,47",11,0,0
+S318,Plaie ouverte de parties autres et non précisées de l'abdomen,180,124,"3,35",56,0,0
+"",Total,2 967,2 068,"",899,"",0

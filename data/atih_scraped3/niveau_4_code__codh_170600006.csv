@@ -1,0 +1,10 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+Q430,Diverticule de Meckel,279,264,"5,95",15,1 à 10,0
+Q431,Maladie de Hirschsprung,387,273,"12,27",114,34,0
+Q433,Malformations congénitales de fixation de l'intestin,78,69,"10,16",1 à 10,1 à 10,0
+Q434,Duplication de l'intestin,81,75,"4,65",1 à 10,1 à 10,0
+Q435,Ectopie de l'anus,17,13,"3,31",1 à 10,0,0
+Q436,Fistule congénitale du rectum et de l'anus,14,12,"3,17",1 à 10,0,0
+Q437,Persistance du cloaque,22,13,"11,85",1 à 10,1 à 10,0
+Q438,Autres malformations congénitales précisées de l'intestin,805,121,"5,46",684,37,0
+"",Total,1 692,847,"",845,"",0

@@ -1,0 +1,22 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+190100000,Lésions traumatiques de la tête,166 569,139 765,"3,83",26 804,1 691,0
+190200000,Lésions traumatiques du cou,11 715,9 305,"8,48",2 410,711,0
+190300000,Lésions traumatiques du thorax,47 722,34 973,"7,73",12 749,7 467,0
+190400000,"Lésions traumatiques de l'abdomen, des lombes, du rachis lombaire et du bassin",70 010,61 071,"7,92",8 939,2 914,0
+190500000,Lésions traumatiques de l'épaule et du bras,62 622,45 753,"4,51",16 869,5 462,0
+190600000,Lésions traumatiques du coude et de l'avant-bras,75 289,47 226,"2,78",28 063,3 497,0
+190700000,Lésions traumatiques du poignet et de la main,68 766,21 913,"1,91",46 853,286,0
+190800000,Lésions traumatiques de la hanche et de la cuisse,118 959,105 854,"9,15",13 105,6 186,0
+190900000,Lésions traumatiques du genou et de la jambe,83 740,62 161,"5,30",21 579,5 288,0
+191000000,Lésions traumatiques de la cheville et du pied,16 236,10 360,"4,36",5 876,1 062,0
+191100000,Lésions traumatiques de plusieurs parties du corps,211,84,"9,95",127,56,0
+191200000,"Lésions traumatiques de siège non précisé du tronc, membre au autre région du corps",31,16,"14,19",15,1 à 10,0
+191300000,Effets dus à un corps étranger ayant pénétré dans un orifice naturel,12 331,5 060,"2,75",7 271,3 435,0
+191400000,Brûlures et corrosions,12 433,6 263,"11,87",6 170,1 110,0
+191500000,Gelures,44,34,"8,24",1 à 10,1 à 10,0
+191600000,Intoxications par des médicaments et des substances biologiques,88 804,29 276,"5,56",59 528,43 904,0
+191700000,Effets toxiques de substances d'origine essentielllement non médicinale,9 103,6 426,"1,95",2 677,1 677,0
+191800000,"Effets de causes externes, autres et non précisés",21 047,8 350,"3,20",12 697,6 385,0
+191900000,Certaines complications précoces des traumatismes,26 807,22 121,"12,99",4 686,3 533,0
+192000000,"Complications de soins chirurgicaux et médicaux, non classées ailleurs",67 257,47 307,"8,07",19 950,6 618,0
+"",Total,959 696,663 318,"",296 378,"",0

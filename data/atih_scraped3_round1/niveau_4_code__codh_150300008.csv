@@ -1,0 +1,8 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+O280,Résultats hématologiques anormaux au cours de l'examen prénatal systématique de la mère,65,50,"3,42",15,0,0
+O281,Résultats biochimiques anormaux au cours de l'examen prénatal systématique de la mère,98,38,"3,95",60,1 à 10,0
+O283,Résultats échographiques anormaux au cours de l'examen prénatal systématique de la mère,706,334,"3,75",372,35,0
+O285,Résultats chromosomiques et génétiques anormaux au cours de l'examen prénatal systématique de la mère,41,1 à 10,NA,31,1 à 10,0
+O288,Autres résultats anormaux au cours de l'examen prénatal systématique de la mère,84,30,"2,77",54,0,0
+O289,"Résultat anormal constaté au cours de l'examen prénatal systématique de la mère, sans précision",54,52,"3,60",1 à 10,0,0
+"",Total,1 058,519,"",539,"",0

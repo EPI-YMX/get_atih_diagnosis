@@ -1,0 +1,9 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+S150,Lésion traumatique de la carotide,134,112,"8,36",22,1 à 10,0
+S151,Lésion traumatique de l'artère vertébrale,55,44,"8,68",11,1 à 10,0
+S152,Lésion traumatique de la veine jugulaire externe,40,32,"2,94",1 à 10,1 à 10,0
+S153,Lésion traumatique de la veine jugulaire interne,24,17,"4,82",1 à 10,1 à 10,0
+S157,Lésion traumatique de multiples vaisseaux sanguins au niveau du cou,12,1 à 10,NA,1 à 10,1 à 10,0
+S158,Lésion traumatique d'autres vaisseaux sanguins au niveau du cou,66,53,"5,89",13,1 à 10,0
+S159,Lésion traumatique de vaisseaux sanguins non précisés au niveau du cou,22,19,"5,89",1 à 10,1 à 10,0
+"",Total,353,284,"",69,"",0

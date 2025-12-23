@@ -1,0 +1,11 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+R450,Nervosité,49,13,"5,38",36,23,0
+R451,Agitation,9 832,2 182,"6,53",7 650,5 038,0
+R452,Tristesse,787,231,"4,26",556,336,0
+R453,Découragement et apathie,136,60,"8,85",76,28,0
+R454,Irritabilité et colère,225,86,"5,49",139,83,0
+R455,Hostilité,187,86,"7,56",101,79,0
+R456,Violence physique,1 270,406,"8,45",864,578,0
+R457,"État de choc émotionnel et tension, sans précision",130,33,"10,85",97,66,0
+R458,Autres symptômes et signes relatifs à l'humeur,27 043,9 819,"5,28",17 224,10 892,0
+"",Total,39 659,12 916,"",26 743,"",0

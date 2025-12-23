@@ -1,0 +1,21 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+S270,Pneumothorax traumatique,1 208,887,"6,55",321,210,0
+S2700,"Pneumothorax traumatique, sans plaie intrathoracique",4 138,3 372,"6,95",766,509,0
+S2701,"Pneumothorax traumatique, avec plaie intrathoracique",471,377,"6,64",94,68,0
+S271,Hémothorax traumatique,448,390,"9,78",58,39,0
+S2710,"Hémothorax traumatique, sans plaie intrathoracique",1 348,1 194,"10,21",154,91,0
+S2711,"Hémothorax traumatique, avec plaie intrathoracique",249,212,"7,01",37,23,0
+S272,Hémopneumothorax traumatique,352,302,"9,77",50,29,0
+S2720,"Hémopneumothorax traumatique, sans plaie intrathoracique",1 483,1 311,"9,67",172,93,0
+S2721,"Hémopneumothorax traumatique, avec plaie intrathoracique",313,268,"6,88",45,27,0
+S273,Autres lésions traumatiques du poumon,176,64,"7,48",112,86,0
+S2730,"Autres lésions traumatiques du poumon, sans plaie intrathoracique",738,354,"8,20",384,364,0
+S2731,"Autres lésions traumatiques du poumon, avec plaie intrathoracique",63,44,"7,48",19,19,0
+S2750,"Lésion traumatique de la trachée thoracique, sans plaie intrathoracique",28,19,"15,00",1 à 10,12,0
+S276,Lésion traumatique de la plèvre,22,1 à 10,NA,16,12,0
+S2760,"Lésion traumatique de la plèvre, sans plaie intrathoracique",109,72,"10,24",37,41,0
+S2761,"Lésion traumatique de la plèvre, avec plaie intrathoracique",14,12,"7,92",1 à 10,1 à 10,0
+S278,Lésion traumatique d'autres organes intrathoraciques précisés,25,18,"31,39",1 à 10,1 à 10,0
+S2780,"Lésion traumatique d'autres organes intrathoraciques précisés, sans plaie intrathoracique",142,118,"9,62",24,16,0
+S2781,"Lésion traumatique d'autres organes intrathoraciques précisés, avec plaie intrathoracique",45,44,"10,34",1 à 10,1 à 10,0
+"",Total,11 399,9 077,"",2 322,"",0

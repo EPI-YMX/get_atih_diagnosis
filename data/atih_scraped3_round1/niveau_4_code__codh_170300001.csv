@@ -1,0 +1,11 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+Q200,Tronc artériel commun,92,77,"15,40",15,0,0
+Q201,Ventricule droit à double issue,190,171,"12,13",19,0,0
+Q202,Ventricule gauche à double issue,19,18,"13,72",1 à 10,0,0
+Q203,Communication ventriculo-auriculaire discordante,369,329,"14,54",40,1 à 10,0
+Q204,Ventricule à double issue,204,175,"12,21",29,1 à 10,0
+Q205,Communication auriculo-ventriculaire discordante,68,61,"10,79",1 à 10,1 à 10,0
+Q206,Isomérisme des auricules cardiaques,13,12,"3,92",1 à 10,0,0
+Q208,Autres malformations congénitales des cavités et des orifices cardiaques,188,183,"3,25",1 à 10,1 à 10,0
+Q209,"Malformation congénitale des cavités et des orifices cardiaques, sans précision",16,11,"8,91",1 à 10,0,0
+"",Total,1 159,1 037,"",122,"",0

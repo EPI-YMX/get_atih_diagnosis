@@ -1,0 +1,11 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+A50,Syphilis congénitale,72,68,"8,51",1 à 10,1 à 10,0
+A51,Syphilis précoce,127,90,"5,84",37,0,0
+A52,Syphilis tardive,283,261,"8,50",22,0,0
+A53,"Syphilis, autres et sans précision",61,30,"5,67",31,1 à 10,0
+A54,Infection gonococcique,175,126,"6,40",49,20,0
+A56,Autres infections à Chlamydia transmises par voie sexuelle,222,154,"3,52",68,32,0
+A58,Granulome inguinal,16,1 à 10,NA,1 à 10,1 à 10,0
+A60,Infection ano-génitale par le virus de l'herpès [herpes simplex],245,178,"5,24",67,33,0
+A63,"Autres maladies dont le mode de transmission est essentiellement sexuel, non classées ailleurs",3 747,429,"1,79",3 318,17,0
+"",Total,4 969,1 356,"",3 613,"",0

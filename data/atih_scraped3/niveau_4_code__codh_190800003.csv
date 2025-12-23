@@ -1,0 +1,17 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+S7200,Fracture fermée du col du fémur,53 187,48 147,"9,30",5 040,2 845,0
+S7201,Fracture ouverte du col du fémur,65,58,"11,29",1 à 10,1 à 10,0
+S7210,Fracture fermée du trochanter,33 638,31 260,"9,49",2 378,1 329,0
+S7211,Fracture ouverte du trochanter,28,27,"15,70",1 à 10,0,0
+S7220,Fracture fermée sous-trochantérienne,4 567,4 347,"9,87",220,129,0
+S7230,Fracture fermée de la diaphyse fémorale,7 224,6 446,"9,65",778,437,0
+S7231,Fracture ouverte de la diaphyse fémorale,395,390,"17,04",1 à 10,1 à 10,0
+S7240,Fracture fermée de l'extrémité inférieure du fémur,3 806,3 270,"10,45",536,331,0
+S7241,Fracture ouverte de l'extrémité inférieure du fémur,221,214,"17,34",1 à 10,1 à 10,0
+S7270,Fractures fermées multiples du fémur,405,377,"10,99",28,12,0
+S7271,Fractures ouvertes multiples du fémur,41,38,"23,63",1 à 10,0,0
+S7280,Fracture fermée d'autres parties du fémur,824,663,"9,72",161,105,0
+S7281,Fracture ouverte d'autres parties du fémur,17,16,"12,00",1 à 10,0,0
+S7290,"Fracture fermée du fémur, partie non précisée",767,407,"8,83",360,217,0
+S7291,"Fracture ouverte du fémur, partie non précisée",22,17,"12,65",1 à 10,1 à 10,0
+"",Total,105 212,95 682,"",9 530,"",0

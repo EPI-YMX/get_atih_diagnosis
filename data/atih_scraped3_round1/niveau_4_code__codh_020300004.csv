@@ -1,0 +1,11 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+D130,Tumeur bénigne de l'oesophage,771,324,"1,04",447,27,0
+D131,Tumeur bénigne de l'estomac,1 357,649,"1,60",708,61,0
+D132,Tumeur bénigne du duodénum,1 645,1 243,"1,82",402,69,0
+D133,"Tumeur bénigne de parties de l'intestin grêle, autres et non précisées",201,166,"3,19",35,1 à 10,0
+D134,Tumeur bénigne du foie,1 018,596,"4,20",422,0,0
+D135,Tumeur bénigne des voies biliaires extra-hépatiques,332,230,"4,39",102,0,0
+D136,Tumeur bénigne du pancréas,1 225,273,"11,16",952,122,0
+D137,Tumeur bénigne du pancréas endocrine,135,55,"7,93",80,16,0
+D1390,Tumeur bénigne de la rate,41,28,"5,14",13,0,0
+"",Total,6 725,3 564,"",3 161,"",0

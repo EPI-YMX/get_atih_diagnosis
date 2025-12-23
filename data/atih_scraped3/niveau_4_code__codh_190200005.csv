@@ -1,0 +1,6 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+S140,Commotion et oedème de la moelle cervicale,159,142,"13,63",17,0,0
+S141,"Lésions traumatiques de la moelle cervicale, autres et non précisées",349,323,"21,82",26,0,0
+S142,Lésion traumatique d'une racine nerveuse du rachis cervical,23,1 à 10,NA,18,13,0
+S143,Lésion traumatique du plexus brachial,119,100,"6,34",19,1 à 10,0
+"",Total,662,573,"",89,"",0

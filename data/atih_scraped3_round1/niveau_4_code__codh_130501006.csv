@@ -1,0 +1,38 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+M850,Dysplasie fibreuse (localisée),29,15,"3,60",14,1 à 10,0
+M8500,Dysplasie fibreuse (localisée) - Sièges multiples,12,1 à 10,NA,1 à 10,1 à 10,0
+M8505,Dysplasie fibreuse (localisée) - Région pelvienne et cuisse,52,31,"3,58",21,1 à 10,0
+M8506,Dysplasie fibreuse (localisée) - Jambe,51,26,"2,62",25,1 à 10,0
+M8508,Dysplasie fibreuse (localisée) - Autres localisations,64,41,"3,20",23,1 à 10,0
+M853,Ostéite condensante,29,15,"6,07",14,0,0
+M8530,Ostéite condensante - Sièges multiples,14,12,"7,00",1 à 10,0,0
+M8534,Ostéite condensante - Main,13,1 à 10,NA,1 à 10,0,0
+M8535,Ostéite condensante - Région pelvienne et cuisse,33,26,"15,85",1 à 10,0,0
+M8536,Ostéite condensante - Jambe,20,14,"37,00",1 à 10,0,0
+M8537,Ostéite condensante - Cheville et pied,283,228,"13,19",55,0,0
+M8538,Ostéite condensante - Autres localisations,25,21,"12,90",1 à 10,0,0
+M8539,Ostéite condensante - Siège non précisé,15,11,"3,73",1 à 10,0,0
+M855,Kyste anévrismal des os,15,1 à 10,NA,1 à 10,0,0
+M8552,Kyste anévrismal des os - Bras,29,15,"1,60",14,0,0
+M8555,Kyste anévrismal des os - Région pelvienne et cuisse,49,25,"1,60",24,0,0
+M8556,Kyste anévrismal des os - Jambe,49,20,"1,95",29,0,0
+M8557,Kyste anévrismal des os - Cheville et pied,12,1 à 10,NA,1 à 10,0,0
+M8558,Kyste anévrismal des os - Autres localisations,23,19,"5,47",1 à 10,0,0
+M856,Autres kystes osseux,25,1 à 10,NA,18,0,0
+M8562,Autres kystes osseux - Bras,68,20,"1,55",48,0,0
+M8564,Autres kystes osseux - Main,22,1 à 10,NA,21,0,0
+M8565,Autres kystes osseux - Région pelvienne et cuisse,60,39,"3,00",21,0,0
+M8566,Autres kystes osseux - Jambe,54,22,"2,18",32,0,0
+M8567,Autres kystes osseux - Cheville et pied,50,17,"1,59",33,0,0
+M8568,Autres kystes osseux - Autres localisations,20,1 à 10,NA,12,0,0
+M858,Autres anomalies précisées de la densité et de la structure osseuses,112,1 à 10,NA,104,0,0
+M8580,Autres anomalies précisées de la densité et de la structure osseuses - Sièges multiples,69,1 à 10,NA,62,0,0
+M8585,Autres anomalies précisées de la densité et de la structure osseuses - Région pelvienne et cuisse,27,1 à 10,NA,17,0,0
+M8586,Autres anomalies précisées de la densité et de la structure osseuses - Jambe,15,1 à 10,NA,1 à 10,0,0
+M8587,Autres anomalies précisées de la densité et de la structure osseuses - Cheville et pied,11,1 à 10,NA,1 à 10,0,0
+M8588,Autres anomalies précisées de la densité et de la structure osseuses - Autres localisations,57,20,"4,05",37,0,0
+M8589,Autres anomalies précisées de la densité et de la structure osseuses - Siège non précisé,13,0,"",13,0,0
+M8595,"Anomalie de la densité et de la structure osseuses, sans précision - Région pelvienne et cuisse",12,1 à 10,NA,1 à 10,0,0
+M8598,"Anomalie de la densité et de la structure osseuses, sans précision - Autres localisations",11,1 à 10,NA,1 à 10,0,0
+M8599,"Anomalie de la densité et de la structure osseuses, sans précision - Siège non précisé",13,0,"",13,0,0
+"",Total,1 583,775,"",808,"",0

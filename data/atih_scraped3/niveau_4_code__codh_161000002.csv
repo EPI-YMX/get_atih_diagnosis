@@ -1,0 +1,9 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+P910,Ischémie cérébrale néonatale,120,120,"8,22",0,0,0
+P912,Leucomalacie cérébrale néonatale,14,12,"11,17",1 à 10,0,0
+P913,Irritabilité cérébrale du nouveau-né,31,31,"4,77",0,0,0
+P915,Coma du nouveau-né,28,28,"16,04",0,0,0
+P916,Encéphalopathie anoxo-ischémique [hypoxique ischémique] du nouveau-né,1 130,1 128,"11,52",1 à 10,0,0
+P917,Hydrocéphalie acquise du nouveau-né,44,44,"13,25",0,0,0
+P918,Autres affections cérébrales précisées du nouveau-né,66,64,"8,58",1 à 10,0,0
+"",Total,1 450,1 444,"",1 à 10,"",0

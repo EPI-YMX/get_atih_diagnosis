@@ -1,0 +1,14 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+E8700,Hypernatrémie supérieure à 150 millimoles [mmol] par litre,2 417,1 896,"10,47",521,450,0
+E8708,"Hyperosmolarités et hypernatrémies, autres et sans précision",503,370,"8,95",133,107,0
+E8710,Hyponatrémie inférieure à 120 millimoles [mmol] par litre,5 812,4 964,"9,76",848,668,0
+E8718,"Hypoosmolarités et hyponatrémies, autres et sans précision",8 534,6 394,"8,42",2 140,1 653,0
+E872,Acidose,1 883,1 261,"9,34",622,338,0
+E873,Alcalose,93,71,"6,96",22,13,0
+E8750,"Hyperkaliémie supérieure à 6,5 millimoles [mmol] par litre",2 385,1 373,"7,72",1 012,706,0
+E8758,"Hyperkaliémies, autres et sans précision",2 934,1 300,"7,29",1 634,1 061,0
+E8760,"Hypokaliémie inférieure à 2,5 millimoles [mmol] par litre",3 663,2 234,"8,32",1 429,1 150,0
+E8768,"Hypokaliémies, autres et sans précision",6 140,2 555,"7,03",3 585,2 498,0
+E877,Surcharge liquidienne,631,529,"7,29",102,44,0
+E878,"Autres déséquilibres hydro-électrolytiques, non classés ailleurs",144,87,"9,08",57,37,0
+"",Total,35 143,23 035,"",12 108,"",0

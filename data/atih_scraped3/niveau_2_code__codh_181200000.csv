@@ -1,0 +1,7 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+R90,Résultats anormaux d'imagerie diagnostique du système nerveux central,2 013,684,"5,31",1 329,310,0
+R91,Résultats anormaux d'imagerie diagnostique du poumon,14 437,5 342,"2,83",9 095,0,0
+R92,Résultats anormaux d'imagerie diagnostique du sein,160,143,"1,05",17,0,0
+R93,Résultats anormaux d'imagerie diagnostique d'autres parties du corps,12 848,4 488,"2,74",8 360,959,0
+R94,Résultats anormaux d'explorations fonctionnelles,9 283,3 224,"1,80",6 059,145,0
+"",Total,38 741,13 881,"",24 860,"",0

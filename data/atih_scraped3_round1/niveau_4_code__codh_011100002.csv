@@ -1,0 +1,7 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+B010,Méningite varicelleuse (G02.0*),56,50,"7,66",1 à 10,1 à 10,0
+B011,Encéphalite varicelleuse (G05.1*),79,79,"7,34",0,0,0
+B012,Pneumopathie varicelleuse (J17.1*),120,91,"6,34",29,21,0
+B018,Varicelle avec autres complications,1 030,1 009,"3,23",21,15,0
+B019,Varicelle (sans complication),932,875,"2,95",57,39,0
+"",Total,2 217,2 104,"",113,"",0

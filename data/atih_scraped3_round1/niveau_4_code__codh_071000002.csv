@@ -1,0 +1,10 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+H540,Cécité binoculaire,119,72,"9,78",47,0,0
+H541,"Déficience visuelle sévère, binoculaire",50,32,"7,31",18,0,0
+H542,"Déficience visuelle modérée, binoculaire",175,100,"4,10",75,0,0
+H543,"Déficience visuelle légère ou non précisée, binoculaire",17,12,"2,83",1 à 10,0,0
+H544,Cécité monoculaire,293,190,"3,42",103,0,0
+H545,"Déficience visuelle sévère, monoculaire",141,85,"4,00",56,0,0
+H546,"Déficience visuelle modérée, monoculaire",115,69,"2,64",46,0,0
+H549,"Déficience visuelle (binoculaire), sans précision",61,31,"3,23",30,0,0
+"",Total,971,591,"",380,"",0

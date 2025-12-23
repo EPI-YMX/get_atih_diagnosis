@@ -1,0 +1,42 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+M210,"Déformation en valgus, non classée ailleurs",36,22,"2,91",14,1 à 10,0
+M2105,"Déformation en valgus, non classée ailleurs - Région pelvienne et cuisse",30,16,"4,63",14,0,0
+M2106,"Déformation en valgus, non classée ailleurs - Jambe",254,176,"3,80",78,1 à 10,0
+M2107,"Déformation en valgus, non classée ailleurs - Cheville et pied",148,106,"2,96",42,1 à 10,0
+M211,"Déformation en varus, non classée ailleurs",38,24,"4,13",14,0,0
+M2113,"Déformation en varus, non classée ailleurs - Avant-bras",18,14,"2,00",1 à 10,1 à 10,0
+M2115,"Déformation en varus, non classée ailleurs - Région pelvienne et cuisse",23,21,"4,24",1 à 10,1 à 10,0
+M2116,"Déformation en varus, non classée ailleurs - Genou",338,298,"4,13",40,1 à 10,0
+M2117,"Déformation en varus, non classée ailleurs - Cheville et pied",602,342,"3,70",260,1 à 10,0
+M212,Déformation en flexion,979,1 à 10,NA,976,1 à 10,0
+M2120,Déformation en flexion - Sièges multiples,14,14,"5,43",0,0,0
+M2123,Déformation en flexion - Avant-bras,12,1 à 10,NA,1 à 10,0,0
+M2124,Déformation en flexion - Main,55,20,"4,10",35,0,0
+M2125,Déformation en flexion - Région pelvienne et cuisse,26,23,"14,13",1 à 10,1 à 10,0
+M2126,Déformation en flexion - Jambe,37,28,"12,86",1 à 10,1 à 10,0
+M2127,Déformation en flexion - Cheville et pied,24,16,"4,94",1 à 10,1 à 10,0
+M213,Poignet ou pied tombant (acquis),54,1 à 10,NA,51,0,0
+M2137,Poignet ou pied tombant (acquis) - Cheville et pied,11,1 à 10,NA,1 à 10,0,0
+M214,Pied plat [pes planus] (acquis),129,113,"1,99",16,1 à 10,0
+M2147,Pied plat (pes planus) (acquis) - Cheville et pied,279,257,"2,26",22,1 à 10,0
+M215,Main et pied bot(e) ou en griffe acquis(e),32,11,"2,45",21,0,0
+M2154,Main et pied bot(e) ou en griffe acquis(e) - Main,14,1 à 10,NA,1 à 10,0,0
+M2157,Main et pied bot(e) ou en griffe acquis(e) - Cheville et pied,497,88,"2,74",409,1 à 10,0
+M216,Autres déformations de la cheville et du pied,83,48,"3,38",35,1 à 10,0
+M2167,Autres déformations de la cheville et du pied - Cheville et pied,247,162,"3,07",85,1 à 10,0
+M217,Inégalité des membres (acquise),20,1 à 10,NA,1 à 10,0,0
+M2170,Inégalité des membres (acquise) - Sièges multiples,12,1 à 10,NA,1 à 10,0,0
+M2173,Inégalité des membres (acquise) - Avant-bras,13,1 à 10,NA,1 à 10,0,0
+M2175,Inégalité des membres (acquise) - Région pelvienne et cuisse,111,74,"4,80",37,1 à 10,0
+M2176,Inégalité des membres (acquise) - Jambe,240,122,"3,87",118,1 à 10,0
+M218,Autres déformations précisées de membres,31,28,"5,29",1 à 10,1 à 10,0
+M2180,Autres déformations précisées de membres - Sièges multiples,13,11,"6,09",1 à 10,0,0
+M2183,Autres déformations précisées de membres - Avant-bras,18,1 à 10,NA,1 à 10,1 à 10,0
+M2184,Autres déformations précisées de membres - Main,16,1 à 10,NA,1 à 10,0,0
+M2185,Autres déformations précisées de membres - Région pelvienne et cuisse,44,42,"4,40",1 à 10,1 à 10,0
+M2186,Autres déformations précisées de membres - Jambe,51,40,"3,63",11,1 à 10,0
+M2187,Autres déformations précisées de membres - Cheville et pied,63,32,"3,38",31,0,0
+M2193,"Déformation d'un membre, sans précision - Avant-bras",12,1 à 10,NA,1 à 10,1 à 10,0
+M2196,"Déformation d'un membre, sans précision - Jambe",17,15,"4,67",1 à 10,0,0
+M2199,"Déformation d'un membre, sans précision - Siège non précisé",21,13,"3,00",1 à 10,0,0
+"",Total,4 742,2 288,"",2 454,"",0

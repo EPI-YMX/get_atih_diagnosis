@@ -1,0 +1,20 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+Z8500,Antécédents personnels de tumeur maligne du tube digestif,7 273,1 670,"0,79",5 603,0,0
+Z8501,Antécédents personnels de tumeur maligne du système hépatobiliaire et du pancréas,108,83,"0,17",25,0,0
+Z8509,"Antécédents personnels de tumeur maligne des organes digestifs, sans précision",546,111,"0,73",435,0,0
+Z851,"Antécédents personnels de tumeur maligne de la trachée, des bronches et des poumons",140,29,"1,52",111,0,0
+Z8520,Antécédents personnels de tumeur maligne des voies aériennes supérieures et de l'oreille moyenne,169,23,"1,17",146,0,0
+Z853,Antécédents personnels de tumeur maligne du sein,875,734,"0,54",141,0,0
+Z854,Antécédents personnels de tumeur maligne des organes génitaux,254,215,"0,30",39,0,0
+Z855,Antécédents personnels de tumeur maligne des voies urinaires,258,130,"1,22",128,0,0
+Z856,Antécédents personnels de leucémie,15,13,"0,23",1 à 10,0,0
+Z857,"Antécédents personnels d'autres tumeurs malignes des tissus lymphoïde, hématopoïétique et apparentés",246,180,"0,08",66,0,0
+Z85800,Antécédents personnels de tumeur maligne du système nerveux,118,109,"0,02",1 à 10,0,0
+Z85801,Antécédents personnels de tumeur maligne de l'oeil,239,238,"0,00",1 à 10,0,0
+Z85802,Antécédents personnels de tumeur maligne de la gorge et de la bouche,1 297,61,"0,97",1 236,0,0
+Z85803,Antécédents personnels de tumeur maligne de l'appareil musculosquelettique et du tissu conjonctif,127,123,"0,08",1 à 10,0,0
+Z85804,Antécédents personnels de tumeur maligne de la peau et des tissus souscutanés,213,120,"0,63",93,0,0
+Z85805,Antécédents personnels de tumeur maligne des glandes endocrines,305,1 à 10,NA,301,0,0
+Z85880,Antécédents personnels de tumeur maligne d'autres localisations,37,23,"1,04",14,0,0
+Z859,"Antécédents personnels de tumeur maligne, sans précision",39,15,"1,60",24,0,0
+"",Total,12 268,3 888,"",8 380,"",0

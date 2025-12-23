@@ -1,0 +1,11 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+C500,Tumeur maligne du mamelon et de l'aréole,803,491,"3,96",312,0,0
+C501,Tumeur maligne de la partie centrale du sein,1 317,786,"3,44",531,0,0
+C502,Tumeur maligne du quadrant supéro-interne du sein,4 837,2 391,"3,08",2 446,0,0
+C503,Tumeur maligne du quadrant inféro-interne du sein,2 275,1 163,"3,12",1 112,0,0
+C504,Tumeur maligne du quadrant supéro-externe du sein,12 862,6 527,"3,26",6 335,0,0
+C505,Tumeur maligne du quadrant inféro-externe du sein,2 786,1 439,"3,00",1 347,0,0
+C506,Tumeur maligne du prolongement axillaire du sein,213,100,"4,18",113,0,0
+C508,Tumeur maligne à localisations contiguës du sein,10 895,5 935,"3,02",4 960,0,0
+C509,"Tumeur maligne du sein, sans précision",15 054,9 225,"5,24",5 829,0,0
+"",Total,51 042,28 057,"",22 985,"",0

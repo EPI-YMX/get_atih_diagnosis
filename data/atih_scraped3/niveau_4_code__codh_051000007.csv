@@ -1,0 +1,12 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+F980,Énurésie non organique,14,1 à 10,NA,1 à 10,0,0
+F9800,Énurésie non organique uniquement nocturne,29,1 à 10,NA,22,1 à 10,0
+F981,Encoprésie non organique,67,34,"6,32",33,13,0
+F982,Trouble de l'alimentation non organique du nourrisson et de l'enfant,377,179,"7,22",198,50,0
+F983,Pica du nourrisson et de l'enfant,13,1 à 10,NA,1 à 10,1 à 10,0
+F984,Mouvements stéréotypés,25,1 à 10,NA,23,1 à 10,0
+F9841,Mouvements stéréotypés avec automutilations,40,20,"5,60",20,1 à 10,0
+F985,Bégaiement,24,11,"4,27",13,1 à 10,0
+F988,Autres troubles précisés du comportement et troubles émotionnels apparaissant habituellement durant l'enfance et l'adolescence,667,365,"5,81",302,165,0
+F989,"Trouble du comportement et trouble émotionnel apparaissant habituellement durant l'enfance et l'adolescence, sans précision",455,179,"4,93",276,154,0
+"",Total,1 741,824,"",917,"",0

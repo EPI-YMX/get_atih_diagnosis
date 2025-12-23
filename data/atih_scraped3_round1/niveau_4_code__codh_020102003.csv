@@ -1,0 +1,7 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+C170,Tumeur maligne du duodénum,845,698,"15,49",147,39,0
+C171,Tumeur maligne du jéjunum,161,148,"11,89",13,1 à 10,0
+C172,Tumeur maligne de l'iléon,372,316,"11,38",56,1 à 10,0
+C178,Tumeur maligne à localisations contiguës de l'intestin grêle,94,73,"10,16",21,1 à 10,0
+C179,"Tumeur maligne de l'intestin grêle, sans précision",459,405,"10,29",54,1 à 10,0
+"",Total,1 936,1 644,"",292,"",0

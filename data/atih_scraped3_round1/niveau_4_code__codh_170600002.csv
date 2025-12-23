@@ -1,0 +1,8 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+Q390,"Atrésie de l'oesophage, (sans fistule)",151,108,"25,83",43,15,0
+Q391,Atrésie de l'oesophage avec fistule trachéo-oesophagienne,258,151,"32,00",107,1 à 10,0
+Q392,"Fistule trachéo-oesophagienne congénitale, (sans atrésie)",26,24,"13,08",1 à 10,1 à 10,0
+Q393,Sténose et rétrécissement congénitaux de l'oesophage,98,77,"4,45",21,1 à 10,0
+Q395,Dilatation congénitale de l'oesophage,20,1 à 10,NA,1 à 10,1 à 10,0
+Q398,Autres malformations congénitales de l'oesophage,43,16,"7,31",27,1 à 10,0
+"",Total,602,388,"",214,"",0

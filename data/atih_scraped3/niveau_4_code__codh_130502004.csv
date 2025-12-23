@@ -1,0 +1,33 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+M890,Algoneurodystrophie,72,30,"4,93",42,0,0
+M8900,Algoneurodystrophie - Sièges multiples,28,19,"5,79",1 à 10,0,0
+M8901,Algoneurodystrophie - Région scapulaire,70,29,"4,24",41,0,0
+M8902,Algoneurodystrophie - Bras,63,23,"9,78",40,0,0
+M8903,Algoneurodystrophie - Avant-bras,31,1 à 10,NA,23,0,0
+M8904,Algoneurodystrophie - Main,78,31,"7,10",47,0,0
+M8905,Algoneurodystrophie - Région pelvienne et cuisse,16,14,"4,93",1 à 10,0,0
+M8906,Algoneurodystrophie - Jambe,194,84,"4,49",110,0,0
+M8907,Algoneurodystrophie - Cheville et pied,198,96,"5,07",102,0,0
+M8908,Algoneurodystrophie - Autres localisations,16,12,"7,00",1 à 10,0,0
+M892,Autres troubles de la croissance et du développement osseux,84,1 à 10,NA,81,1 à 10,0
+M8928,Autres troubles de la croissance et du développement osseux - Autres localisations,23,1 à 10,NA,19,0,0
+M8937,Hypertrophie osseuse - Cheville et pied,11,1 à 10,NA,1 à 10,0,0
+M894,Autres ostéoarthropathies hypertrophiantes,11,1 à 10,NA,1 à 10,0,0
+M895,Ostéolyse,82,58,"5,14",24,0,0
+M8950,Ostéolyse - Sièges multiples,61,53,"9,57",1 à 10,0,0
+M8951,Ostéolyse - Région scapulaire,19,13,"10,69",1 à 10,0,0
+M8952,Ostéolyse - Bras,23,13,"4,92",1 à 10,0,0
+M8954,Ostéolyse - Main,26,1 à 10,NA,20,0,0
+M8955,Ostéolyse - Région pelvienne et cuisse,271,240,"7,48",31,0,0
+M8956,Ostéolyse - Jambe,63,37,"7,14",26,0,0
+M8957,Ostéolyse - Cheville et pied,106,60,"8,57",46,0,0
+M8958,Ostéolyse - Autres localisations,310,263,"6,65",47,0,0
+M898,Autres maladies osseuses précisées,85,33,"7,00",52,1 à 10,0
+M8980,Autres maladies osseuses précisées - Sièges multiples,29,26,"10,15",1 à 10,0,0
+M8981,Autres maladies osseuses précisées - Région scapulaire,13,1 à 10,NA,1 à 10,0,0
+M8985,Autres maladies osseuses précisées - Région pelvienne et cuisse,58,31,"10,58",27,1 à 10,0
+M8986,Autres maladies osseuses précisées - Jambe,32,15,"5,40",17,1 à 10,0
+M8987,Autres maladies osseuses précisées - Cheville et pied,47,1 à 10,NA,37,0,0
+M8988,Autres maladies osseuses précisées - Autres localisations,48,32,"3,63",16,1 à 10,0
+M8989,Autres maladies osseuses précisées - Siège non précisé,11,1 à 10,NA,1 à 10,1 à 10,0
+"",Total,2 259,1 316,"",943,"",0

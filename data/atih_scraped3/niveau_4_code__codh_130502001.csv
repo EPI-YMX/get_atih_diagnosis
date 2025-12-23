@@ -1,0 +1,74 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+M860,Ostéomyélite hématogène aiguë,75,67,"4,99",1 à 10,1 à 10,0
+M8602,Ostéomyélite hématogène aiguë - Bras,20,20,"13,40",0,0,0
+M8603,Ostéomyélite hématogène aiguë - Avant-bras,13,12,"6,42",1 à 10,0,0
+M8604,Ostéomyélite hématogène aiguë - Main,15,13,"10,23",1 à 10,1 à 10,0
+M8605,Ostéomyélite hématogène aiguë - Région pelvienne et cuisse,156,151,"14,62",1 à 10,1 à 10,0
+M8606,Ostéomyélite hématogène aiguë - Jambe,124,113,"13,42",11,1 à 10,0
+M8607,Ostéomyélite hématogène aiguë - Cheville et pied,338,308,"14,09",30,1 à 10,0
+M8608,Ostéomyélite hématogène aiguë - Autres localisations,34,25,"16,44",1 à 10,1 à 10,0
+M861,Autres ostéomyélites aiguës,116,93,"11,48",23,1 à 10,0
+M8610,Autres ostéomyélites aiguës - Sièges multiples,21,20,"15,55",1 à 10,0,0
+M8611,Autres ostéomyélites aiguës - Région scapulaire,88,81,"11,60",1 à 10,1 à 10,0
+M8612,Autres ostéomyélites aiguës - Bras,111,108,"11,56",1 à 10,1 à 10,0
+M8613,Autres ostéomyélites aiguës - Avant-bras,112,101,"7,05",11,0,0
+M8614,Autres ostéomyélites aiguës - Main,263,191,"8,40",72,1 à 10,0
+M8615,Autres ostéomyélites aiguës - Région pelvienne et cuisse,736,690,"16,40",46,15,0
+M8616,Autres ostéomyélites aiguës - Jambe,756,706,"12,87",50,13,0
+M8617,Autres ostéomyélites aiguës - Cheville et pied,3 790,3 238,"15,01",552,49,0
+M8618,Autres ostéomyélites aiguës - Autres localisations,365,334,"14,28",31,1 à 10,0
+M862,Ostéomyélite subaiguë,44,34,"9,06",1 à 10,1 à 10,0
+M8622,Ostéomyélite subaiguë - Bras,12,12,"16,50",0,0,0
+M8623,Ostéomyélite subaiguë - Avant-bras,13,12,"8,17",1 à 10,0,0
+M8624,Ostéomyélite subaiguë - Main,39,23,"7,78",16,1 à 10,0
+M8625,Ostéomyélite subaiguë - Région pelvienne et cuisse,100,90,"18,40",1 à 10,1 à 10,0
+M8626,Ostéomyélite subaiguë - Jambe,107,91,"13,04",16,1 à 10,0
+M8627,Ostéomyélite subaiguë - Cheville et pied,607,522,"16,58",85,11,0
+M8628,Ostéomyélite subaiguë - Autres localisations,62,52,"14,08",1 à 10,1 à 10,0
+M863,Ostéomyélite chronique multiple,61,42,"4,74",19,1 à 10,0
+M8630,Ostéomyélite chronique multiple - Sièges multiples,68,48,"7,13",20,1 à 10,0
+M8635,Ostéomyélite chronique multiple - Région pelvienne et cuisse,36,31,"17,65",1 à 10,0,0
+M8636,Ostéomyélite chronique multiple - Jambe,44,37,"18,00",1 à 10,1 à 10,0
+M8637,Ostéomyélite chronique multiple - Cheville et pied,106,93,"14,42",13,1 à 10,0
+M8638,Ostéomyélite chronique multiple - Autres localisations,32,27,"8,78",1 à 10,1 à 10,0
+M864,Ostéomyélite chronique avec fistule de drainage,37,31,"13,06",1 à 10,0,0
+M8641,Ostéomyélite chronique avec fistule de drainage - Région scapulaire,23,22,"10,50",1 à 10,0,0
+M8642,Ostéomyélite chronique avec fistule de drainage - Bras,34,28,"10,46",1 à 10,1 à 10,0
+M8643,Ostéomyélite chronique avec fistule de drainage - Avant-bras,22,20,"10,15",1 à 10,0,0
+M8644,Ostéomyélite chronique avec fistule de drainage - Main,17,13,"7,77",1 à 10,1 à 10,0
+M8645,Ostéomyélite chronique avec fistule de drainage - Région pelvienne et cuisse,280,254,"21,59",26,1 à 10,0
+M8646,Ostéomyélite chronique avec fistule de drainage - Jambe,443,380,"14,29",63,1 à 10,0
+M8647,Ostéomyélite chronique avec fistule de drainage - Cheville et pied,353,296,"12,65",57,1 à 10,0
+M8648,Ostéomyélite chronique avec fistule de drainage - Autres localisations,43,38,"12,89",1 à 10,1 à 10,0
+M8655,Autres ostéomyélites hématogènes chroniques - Région pelvienne et cuisse,18,17,"15,71",1 à 10,1 à 10,0
+M8656,Autres ostéomyélites hématogènes chroniques - Jambe,12,1 à 10,NA,1 à 10,0,0
+M866,Autres ostéomyélites chroniques,52,37,"12,32",15,1 à 10,0
+M8661,Autres ostéomyélites chroniques - Région scapulaire,49,42,"9,83",1 à 10,1 à 10,0
+M8662,Autres ostéomyélites chroniques - Bras,39,33,"8,94",1 à 10,0,0
+M8663,Autres ostéomyélites chroniques - Avant-bras,42,37,"8,62",1 à 10,0,0
+M8664,Autres ostéomyélites chroniques - Main,56,33,"7,91",23,1 à 10,0
+M8665,Autres ostéomyélites chroniques - Région pelvienne et cuisse,365,315,"14,40",50,1 à 10,0
+M8666,Autres ostéomyélites chroniques - Jambe,552,485,"13,30",67,12,0
+M8667,Autres ostéomyélites chroniques - Cheville et pied,1 097,821,"13,19",276,13,0
+M8668,Autres ostéomyélites chroniques - Autres localisations,129,110,"12,15",19,1 à 10,0
+M868,Autres ostéomyélites,27,18,"10,50",1 à 10,1 à 10,0
+M8681,Autres ostéomyélites - Région scapulaire,36,31,"10,19",1 à 10,1 à 10,0
+M8682,Autres ostéomyélites - Bras,46,44,"11,18",1 à 10,1 à 10,0
+M8683,Autres ostéomyélites - Avant-bras,39,37,"7,78",1 à 10,0,0
+M8684,Autres ostéomyélites - Main,108,76,"6,58",32,1 à 10,0
+M8685,Autres ostéomyélites - Région pelvienne et cuisse,248,196,"17,94",52,1 à 10,0
+M8686,Autres ostéomyélites - Jambe,372,298,"14,87",74,1 à 10,0
+M8687,Autres ostéomyélites - Cheville et pied,1 367,967,"13,34",400,14,0
+M8688,Autres ostéomyélites - Autres localisations,116,106,"13,69",1 à 10,1 à 10,0
+M869,"Ostéomyélite, sans précision",307,222,"11,47",85,14,0
+M8690,"Ostéomyélite, sans précision - Sièges multiples",13,11,"21,82",1 à 10,1 à 10,0
+M8691,"Ostéomyélite, sans précision - Région scapulaire",54,52,"10,31",1 à 10,1 à 10,0
+M8692,"Ostéomyélite, sans précision - Bras",75,66,"11,02",1 à 10,1 à 10,0
+M8693,"Ostéomyélite, sans précision - Avant-bras",81,70,"8,21",11,1 à 10,0
+M8694,"Ostéomyélite, sans précision - Main",198,123,"7,80",75,1 à 10,0
+M8695,"Ostéomyélite, sans précision - Région pelvienne et cuisse",640,578,"16,55",62,15,0
+M8696,"Ostéomyélite, sans précision - Jambe",567,526,"13,16",41,11,0
+M8697,"Ostéomyélite, sans précision - Cheville et pied",3 960,3 251,"14,43",709,92,0
+M8698,"Ostéomyélite, sans précision - Autres localisations",380,319,"14,68",61,1 à 10,0
+M8699,"Ostéomyélite, sans précision - Siège non précisé",19,15,"7,87",1 à 10,1 à 10,0
+"",Total,20 878,17 490,"",3 388,"",0

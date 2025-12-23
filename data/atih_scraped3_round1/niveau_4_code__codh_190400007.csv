@@ -1,0 +1,27 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+S360,Lésion traumatique de la rate,476,385,"8,18",91,37,0
+S3600,"Lésion traumatique de la rate, sans plaie intra-abdominale",1 631,1 401,"8,25",230,102,0
+S3601,"Lésion traumatique de la rate, avec plaie intra-abdominale",194,170,"8,90",24,1 à 10,0
+S361,Lésion traumatique du foie et de la vésicule biliaire,365,305,"8,82",60,30,0
+S3610,"Lésion traumatique du foie et de la vésicule biliaire, sans plaie intra-abdominale",1 180,1 004,"7,43",176,98,0
+S3611,"Lésion traumatique du foie et de la vésicule biliaire, avec plaie intra-abdominale",300,273,"8,90",27,1 à 10,0
+S362,Lésion traumatique du pancréas,24,19,"14,84",1 à 10,1 à 10,0
+S3620,"Lésion traumatique du pancréas, sans plaie intra-abdominale",90,75,"13,11",15,1 à 10,0
+S3621,"Lésion traumatique du pancréas, avec plaie intra-abdominale",16,11,"14,91",1 à 10,1 à 10,0
+S363,Lésion traumatique de l'estomac,34,24,"10,96",1 à 10,1 à 10,0
+S3630,"Lésion traumatique de l'estomac, sans plaie intra-abdominale",88,74,"12,91",14,1 à 10,0
+S3631,"Lésion traumatique de l'estomac, avec plaie intra-abdominale",86,86,"11,81",0,0,0
+S364,Lésion traumatique de l'intestin grêle,88,87,"11,54",1 à 10,0,0
+S3640,"Lésion traumatique de l'intestin grêle, sans plaie intra-abdominale",307,299,"12,41",1 à 10,1 à 10,0
+S3641,"Lésion traumatique de l'intestin grêle, avec plaie intra-abdominale",255,250,"11,74",1 à 10,1 à 10,0
+S365,Lésion traumatique du côlon,89,80,"10,84",1 à 10,1 à 10,0
+S3650,"Lésion traumatique du côlon, sans plaie intra-abdominale",297,271,"9,23",26,14,0
+S3651,"Lésion traumatique du côlon, avec plaie intra-abdominale",158,156,"13,21",1 à 10,1 à 10,0
+S366,Lésion traumatique du rectum,36,26,"7,81",1 à 10,1 à 10,0
+S3660,"Lésion traumatique du rectum, sans plaie intra-abdominale",164,143,"8,13",21,13,0
+S3661,"Lésion traumatique du rectum, avec plaie intra-abdominale",54,51,"11,27",1 à 10,1 à 10,0
+S3670,"Lésion traumatique de multiples organes intra-abdominaux, sans plaie intra-abdominale",16,11,"5,36",1 à 10,1 à 10,0
+S368,Lésion traumatique d'autres organes intra-abdominaux,185,149,"8,05",36,22,0
+S3680,"Lésion traumatique d'autres organes intra-abdominaux, sans plaie intra-abdominale",698,577,"7,91",121,72,0
+S3681,"Lésion traumatique d'autres organes intra-abdominaux, avec plaie intra-abdominale",204,177,"8,59",27,1 à 10,0
+"",Total,7 048,6 114,"",934,"",0

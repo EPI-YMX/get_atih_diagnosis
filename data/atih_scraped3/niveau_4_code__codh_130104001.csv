@@ -1,0 +1,9 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+M200,Déformation de(s) doigt(s),326,50,"1,66",276,1 à 10,0
+M201,Hallux valgus (acquis),15 035,2 438,"1,61",12 597,1 à 10,0
+M202,Hallux rigidus,1 534,300,"1,52",1 234,0,0
+M203,Autres déformations du gros orteil,214,44,"2,32",170,0,0
+M204,Autre(s) orteil(s) en marteau (acquis),278,55,"1,76",223,0,0
+M205,Autres déformations d'(es) orteil(s),2 491,370,"1,60",2 121,1 à 10,0
+M206,"Déformation d'(es) orteil(s), sans précision",41,1 à 10,NA,37,0,0
+"",Total,19 919,3 261,"",16 658,"",0

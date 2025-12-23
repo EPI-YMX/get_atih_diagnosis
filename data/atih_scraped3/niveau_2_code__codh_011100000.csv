@@ -1,0 +1,10 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+B00,Infections par le virus de l'herpès [herpes simplex],2 216,1 992,"6,20",224,37,0
+B01,Varicelle,2 217,2 104,"3,51",113,81,0
+B02,Zona [herpes zoster],2 688,2 212,"9,75",476,245,0
+B04,Monkeypox,18,1 à 10,NA,1 à 10,1 à 10,0
+B05,Rougeole,158,144,"4,06",14,11,0
+B07,Verrues d'origine virale,448,12,"1,75",436,0,0
+B08,"Autres infections virales caractérisées par des lésions cutanéo-muqueuses, non classées ailleurs",1 402,1 178,"2,25",224,108,0
+B09,"Infection virale caractérisée par des lésions cutanéo-muqueuses, sans précision",161,134,"3,60",27,20,0
+"",Total,9 313,7 791,"",1 522,"",0

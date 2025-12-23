@@ -1,0 +1,13 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+F600,Personnalité paranoïaque,129,57,"9,82",72,35,0
+F601,Personnalité schizoïde,27,14,"12,36",13,1 à 10,0
+F602,Personnalité dyssociale,107,24,"4,58",83,54,0
+F603,Personnalité émotionnellement labile,752,362,"11,80",390,229,0
+F6030,"Personnalité émotionnellement labile, type impulsif",922,485,"13,26",437,317,0
+F6031,"Personnalité émotionnellement labile, type borderline",1 122,558,"7,03",564,382,0
+F604,Personnalité histrionique,97,68,"12,65",29,22,0
+F606,Personnalité anxieuse [évitante],22,13,"10,15",1 à 10,1 à 10,0
+F607,Personnalité dépendante,28,15,"9,93",13,11,0
+F608,Autres troubles spécifiques de la personnalité,485,251,"13,72",234,150,0
+F609,"Trouble de la personnalité, sans précision",2 062,649,"4,12",1 413,888,0
+"",Total,5 759,2 498,"",3 261,"",0

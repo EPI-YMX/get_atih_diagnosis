@@ -1,0 +1,8 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+M140,Arthropathie goutteuse due à un déficit enzymatique et autres troubles héréditaires,13,1 à 10,NA,1 à 10,0,0
+M141,Arthropathie à microcristaux au cours d'autres troubles métaboliques classés ailleurs,13,11,"14,18",1 à 10,0,0
+M142,Arthropathie diabétique (E10-E14 avec le quatrième chiffre .6),38,29,"14,66",1 à 10,0,0
+M145,"Arthropathie au cours d'autres maladies endocriniennes, nutritionnelles et métaboliques",16,1 à 10,NA,1 à 10,0,0
+M146,Arthropathie neuropathique,166,129,"10,27",37,0,0
+M148,Arthropathie au cours d'autres maladies précisées classées ailleurs,86,61,"6,00",25,0,0
+"",Total,332,248,"",84,"",0

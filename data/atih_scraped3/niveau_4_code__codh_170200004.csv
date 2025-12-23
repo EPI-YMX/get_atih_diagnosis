@@ -1,0 +1,8 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+Q130,Colobome (de l'iris),21,0,"",21,0,0
+Q131,Absence (congénitale) d'iris,24,1 à 10,NA,20,0,0
+Q132,Autres malformations congénitales de l'iris,16,1 à 10,NA,14,0,0
+Q133,Opacité congénitale de la cornée,14,1 à 10,NA,1 à 10,0,0
+Q134,Autres malformations congénitales de la cornée,20,1 à 10,NA,14,0,0
+Q138,Autres malformations congénitales de la chambre antérieure de l'oeil,15,0,"",15,0,0
+"",Total,115,18,"",97,"",0

@@ -1,0 +1,9 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+E40,Kwashiorkor,15,1 à 10,NA,1 à 10,0,0
+E41,Marasme nutritionnel,372,127,"26,71",245,1 à 10,0
+E42,Kwashiorkor avec marasme,46,23,"29,78",23,1 à 10,0
+E43,"Malnutrition protéino-énergétique grave, sans précision",14 109,11 144,"14,60",2 965,346,0
+E44,Malnutrition protéino-énergétique légère ou modérée,3 980,2 565,"10,50",1 415,124,0
+E45,Retard de développement après malnutrition protéino-énergétique,109,80,"9,04",29,1 à 10,0
+E46,"Malnutrition protéino-énergétique, sans précision",736,419,"10,58",317,48,0
+"",Total,19 367,14 364,"",5 003,"",0

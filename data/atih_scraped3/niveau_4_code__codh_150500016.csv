@@ -1,0 +1,11 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+O750,Épuisement maternel au cours du travail et de l'accouchement,1 261,1 257,"5,00",1 à 10,1 à 10,0
+O751,Choc pendant ou après le travail et l'accouchement,14,14,"6,64",0,0,0
+O752,"Pyrexie au cours du travail, non classée ailleurs",682,680,"4,81",1 à 10,1 à 10,0
+O753,Autres infections au cours du travail,12,12,"7,42",0,0,0
+O754,Autres complications d'un acte de chirurgie obstétricale et d'un acte à visée diagnostique et thérapeutique,30,15,"3,33",15,1 à 10,0
+O755,Accouchement retardé après rupture artificielle des membranes,88,88,"4,80",0,0,0
+O756,Accouchement retardé après rupture spontanée ou non précisée des membranes,4 459,4 451,"4,87",1 à 10,1 à 10,0
+O757,Accouchement par voie vaginale après une césarienne,3 105,3 082,"3,92",23,16,0
+O758,Autres complications précisées du travail et de l'accouchement,46,44,"4,77",1 à 10,1 à 10,0
+"",Total,9 698,9 644,"",54,"",0

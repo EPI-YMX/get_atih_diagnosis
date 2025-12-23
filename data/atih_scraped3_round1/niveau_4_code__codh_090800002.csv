@@ -1,0 +1,11 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+I710,Dissection de l'aorte [toute localisation],3 771,2 768,"12,85",1 003,328,0
+I711,"Anévrisme aortique thoracique, rompu",300,209,"9,91",91,31,0
+I712,"Anévrisme aortique thoracique, sans mention de rupture",3 499,2 696,"11,88",803,130,0
+I713,"Anévrisme aortique abdominal, rompu",910,715,"11,32",195,71,0
+I714,"Anévrisme aortique abdominal, sans mention de rupture",5 277,4 775,"7,60",502,280,0
+I715,"Anévrisme aortique thoraco-abdominal, rompu",87,65,"8,38",22,1 à 10,0
+I716,"Anévrisme aortique thoraco-abdominal, sans mention de rupture",491,433,"8,69",58,29,0
+I718,"Anévrisme aortique de localisation non précisée, rompu",64,40,"7,80",24,13,0
+I719,"Anévrisme aortique de localisation non précisée, (sans mention de rupture)",71,44,"7,86",27,1 à 10,0
+"",Total,14 470,11 745,"",2 725,"",0

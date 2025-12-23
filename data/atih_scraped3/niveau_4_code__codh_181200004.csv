@@ -1,0 +1,11 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+R930,"Résultats anormaux d'imagerie diagnostique du crâne et de la tête, non classés ailleurs",630,162,"5,02",468,113,0
+R931,Résultats anormaux d'imagerie diagnostique du coeur et de la circulation coronaire,3 263,1 194,"1,80",2 069,16,0
+R932,Résultats anormaux d'imagerie diagnostique du foie et des voies biliaires,1 718,906,"2,74",812,0,0
+R933,Résultats anormaux d'imagerie diagnostique d'autres parties des voies digestives,3 360,804,"3,44",2 556,511,0
+R934,Résultats anormaux d'imagerie diagnostique de l'appareil urinaire,817,465,"2,29",352,1 à 10,0
+R935,"Résultats anormaux d'imagerie diagnostique d'autres parties de l'abdomen, y compris l'espace rétropéritonéal",1 210,339,"4,12",871,182,0
+R936,Résultats anormaux d'imagerie diagnostique des membres,108,25,"4,80",83,0,0
+R937,Résultats anormaux d'imagerie diagnostique d'autres parties du système ostéo-musculaire,821,416,"1,97",405,0,0
+R938,Résultats anormaux d'imagerie diagnostique d'autres parties du corps précisées,921,177,"3,97",744,136,0
+"",Total,12 848,4 488,"",8 360,"",0

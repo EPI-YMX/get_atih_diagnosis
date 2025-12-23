@@ -1,0 +1,8 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+C100,Tumeur maligne du sillon glosso-épiglottique,423,244,"9,94",179,0,0
+C101,Tumeur maligne de la face antérieure de l'épiglotte,199,110,"10,90",89,0,0
+C102,Tumeur maligne de la paroi latérale de l'oropharynx,396,252,"7,50",144,0,0
+C103,Tumeur maligne de la paroi postérieure de l'oropharynx,167,116,"8,13",51,0,0
+C108,Tumeur maligne à localisations contiguës de l'oropharynx,462,327,"11,27",135,0,0
+C109,"Tumeur maligne de l'oropharynx, sans précision",864,583,"10,40",281,0,0
+"",Total,2 511,1 632,"",879,"",0

@@ -1,0 +1,8 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+P390,Mastite infectieuse néonatale,42,34,"4,24",1 à 10,1 à 10,0
+P391,Conjonctivite et dacryocystite néonatales,82,74,"5,20",1 à 10,0,0
+P393,Infection néonatale des voies urinaires,512,512,"5,87",0,0,0
+P394,Infection néonatale de la peau,19,17,"4,94",1 à 10,1 à 10,0
+P398,Autres infections spécifiques précisées de la période périnatale,209,209,"4,53",0,0,0
+P399,"Infection spécifique de la période périnatale, sans précision",23,23,"5,48",0,0,0
+"",Total,894,876,"",18,"",0

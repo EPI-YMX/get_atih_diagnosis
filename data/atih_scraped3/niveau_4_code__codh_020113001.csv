@@ -1,0 +1,7 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+C760,"Tumeur maligne de siège mal défini de la tête, de la face et du cou",59,29,"5,97",30,0,0
+C761,Tumeur maligne de siège mal défini du thorax,12,12,"13,67",0,0,0
+C762,Tumeur maligne de siège mal défini de l'abdomen,37,29,"11,14",1 à 10,1 à 10,0
+C763,Tumeur maligne de siège mal défini du pelvis,40,34,"9,09",1 à 10,0,0
+C767,Tumeur maligne d'autres sièges mal définis,14,1 à 10,NA,1 à 10,0,0
+"",Total,176,120,"",56,"",0

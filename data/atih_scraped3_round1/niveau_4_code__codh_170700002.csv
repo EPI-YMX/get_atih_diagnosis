@@ -1,0 +1,9 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+Q510,Agénésie et aplasie de l'utérus,12,1 à 10,NA,1 à 10,0,0
+Q511,Utérus double avec duplication du col et du vagin,33,19,"1,42",14,0,0
+Q512,Autres duplications de l'utérus,352,305,"0,10",47,1 à 10,0
+Q513,Utérus bicorne,52,34,"1,18",18,0,0
+Q514,Utérus unicorne,14,11,"0,18",1 à 10,0,0
+Q518,Autres malformations congénitales de l'utérus et du col de l'utérus,147,120,"0,31",27,0,0
+Q519,"Malformation congénitale de l'utérus et du col de l'utérus, sans précision",96,79,"0,06",17,0,0
+"",Total,708,575,"",133,"",0

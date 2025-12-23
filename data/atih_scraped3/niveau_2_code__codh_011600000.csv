@@ -1,0 +1,9 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+B50,Paludisme à Plasmodium falciparum,2 799,2 053,"4,62",746,560,0
+B51,Paludisme à Plasmodium vivax,142,104,"4,30",38,25,0
+B52,Paludisme à Plasmodium malariae,77,54,"6,44",23,19,0
+B53,Autres paludismes confirmés par examen parasitologique,145,82,"4,17",63,51,0
+B54,"Paludisme, sans précision",333,123,"3,94",210,155,0
+B55,Leishmaniose,201,149,"7,58",52,1 à 10,0
+B58,Toxoplasmose,191,168,"20,82",23,1 à 10,0
+"",Total,3 898,2 742,"",1 156,"",0

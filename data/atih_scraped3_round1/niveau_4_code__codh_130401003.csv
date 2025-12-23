@@ -1,0 +1,47 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+M6208,Diastasis musculaire (n'entraînant pas de hernie) - Autres localisations,12,11,"2,91",1 à 10,0,0
+M6212,Autres déchirures musculaires (non traumatiques) - Bras,12,1 à 10,NA,1 à 10,0,0
+M6215,Autres déchirures musculaires (non traumatiques) - Région pelvienne et cuisse,34,26,"3,50",1 à 10,0,0
+M6216,Autres déchirures musculaires (non traumatiques) - Jambe,35,25,"5,84",1 à 10,0,0
+M6218,Autres déchirures musculaires (non traumatiques) - Autres localisations,29,19,"3,53",1 à 10,0,0
+M622,Infarcissement ischémique musculaire,49,22,"6,00",27,0,0
+M6220,Infarcissement ischémique musculaire - Sièges multiples,14,11,"14,91",1 à 10,0,0
+M6222,Infarcissement ischémique musculaire - Bras,15,1 à 10,NA,1 à 10,0,0
+M6223,Infarcissement ischémique musculaire - Avant-bras,108,25,"12,52",83,0,0
+M6224,Infarcissement ischémique musculaire - Main,13,13,"7,85",0,0,0
+M6226,Infarcissement ischémique musculaire - Jambe,471,160,"6,18",311,0,0
+M6227,Infarcissement ischémique musculaire - Cheville et pied,29,16,"7,06",13,0,0
+M624,Contracture musculaire,117,49,"2,31",68,0,0
+M6240,Contracture musculaire - Sièges multiples,47,24,"4,67",23,0,0
+M6241,Contracture musculaire - Région scapulaire,77,30,"2,37",47,0,0
+M6242,Contracture musculaire - Bras,11,1 à 10,NA,1 à 10,0,0
+M6245,Contracture musculaire - Région pelvienne et cuisse,42,21,"3,43",21,0,0
+M6246,Contracture musculaire - Jambe,39,20,"3,75",19,0,0
+M6248,Contracture musculaire - Autres localisations,129,57,"2,86",72,0,0
+M6249,Contracture musculaire - Siège non précisé,27,1 à 10,NA,18,0,0
+M625,"Atrophie et fonte musculaires, non classées ailleurs",122,66,"9,92",56,0,0
+M6250,"Atrophie et fonte musculaires, non classées ailleurs - Sièges multiples",259,74,"10,91",185,0,0
+M6251,"Atrophie et fonte musculaires, non classées ailleurs - Région scapulaire",20,1 à 10,NA,11,0,0
+M6254,"Atrophie et fonte musculaires, non classées ailleurs - Main",11,1 à 10,NA,1 à 10,0,0
+M6255,"Atrophie et fonte musculaires, non classées ailleurs - Région pelvienne et cuisse",30,14,"9,00",16,0,0
+M6256,"Atrophie et fonte musculaires, non classées ailleurs - Jambe",84,63,"9,51",21,0,0
+M6258,"Atrophie et fonte musculaires, non classées ailleurs - Autres localisations",37,17,"7,82",20,0,0
+M6259,"Atrophie et fonte musculaires, non classées ailleurs - Siège non précisé",43,21,"11,48",22,0,0
+M6280,Autres atteintes musculaires précisées - Sièges multiples,145,90,"5,46",55,0,0
+M62800,Rhabdomyolyse - Sièges multiples,775,720,"7,36",55,0,0
+M62808,"Autres atteintes musculaires précisées, non classées ailleurs - Sièges multiples",49,38,"5,32",11,0,0
+M6282,Autres atteintes musculaires précisées - Bras,22,13,"5,38",1 à 10,0,0
+M62820,Rhabdomyolyse - Bras,19,17,"4,29",1 à 10,0,0
+M6285,Autres atteintes musculaires précisées - Région pelvienne et cuisse,31,29,"5,93",1 à 10,0,0
+M62850,Rhabdomyolyse - Région pelvienne et cuisse,36,34,"6,15",1 à 10,0,0
+M62858,"Autres atteintes musculaires précisées, non classées ailleurs - Région pelvienne et cuisse",25,17,"8,35",1 à 10,0,0
+M6286,Autres atteintes musculaires précisées - Jambe,95,67,"6,36",28,0,0
+M62860,Rhabdomyolyse - Jambe,57,53,"7,60",1 à 10,0,0
+M62868,"Autres atteintes musculaires précisées, non classées ailleurs - Jambe",98,62,"4,44",36,0,0
+M6288,Autres atteintes musculaires précisées - Autres localisations,31,18,"5,67",13,0,0
+M62880,Rhabdomyolyse - Autres localisations,116,103,"7,67",13,0,0
+M62888,"Autres atteintes musculaires précisées, non classées ailleurs - Autres localisations",36,18,"7,00",18,0,0
+M6289,Autres atteintes musculaires précisées - Siège non précisé,146,118,"3,35",28,0,0
+M62890,Rhabdomyolyse,2 409,2 231,"7,52",178,0,0
+M62898,"Autres atteintes musculaires précisées, non classées ailleurs - Siège non précisé",58,29,"4,62",29,0,0
+"",Total,6 206,4 556,"",1 650,"",0

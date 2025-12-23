@@ -1,0 +1,70 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+M250,Hémarthrose,83,65,"6,54",18,0,0
+M2501,"Hémarthrose - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire",76,67,"8,40",1 à 10,0,0
+M2502,Hémarthrose - Articulation du coude,36,18,"3,28",18,0,0
+M2505,Hémarthrose - Articulations de la hanche et sacro-iliaque,68,63,"8,13",1 à 10,0,0
+M2506,Hémarthrose - Articulation du genou,668,583,"8,39",85,0,0
+M2507,Hémarthrose - Articulations de la cheville et du pied,31,18,"5,11",13,0,0
+M2508,Hémarthrose - Autres articulations,12,1 à 10,NA,1 à 10,0,0
+M2515,Fistule articulaire - Articulations de la hanche et sacro-iliaque,35,29,"10,97",1 à 10,0,0
+M2516,Fistule articulaire - Articulation du genou,32,23,"9,87",1 à 10,0,0
+M2517,Fistule articulaire - Articulations de la cheville et du pied,16,13,"9,92",1 à 10,0,0
+M252,Hyperlaxité articulaire,18,1 à 10,NA,17,0,0
+M2520,Hyperlaxité articulaire - Sièges multiples,11,1 à 10,NA,1 à 10,0,0
+M2521,"Hyperlaxité articulaire - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire",16,1 à 10,NA,11,0,0
+M2527,Hyperlaxité articulaire - Articulations de la cheville et du pied,37,31,"0,55",1 à 10,0,0
+M2528,Hyperlaxité articulaire - Autres articulations,32,18,"3,00",14,0,0
+M253,Autres instabilités articulaires,33,22,"3,05",11,0,0
+M2531,"Autres instabilités articulaires - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire",1 129,317,"1,86",812,0,0
+M2532,Autres instabilités articulaires - Articulation du coude,27,14,"3,43",13,0,0
+M2533,Autres instabilités articulaires - Articulation du poignet,39,14,"1,71",25,0,0
+M2534,Autres instabilités articulaires - Articulations de la main,36,1 à 10,NA,31,0,0
+M2535,Autres instabilités articulaires - Articulations de la hanche et sacro-iliaque,22,21,"6,19",1 à 10,0,0
+M2537,Autres instabilités articulaires - Articulations de la cheville et du pied,793,546,"0,56",247,0,0
+M2538,Autres instabilités articulaires - Autres articulations,45,25,"3,56",20,0,0
+M254,Épanchement articulaire,62,25,"6,24",37,16,0
+M2540,Épanchement articulaire - Sièges multiples,11,1 à 10,NA,1 à 10,0,0
+M2541,"Épanchement articulaire - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire",66,42,"9,71",24,1 à 10,0
+M2542,Épanchement articulaire - Articulation du coude,49,21,"4,67",28,1 à 10,0
+M2543,Épanchement articulaire - Articulation du poignet,20,1 à 10,NA,13,1 à 10,0
+M2544,Épanchement articulaire - Articulations de la main,14,1 à 10,NA,1 à 10,1 à 10,0
+M2545,Épanchement articulaire - Articulations de la hanche et sacro-iliaque,345,195,"7,33",150,72,0
+M2546,Épanchement articulaire - Articulation du genou,1 348,670,"7,62",678,182,0
+M2547,Épanchement articulaire - Articulations de la cheville et du pied,68,38,"5,26",30,1 à 10,0
+M2548,Épanchement articulaire - Autres articulations,11,1 à 10,NA,1 à 10,1 à 10,0
+M255,Douleur articulaire,788,448,"3,13",340,0,0
+M2550,Douleur articulaire - Sièges multiples,3 555,1 857,"4,24",1 698,0,0
+M2551,"Douleur articulaire - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire",863,398,"3,37",465,0,0
+M2552,Douleur articulaire - Articulation du coude,128,61,"2,90",67,0,0
+M2553,Douleur articulaire - Articulation du poignet,288,122,"2,93",166,0,0
+M2554,Douleur articulaire - Articulations de la main,209,69,"2,58",140,0,0
+M2555,Douleur articulaire - Articulations de la hanche et sacro-iliaque,2 565,1 720,"4,49",845,0,0
+M2556,Douleur articulaire - Articulation du genou,3 085,1 722,"4,05",1 363,0,0
+M2557,Douleur articulaire - Articulations de la cheville et du pied,625,321,"3,00",304,0,0
+M2558,Douleur articulaire - Autres articulations,221,114,"4,40",107,0,0
+M2559,Douleur articulaire - Siège non précisé,239,107,"2,81",132,0,0
+M256,"Raideur articulaire, non classée ailleurs",39,19,"3,53",20,1 à 10,0
+M2560,"Raideur articulaire, non classée ailleurs - Sièges multiples",21,13,"4,46",1 à 10,1 à 10,0
+M2561,"Raideur articulaire, non classée ailleurs - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire",72,35,"3,97",37,1 à 10,0
+M2562,"Raideur articulaire, non classée ailleurs - Articulation du coude",319,208,"3,37",111,1 à 10,0
+M2563,"Raideur articulaire, non classée ailleurs - Articulation du poignet",39,15,"3,13",24,0,0
+M2564,"Raideur articulaire, non classée ailleurs - Articulations de la main",431,112,"2,63",319,0,0
+M2565,"Raideur articulaire, non classée ailleurs - Articulations de la hanche et sacro-iliaque",42,32,"18,84",1 à 10,1 à 10,0
+M2566,"Raideur articulaire, non classée ailleurs - Articulation du genou",1 562,874,"4,40",688,177,0
+M2567,"Raideur articulaire, non classée ailleurs - Articulations de la cheville et du pied",120,41,"2,56",79,0,0
+M2568,"Raideur articulaire, non classée ailleurs - Autres articulations",18,1 à 10,NA,1 à 10,1 à 10,0
+M2571,"Ostéophyte - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire",52,1 à 10,NA,43,0,0
+M2572,Ostéophyte - Articulation du coude,17,1 à 10,NA,1 à 10,0,0
+M2574,Ostéophyte - Articulations de la main,43,1 à 10,NA,37,0,0
+M2575,Ostéophyte - Articulations de la hanche et sacro-iliaque,17,14,"6,14",1 à 10,0,0
+M2576,Ostéophyte - Articulation du genou,49,21,"4,76",28,0,0
+M2577,Ostéophyte - Articulations de la cheville et du pied,142,31,"0,90",111,0,0
+M2578,Ostéophyte - Autres articulations,36,28,"6,00",1 à 10,0,0
+M258,Autres affections articulaires précisées,13,1 à 10,NA,1 à 10,1 à 10,0
+M2581,"Autres affections articulaires précisées - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire",30,1 à 10,NA,21,1 à 10,0
+M2583,Autres affections articulaires précisées - Articulation du poignet,20,11,"2,09",1 à 10,1 à 10,0
+M2584,Autres affections articulaires précisées - Articulations de la main,16,1 à 10,NA,15,1 à 10,0
+M2585,Autres affections articulaires précisées - Articulations de la hanche et sacro-iliaque,77,55,"3,89",22,1 à 10,0
+M2586,Autres affections articulaires précisées - Articulation du genou,52,22,"7,05",30,1 à 10,0
+M2587,Autres affections articulaires précisées - Articulations de la cheville et du pied,49,28,"2,14",21,1 à 10,0
+"",Total,21 238,11 515,"",9 723,"",0

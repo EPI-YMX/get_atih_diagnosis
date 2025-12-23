@@ -1,0 +1,9 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+E060,Thyroïdite aiguë,51,30,"4,70",21,1 à 10,0
+E061,Thyroïdite subaiguë,80,57,"6,00",23,1 à 10,0
+E062,Thyroïdite chronique avec thyréotoxicose transitoire,18,12,"3,33",1 à 10,0,0
+E063,Thyroïdite auto-immune,453,314,"3,53",139,15,0
+E064,Thyroïdite médicamenteuse,39,34,"10,71",1 à 10,1 à 10,0
+E065,Autres thyroïdites chroniques,65,41,"2,10",24,1 à 10,0
+E069,"Thyroïdite, sans précision",33,1 à 10,NA,24,1 à 10,0
+"",Total,739,497,"",242,"",0

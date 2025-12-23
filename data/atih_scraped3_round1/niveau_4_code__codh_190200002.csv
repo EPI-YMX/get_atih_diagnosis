@@ -1,0 +1,7 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+S110,Plaie ouverte avec atteinte du larynx et de la trachée,55,40,"8,40",15,1 à 10,0
+S112,Plaie ouverte avec atteinte du pharynx et de l'oesophage cervical,52,40,"10,00",12,1 à 10,0
+S117,Plaies ouvertes multiples du cou,83,68,"2,57",15,0,0
+S118,Plaie ouverte d'autres parties du cou,396,301,"2,65",95,0,0
+S119,"Plaie ouverte du cou, partie non précisée",182,124,"2,99",58,0,0
+"",Total,773,577,"",196,"",0

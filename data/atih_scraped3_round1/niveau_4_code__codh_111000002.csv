@@ -1,0 +1,9 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+K910,Vomissements consécutifs à une intervention gastro-intestinale,436,303,"5,62",133,78,0
+K911,Syndromes consécutifs à une intervention gastrique,482,319,"5,44",163,49,0
+K912,"Malabsorption post-chirurgicale, non classée ailleurs",1 120,440,"13,52",680,36,0
+K913,"Occlusion intestinale post-opératoire, non classée ailleurs",1 425,1 175,"7,77",250,137,0
+K914,Mauvais résultats fonctionnels d'une colostomie et d'une entérostomie,1 726,1 380,"9,81",346,177,0
+K915,Syndrome post-cholécystectomie,318,219,"5,89",99,44,0
+K918,"Autres atteintes de l'appareil digestif après un acte à visée diagnostique et thérapeutique, non classées ailleurs",1 079,800,"6,83",279,102,0
+"",Total,6 586,4 636,"",1 950,"",0

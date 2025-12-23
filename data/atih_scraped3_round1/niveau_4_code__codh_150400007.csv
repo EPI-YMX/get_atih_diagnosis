@@ -1,0 +1,10 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+O360,Soins maternels pour iso-immunisation anti-Rh,653,518,"4,19",135,1 à 10,0
+O361,Soins maternels pour une autre iso-immunisation,192,122,"3,99",70,0,0
+O362,Soins maternels pour anasarque foeto-placentaire,162,142,"3,63",20,1 à 10,0
+O363,Soins maternels pour signes d'hypoxie foetale,8 231,7 796,"4,54",435,11,0
+O364,Soins maternels pour mort intra-utérine du foetus,2 163,1 567,"3,79",596,484,0
+O365,Soins maternels pour croissance insuffisante du foetus,13 606,8 978,"6,40",4 628,34,0
+O366,Soins maternels pour croissance excessive du foetus,4 962,4 671,"4,46",291,11,0
+O368,Soins maternels pour d'autres affections précisées du foetus,3 463,2 594,"3,82",869,11,0
+"",Total,33 433,26 389,"",7 044,"",0

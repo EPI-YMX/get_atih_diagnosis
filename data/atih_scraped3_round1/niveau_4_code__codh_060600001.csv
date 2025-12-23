@@ -1,0 +1,12 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+G400,"Épilepsie et syndromes épileptiques idiopathiques définis par leur localisation (focale, partielle) avec crises à début focal",1 807,1 029,"7,12",778,409,0
+G401,"Épilepsie et syndromes épileptiques symptomatiques définis par leur localisation (focale, partielle) avec crises partielles simples",3 699,2 314,"7,28",1 385,850,0
+G402,"Épilepsie et syndromes épileptiques symptomatiques définis par leur localisation (focale, partielle) avec des crises partielles complexes",3 535,2 200,"8,09",1 335,441,0
+G403,Épilepsie et syndromes épileptiques généralisés idiopathiques,10 373,4 794,"6,81",5 579,3 560,0
+G404,Autres épilepsies et syndromes épileptiques généralisés,5 687,3 168,"7,51",2 519,1 555,0
+G405,Syndromes épileptiques particuliers,2 026,1 006,"7,68",1 020,691,0
+G406,"Crise de grand mal, sans précision (avec ou sans petit mal)",1 822,1 103,"7,08",719,487,0
+G407,"Petit mal, sans crises de grand mal, sans précision",359,171,"8,16",188,114,0
+G408,Autres épilepsies,6 267,2 910,"7,96",3 357,2 157,0
+G409,"Épilepsie, sans précision",16 239,5 354,"6,96",10 885,6 476,0
+"",Total,51 814,24 049,"",27 765,"",0

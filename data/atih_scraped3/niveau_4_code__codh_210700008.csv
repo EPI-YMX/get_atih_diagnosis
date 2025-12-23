@@ -1,0 +1,21 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+Z8700,Antécédents personnels de maladies des voies respiratoires supérieures,66,50,"0,38",16,0,0
+Z8701,Antécédents personnels d'autres maladies de l'appareil respiratoire,414,387,"0,16",27,0,0
+Z8709,Antécédents personnels de maladies de l'appareil respiratoire sans précision,62,55,"0,22",1 à 10,0,0
+Z8710,Antécédents personnels de maladies de la bouche et des dents,19,14,"0,57",1 à 10,0,0
+Z8711,Antécédents personnels de maladies du tube digestif,11 091,1 732,"0,80",9 359,0,0
+Z8712,Antécédents personnels de maladies du système hépatobiliaire et du pancréas,659,313,"0,54",346,0,0
+Z8719,Antécédents personnels de maladies de l'appareil digestif sans précision,864,165,"1,07",699,0,0
+Z872,Antécédents personnels de maladies de la peau et du tissu cellulaire sous-cutané,104,103,"0,10",1 à 10,0,0
+Z873,"Antécédents personnels de maladies du système ostéo-articulaire, des muscles et du tissu conjonctif",666,11,"1,73",655,0,0
+Z8740,Antécédents personnels de maladies de l'appareil urinaire,344,339,"0,13",1 à 10,0,0
+Z8741,Antécédents personnels de maladies de l'appareil génital,104,45,"0,27",59,0,0
+Z875,"Antécédents personnels de complications de la grossesse, de l'accouchement et de la puerpéralité",373,1 à 10,NA,364,1 à 10,0
+Z876,Antécédents personnels de certaines affections dont l'origine se situe dans la période périnatale,2 079,48,"4,48",2 031,13,0
+Z877,Antécédents personnels de malformations congénitales et anomalies chromosomiques,32,1 à 10,NA,29,1 à 10,0
+Z8780,Antécédents personnels de lésion traumatique intracrânienne,127,121,"0,15",1 à 10,0,0
+Z8781,Antécédents personnels de traumatisme des membres et du bassin,307,306,"0,02",1 à 10,0,0
+Z8782,Antécédents personnels de traumatismes autres et non précisés,30,29,"0,10",1 à 10,0,0
+Z8783,Antécédents personnels d'intoxication,11,1 à 10,NA,1 à 10,0,0
+Z8788,Antécédents personnels d'autres états précisés,41,1 à 10,NA,39,0,0
+"",Total,17 401,3 750,"",13 651,"",0

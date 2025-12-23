@@ -1,0 +1,54 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+M5406,Panniculite affectant le cou et le dos - Région lombaire,15,12,"5,33",1 à 10,0,0
+M541,Radiculopathie,280,127,"7,86",153,38,0
+M5410,Radiculopathie - Localisations vertébrales multiples,58,43,"6,70",15,1 à 10,0
+M5412,Radiculopathie - Région cervicale,124,67,"5,22",57,14,0
+M5413,Radiculopathie - Région cervico-dorsale,12,1 à 10,NA,1 à 10,1 à 10,0
+M5414,Radiculopathie - Région dorsale,23,11,"9,00",12,1 à 10,0
+M5415,Radiculopathie - Région dorso-lombaire,103,66,"8,48",37,14,0
+M5416,Radiculopathie - Région lombaire,2 458,1 192,"6,70",1 266,215,0
+M5417,Radiculopathie - Région lombo-sacrée,540,231,"7,06",309,41,0
+M5418,Radiculopathie - Région sacrée et sacro-coccygienne,135,76,"6,07",59,1 à 10,0
+M5419,Radiculopathie - Localisation vertébrale non précisée,51,14,"4,79",37,19,0
+M542,Cervicalgie,1 365,202,"5,59",1 163,349,0
+M5420,Cervicalgie - Localisations vertébrales multiples,107,34,"7,24",73,28,0
+M5421,Cervicalgie - Région occipito-atloïdo-axoïdienne,14,1 à 10,NA,1 à 10,1 à 10,0
+M5422,Cervicalgie - Région cervicale,2 511,652,"5,65",1 859,658,0
+M5423,Cervicalgie - Région cervico-dorsale,153,53,"6,08",100,36,0
+M5429,Cervicalgie - Localisation vertébrale non précisée,122,23,"5,96",99,41,0
+M543,Sciatique,2 051,746,"6,67",1 305,611,0
+M5430,Sciatique - Localisations vertébrales multiples,161,91,"7,56",70,23,0
+M5436,Sciatique - Région lombaire,3 567,1 925,"7,20",1 642,702,0
+M5437,Sciatique - Région lombo-sacrée,2 267,1 093,"7,10",1 174,557,0
+M5438,Sciatique - Région sacrée et sacro-coccygienne,222,133,"7,31",89,40,0
+M5439,Sciatique - Localisation vertébrale non précisée,263,102,"7,86",161,85,0
+M544,Lumbago avec sciatique,2 795,1 361,"5,84",1 434,575,0
+M5440,Lumbago avec sciatique - Localisations vertébrales multiples,178,103,"7,20",75,39,0
+M5446,Lumbago avec sciatique - Région lombaire,3 361,1 870,"7,10",1 491,711,0
+M5447,Lumbago avec sciatique - Région lombo-sacrée,1 798,1 034,"6,58",764,383,0
+M5448,Lumbago avec sciatique - Région sacrée et sacro-coccygienne,200,126,"6,26",74,28,0
+M5449,Lumbago avec sciatique - Localisation vertébrale non précisée,336,81,"7,86",255,81,0
+M545,Lombalgie basse,5 801,1 535,"6,87",4 266,1 640,0
+M5450,Lombalgie basse - Localisations vertébrales multiples,764,351,"8,39",413,163,0
+M5456,Lombalgie basse - Région lombaire,12 384,5 183,"7,10",7 201,3 189,0
+M5457,Lombalgie basse - Région lombo-sacrée,2 166,891,"5,55",1 275,354,0
+M5459,Lombalgie basse - Localisation vertébrale non précisée,770,223,"6,86",547,258,0
+M546,Rachialgies dorsales,316,88,"7,38",228,99,0
+M5460,Rachialgies dorsales - Localisations vertébrales multiples,227,105,"6,85",122,36,0
+M5463,Rachialgies dorsales - Région cervico-dorsale,91,16,"4,94",75,20,0
+M5464,Rachialgies dorsales - Région dorsale,456,167,"7,03",289,111,0
+M5465,Rachialgies dorsales - Région dorso-lombaire,511,254,"8,56",257,83,0
+M5469,Rachialgies dorsales - Localisation vertébrale non précisée,68,23,"5,78",45,23,0
+M548,Autres dorsalgies,214,58,"7,26",156,68,0
+M5480,Autres dorsalgies - Localisations vertébrales multiples,155,68,"7,68",87,45,0
+M5482,Autres dorsalgies - Région cervicale,34,1 à 10,NA,25,13,0
+M5483,Autres dorsalgies - Région cervico-dorsale,43,1 à 10,NA,33,13,0
+M5484,Autres dorsalgies - Région dorsale,433,157,"7,71",276,125,0
+M5485,Autres dorsalgies - Région dorso-lombaire,412,198,"8,68",214,96,0
+M5486,Autres dorsalgies - Région lombaire,375,135,"7,60",240,110,0
+M5487,Autres dorsalgies - Région lombo-sacrée,84,31,"7,10",53,19,0
+M5488,Autres dorsalgies - Région sacrée et sacro-coccygienne,35,14,"8,79",21,1 à 10,0
+M5489,Autres dorsalgies - Localisation vertébrale non précisée,66,18,"5,00",48,17,0
+M549,"Dorsalgie, sans précision",689,186,"7,08",503,255,0
+M5499,"Dorsalgie, sans précision - Localisation vertébrale non précisée",278,76,"7,34",202,95,0
+"",Total,51 650,21 282,"",30 368,"",0

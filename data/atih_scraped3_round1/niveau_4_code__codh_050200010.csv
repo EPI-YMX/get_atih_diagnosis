@@ -1,0 +1,30 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+F190,Troubles mentaux et du comportement liés à l'utilisation de drogues multiples et troubles liés à l'utilisation d'autres substances psycho-actives : intoxication aiguë,291,291,"1,02",0,0,0
+F1900,"Troubles mentaux et du comportement dus à une intoxication aigüe par des drogues multiples et d'autres substances psychoactives, sans complication",82,82,"1,01",0,0,0
+F1901,"Troubles mentaux et du comportement dus à une intoxication aigüe par des drogues multiples et d'autres substances psychoactives, avec traumatismes ou autres blessures physiques",13,13,"0,92",0,0,0
+F1902,"Troubles mentaux et du comportement dus à une intoxication aigüe par des drogues multiples et d'autres substances psychoactives, avec d'autres complications médicales",65,65,"1,98",0,0,0
+F1903,"Troubles mentaux et du comportement dus à une intoxication aigüe par des drogues multiples et d'autres substances psychoactives, avec délirium",12,12,"0,92",0,0,0
+F1904,"Troubles mentaux et du comportement dus à une intoxication aigüe par des drogues multiples et d'autres substances psychoactives, avec distorsion des perceptions",11,11,"0,64",0,0,0
+F1905,"Troubles mentaux et du comportement dus à une intoxication aigüe par des drogues multiples et d'autres substances psychoactives, avec coma",83,83,"1,51",0,0,0
+F1907,Troubles mentaux et du comportement dus à une intoxication aigüe pathologique par des drogues multiples et d'autres substances psychoactives,28,28,"0,93",0,0,0
+F191,Troubles mentaux et du comportement liés à l'utilisation de drogues multiples et troubles liés à l'utilisation d'autres substances psycho-actives : utilisation nocive pour la santé,19,19,"1,47",0,0,0
+F192,Troubles mentaux et du comportement liés à l'utilisation de drogues multiples et troubles liés à l'utilisation d'autres substances psycho-actives : syndrome de dépendance,2 320,222,"12,24",2 098,80,0
+F1920,"Syndrome de dépendance à des drogues multiples et à d'autres substances psychoactives, personne actuellement abstinente",92,60,"17,75",32,1 à 10,0
+F19200,"Syndrome de dépendance à des drogues multiples et à d'autres substances psychoactives, personne actuellement abstinente en rémission récente",66,1 à 10,NA,62,1 à 10,0
+F1921,"Syndrome de dépendance à des drogues multiples et à d'autres substances psychoactives, personne actuellement abstinente mais dans un environnement protégé",21,20,"21,90",1 à 10,0,0
+F1922,"Syndrome de dépendance à des drogues multiples et à d'autres substances psychoactives, personne suivant actuellement un régime de maintenance ou de substitution sous surveillance médicale",59,36,"16,17",23,1 à 10,0
+F1924,"Syndrome de dépendance à des drogues multiples et à d'autres substances psychoactives, utilisation actuelle",96,37,"15,14",59,15,0
+F19240,"Syndrome de dépendance à des drogues multiples et à d'autres substances psychoactives, utilisation actuelle, sans symptôme physique",1 309,11,"10,45",1 298,1 à 10,0
+F19241,"Syndrome de dépendance à des drogues multiples et à d'autres substances psychoactives, utilisation actuelle, avec symptômes physiques",92,38,"11,29",54,1 à 10,0
+F1925,"Syndrome de dépendance à des drogues multiples et à d'autres substances psychoactives, utilisation continue",215,59,"13,54",156,19,0
+F1926,"Syndrome de dépendance à des drogues multiples et à d'autres substances psychoactives, utilisation épisodique",133,1 à 10,NA,129,0,0
+F193,Troubles mentaux et du comportement liés à l'utilisation de drogues multiples et troubles liés à l'utilisation d'autres substances psycho-actives : syndrome de sevrage,93,32,"7,34",61,45,0
+F1930,"Syndrome de sevrage de drogues multiples et d'autres substances psychoactives, sans complication",84,46,"9,02",38,29,0
+F1931,"Syndrome de sevrage de drogues multiples et d'autres substances psychoactives, avec convulsions",13,1 à 10,NA,1 à 10,1 à 10,0
+F1940,"Syndrome de sevrage de drogues multiples et d'autres substances psychoactives avec délirium, sans convulsion",20,11,"9,73",1 à 10,1 à 10,0
+F195,Troubles mentaux et du comportement liés à l'utilisation de drogues multiples et troubles liés à l'utilisation d'autres substances psycho-actives : trouble psychotique,23,1 à 10,NA,19,1 à 10,0
+F1951,"Trouble psychotique avec idées délirantes au premier plan, dû à des drogues multiples et à d'autres substances psychoactives",14,1 à 10,NA,11,1 à 10,0
+F1974,"Autre déficit cognitif persistant ou de survenue tardive, dû à des drogues multiples et à d'autres substances psychoactives",44,0,"",44,1 à 10,0
+F198,Autres troubles mentaux et du comportement liés à l'utilisation de drogues multiples et autres troubles liés à l'utilisation d'autres substances psycho-actives,36,17,"9,76",19,13,0
+F199,"Troubles mentaux et du comportement liés à l'utilisation de drogues multiples et troubles liés à l'utilisation d'autres substances psycho-actives, sans précision",114,19,"5,79",95,59,0
+"",Total,5 502,1 257,"",4 245,"",0

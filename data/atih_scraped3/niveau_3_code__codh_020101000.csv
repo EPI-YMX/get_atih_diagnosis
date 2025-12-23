@@ -1,0 +1,17 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+C00,Tumeur maligne de la lèvre,458,260,"5,02",198,1 à 10,0
+C01,Tumeur maligne de la base de la langue,1 515,897,"9,41",618,0,0
+C02,"Tumeur maligne de la langue, parties autres et non précisées",2 652,1 943,"9,08",709,0,0
+C03,Tumeur maligne de la gencive,636,476,"12,72",160,0,0
+C04,Tumeur maligne du plancher de la bouche,1 463,1 112,"11,36",351,0,0
+C05,Tumeur maligne du palais,702,506,"7,73",196,0,0
+C06,"Tumeur maligne de la bouche, parties autres et non précisées",1 050,758,"10,62",292,0,0
+C07,Tumeur maligne de la glande parotide,871,793,"5,43",78,0,0
+C08,"Tumeur maligne des glandes salivaires principales, autres et non précisées",193,163,"5,25",30,0,0
+C09,Tumeur maligne de l'amygdale,1 861,1 075,"7,08",786,0,0
+C10,Tumeur maligne de l'oropharynx,2 511,1 632,"9,93",879,0,0
+C11,Tumeur maligne du rhinopharynx,429,227,"7,76",202,0,0
+C12,Tumeur maligne du sinus piriforme,1 408,895,"12,62",513,0,0
+C13,Tumeur maligne de l'hypopharynx,837,576,"11,49",261,0,0
+C14,"Tumeur maligne de la lèvre, de la cavité buccale et du pharynx, de sièges autres et mal définis",294,181,"11,17",113,0,0
+"",Total,16 880,11 494,"",5 386,"",0

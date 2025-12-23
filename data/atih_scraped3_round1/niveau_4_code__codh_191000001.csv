@@ -1,0 +1,9 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+S900,Contusion de la cheville,448,282,"3,84",166,0,0
+S901,Contusion d'un (des) orteil(s) (sans lésion de l'ongle),90,41,"3,68",49,0,0
+S902,Contusion d'un (des) orteil(s) avec lésion de l'ongle,58,13,"1,08",45,0,0
+S903,Contusion de parties autres et non précisées du pied,340,172,"3,18",168,0,0
+S907,Lésions traumatiques superficielles multiples de la cheville et du pied,23,1 à 10,NA,13,0,0
+S908,Autres lésions traumatiques superficielles de la cheville et du pied,117,69,"3,04",48,0,0
+S909,"Lésion traumatique superficielle de la cheville et du pied, sans précision",64,23,"1,13",41,0,0
+"",Total,1 140,610,"",530,"",0

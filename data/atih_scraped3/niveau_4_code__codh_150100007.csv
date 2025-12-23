@@ -1,0 +1,6 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+O061,"Avortement sans précision, incomplet, compliqué d'une hémorragie retardée ou sévère",36,21,"2,33",15,1 à 10,0
+O063,"Avortement sans précision, incomplet, avec complications autres et non précisées",22,1 à 10,NA,20,0,0
+O064,"Avortement sans précision, incomplet, sans complication",158,22,"1,23",136,1 à 10,0
+O069,"Avortement, sans précision, complet ou sans précision, sans complication",15,0,"",15,1 à 10,0
+"",Total,242,47,"",195,"",0

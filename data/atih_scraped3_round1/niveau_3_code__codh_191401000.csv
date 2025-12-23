@@ -1,0 +1,8 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+T20,Brûlure et corrosion de la tête et du cou,1 279,797,"9,70",482,217,0
+T21,Brûlure et corrosion du tronc,1 504,926,"10,25",578,142,0
+T22,"Brûlure et corrosion de l'épaule et du membre supérieur, sauf poignet et main",730,393,"9,76",337,73,0
+T23,Brûlure et corrosion du poignet et de la main,1 611,524,"8,27",1 087,219,0
+T24,"Brûlure et corrosion de la hanche et du membre inférieur, sauf cheville et pied",1 224,657,"11,46",567,106,0
+T25,Brûlure et corrosion de la cheville et du pied,654,305,"9,68",349,53,0
+"",Total,7 002,3 602,"",3 400,"",0

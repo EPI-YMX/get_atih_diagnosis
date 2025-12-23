@@ -1,0 +1,8 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+M0230,Syndrome oculo-urétro-synovial (Fiessinger-Leroy-Reiter) - Sièges multiples,12,12,"7,58",0,0,0
+M0280,Autres arthropathies réactionnelles - Sièges multiples,40,36,"5,86",1 à 10,0,0
+M0285,Autres arthropathies réactionnelles - Articulations de la hanche et sacro-iliaque,18,17,"3,53",1 à 10,0,0
+M0286,Autres arthropathies réactionnelles - Articulation du genou,31,25,"4,88",1 à 10,0,0
+M029,"Arthropathie réactionnelle, sans précision",12,1 à 10,NA,1 à 10,0,0
+M0299,"Arthropathie réactionnelle, sans précision - Siège non précisé",15,1 à 10,NA,1 à 10,0,0
+"",Total,203,169,"",34,"",0

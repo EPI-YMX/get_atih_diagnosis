@@ -1,0 +1,10 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+P920,Vomissements du nouveau-né,835,835,"2,94",0,0,0
+P921,Régurgitation et mérycisme du nouveau-né,1 017,1 017,"2,39",0,0,0
+P922,Alimentation lente du nouveau-né,1 069,1 069,"7,57",0,0,0
+P923,Sous-alimentation du nouveau-né,1 225,1 225,"4,00",0,0,0
+P924,Suralimentation du nouveau-né,57,57,"1,53",0,0,0
+P925,Alimentation au sein difficile chez le nouveau-né,954,954,"4,85",0,0,0
+P928,Autres problèmes alimentaires du nouveau-né,1 166,1 166,"4,13",0,0,0
+P929,"Problème alimentaire du nouveau-né, sans précision",184,184,"2,19",0,0,0
+"",Total,6 507,6 507,"",0,"",0

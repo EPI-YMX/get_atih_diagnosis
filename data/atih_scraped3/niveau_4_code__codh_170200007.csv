@@ -1,0 +1,8 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+Q160,Absence congénitale du pavillon de l'oreille,23,19,"3,63",1 à 10,0,0
+Q161,"Absence, atrésie et rétrécissement congénitaux du conduit auditif (externe)",21,1 à 10,NA,13,0,0
+Q163,Malformation congénitale des osselets,12,1 à 10,NA,1 à 10,0,0
+Q164,Autres malformations congénitales de l'oreille moyenne,13,1 à 10,NA,1 à 10,0,0
+Q165,Malformation congénitale de l'oreille interne,40,1 à 10,NA,33,0,0
+Q169,"Malformation congénitale de l'oreille (avec atteinte de l'audition), sans précision",83,61,"2,75",22,0,0
+"",Total,192,101,"",91,"",0

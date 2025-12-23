@@ -1,0 +1,6 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+T541,Effet toxique d'autres composés organiques corrosifs,41,15,"7,80",26,18,0
+T542,Effet toxique d'acides corrosifs et substances similaires,110,40,"8,33",70,36,0
+T543,Effet toxique d'alcalis corrosifs et substances similaires,954,324,"6,85",630,416,0
+T549,"Effet toxique d'une substance corrosive, sans précision",57,13,"6,38",44,26,0
+"",Total,1 164,392,"",772,"",0

@@ -1,0 +1,9 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+P610,Thrombopénie néonatale transitoire,238,238,"7,69",0,0,0
+P611,Polycythémie du nouveau-né,95,95,"6,54",0,0,0
+P612,Anémie de la prématurité,139,139,"11,47",0,0,0
+P613,Anémie congénitale par perte de sang foetal,35,35,"6,34",0,0,0
+P614,"Autres anémies congénitales, non classées ailleurs",123,123,"5,87",0,0,0
+P615,Neutropénie néonatale transitoire,19,19,"3,95",0,0,0
+P618,Autres affections hématologiques précisées de la période périnatale,23,23,"10,17",0,0,0
+"",Total,675,675,"",0,"",0

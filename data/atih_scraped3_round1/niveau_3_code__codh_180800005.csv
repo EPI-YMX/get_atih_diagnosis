@@ -1,0 +1,19 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+R50,Fièvre d'origine autre et inconnue,27 126,21 028,"2,69",6 098,3 759,0
+R51,Céphalée,28 907,16 084,"1,85",12 823,0,0
+R52,"Douleur, non classée ailleurs",179 321,21 498,"6,71",157 823,3 905,0
+R53,Malaise et fatigue,63 493,17 879,"7,58",45 614,26 829,0
+R54,Sénilité,1 800,1 341,"13,18",459,210,0
+R55,Syncope et collapsus (sauf choc),41 513,14 703,"4,97",26 810,14 311,0
+R56,"Convulsions, non classées ailleurs",21 280,11 007,"2,28",10 273,6 360,0
+R57,"Choc, non classé ailleurs",22 166,18 469,"12,63",3 697,3 511,0
+R58,"Hémorragie, non classée ailleurs",449,316,"3,01",133,0,0
+R59,Adénopathies,9 278,4 094,"3,05",5 184,1 à 10,0
+R60,"Oedème, non classé ailleurs",5 363,1 719,"7,53",3 644,1 844,0
+R61,Hyperhidrose,1 886,172,"2,28",1 714,0,0
+R62,Retard du développement physiologique,6 730,718,"4,70",6 012,0,0
+R63,Symptômes et signes relatifs à l'absorption d'aliments et de liquides,10 825,6 886,"6,85",3 939,1 583,0
+R64,Cachexie,178,104,"17,28",74,30,0
+R65,Syndrome de réponse inflammatoire systémique,2 959,2 130,"7,25",829,501,0
+R68,Autres symptômes et signes généraux,1 369,712,"2,22",657,126,0
+"",Total,424 643,138 860,"",285 783,"",0

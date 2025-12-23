@@ -1,0 +1,7 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+R570,Choc cardiogénique,4 374,3 696,"13,26",678,570,0
+R571,Choc hypovolémique,4 796,3 945,"12,48",851,765,0
+R572,Choc septique,11 537,9 656,"13,15",1 881,1 914,0
+R578,Autres chocs,1 005,814,"8,04",191,183,0
+R579,"Choc, sans précision",454,358,"4,19",96,79,0
+"",Total,22 166,18 469,"",3 697,"",0

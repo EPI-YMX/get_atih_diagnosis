@@ -1,0 +1,11 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+Z030,Mise en observation pour suspicion de tuberculose,170,143,"5,48",27,0,0
+Z031,Mise en observation pour suspicion de tumeur maligne,75,54,"1,69",21,0,0
+Z032,Mise en observation pour suspicion de troubles mentaux et du comportement,188,14,"3,50",174,24,0
+Z033,Mise en observation pour suspicion d'affection du système nerveux,383,45,"4,49",338,49,0
+Z034,Mise en observation pour suspicion d'infarctus du myocarde,16,1 à 10,NA,1 à 10,0,0
+Z035,Mise en observation pour suspicion d'autres affections cardio-vasculaires,453,85,"2,00",368,0,0
+Z036,Mise en observation pour suspicion d'effet toxique de substances ingérées,177,18,"4,28",159,74,0
+Z038,Mise en observation pour suspicion d'autres maladies,554,122,"3,42",432,80,0
+Z039,"Mise en observation pour suspicion de maladie, sans précision",200,11,"3,55",189,11,0
+"",Total,2 216,502,"",1 714,"",0

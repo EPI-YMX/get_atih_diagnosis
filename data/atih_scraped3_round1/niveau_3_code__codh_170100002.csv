@@ -1,0 +1,9 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+Q01,Encéphalocèle,104,94,"6,12",1 à 10,1 à 10,0
+Q02,Microcéphalie,206,25,"6,88",181,1 à 10,0
+Q03,Hydrocéphalie congénitale,135,92,"8,38",43,1 à 10,0
+Q04,Autres malformations congénitales de l'encéphale,590,199,"9,63",391,31,0
+Q05,Spina bifida,214,130,"10,92",84,1 à 10,0
+Q06,Autres malformations congénitales de la moelle épinière,357,262,"5,58",95,1 à 10,0
+Q07,Autres malformations congénitales du système nerveux,507,353,"6,51",154,45,0
+"",Total,2 117,1 157,"",960,"",0

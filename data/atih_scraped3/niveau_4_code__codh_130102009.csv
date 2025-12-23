@@ -1,0 +1,34 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+M130,"Polyarthrite, sans précision",543,382,"5,98",161,0,0
+M1300,"Polyarthrite, sans précision - Sièges multiples",851,726,"7,47",125,0,0
+M131,"Monoarthrite, non classée ailleurs",213,45,"4,78",168,0,0
+M1311,"Monoarthrite, non classée ailleurs - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire",67,54,"9,35",13,0,0
+M1312,"Monoarthrite, non classée ailleurs - Articulation du coude",66,57,"7,23",1 à 10,0,0
+M1313,"Monoarthrite, non classée ailleurs - Articulation du poignet",158,130,"5,65",28,0,0
+M1314,"Monoarthrite, non classée ailleurs - Articulations de la main",51,28,"5,96",23,0,0
+M1315,"Monoarthrite, non classée ailleurs - Articulations de la hanche et sacro-iliaque",213,198,"7,05",15,0,0
+M1316,"Monoarthrite, non classée ailleurs - Articulation du genou",962,825,"6,23",137,0,0
+M1317,"Monoarthrite, non classée ailleurs - Articulations de la cheville et du pied",226,191,"6,22",35,0,0
+M1318,"Monoarthrite, non classée ailleurs - Autres articulations",27,25,"8,16",1 à 10,0,0
+M138,Autres arthrites précisées,83,65,"8,69",18,0,0
+M1380,Autres arthrites précisées - Sièges multiples,131,119,"7,08",12,0,0
+M1381,"Autres arthrites précisées - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire",42,37,"8,65",1 à 10,0,0
+M1382,Autres arthrites précisées - Articulation du coude,20,19,"5,05",1 à 10,0,0
+M1383,Autres arthrites précisées - Articulation du poignet,63,54,"7,76",1 à 10,0,0
+M1384,Autres arthrites précisées - Articulations de la main,155,45,"4,91",110,0,0
+M1385,Autres arthrites précisées - Articulations de la hanche et sacro-iliaque,116,103,"6,44",13,0,0
+M1386,Autres arthrites précisées - Articulation du genou,366,313,"7,05",53,0,0
+M1387,Autres arthrites précisées - Articulations de la cheville et du pied,192,154,"6,97",38,0,0
+M1388,Autres arthrites précisées - Autres articulations,39,34,"7,91",1 à 10,0,0
+M1389,Autres arthrites précisées - Siège non précisé,15,1 à 10,NA,1 à 10,0,0
+M139,"Arthrite, sans précision",148,92,"3,26",56,0,0
+M1391,"Arthrite, sans précision - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire",109,95,"8,02",14,0,0
+M1392,"Arthrite, sans précision - Articulation du coude",114,91,"4,75",23,0,0
+M1393,"Arthrite, sans précision - Articulation du poignet",197,167,"5,50",30,0,0
+M1394,"Arthrite, sans précision - Articulations de la main",323,150,"4,23",173,0,0
+M1395,"Arthrite, sans précision - Articulations de la hanche et sacro-iliaque",260,235,"6,92",25,0,0
+M1396,"Arthrite, sans précision - Articulation du genou",1 096,926,"6,33",170,0,0
+M1397,"Arthrite, sans précision - Articulations de la cheville et du pied",450,373,"5,56",77,0,0
+M1398,"Arthrite, sans précision - Autres articulations",75,65,"9,17",1 à 10,0,0
+M1399,"Arthrite, sans précision - Siège non précisé",161,111,"2,31",50,0,0
+"",Total,7 539,5 924,"",1 615,"",0

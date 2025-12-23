@@ -1,0 +1,14 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+Z520,Donneur de sang,815,62,"3,74",753,39,0
+Z523,Donneur de moelle osseuse,695,695,"0,79",0,0,0
+Z524,Donneur de rein,724,599,"4,92",125,0,0
+Z525,Donneur de cornée,30,1 à 10,NA,28,1 à 10,0
+Z526,Donneur de foie,45,29,"4,69",16,0,0
+Z527,Donneur de coeur,23,12,"1,42",11,0,0
+Z52801,Prélèvement d'ovocytes pour assistance médicale à la procréation (AMP),22 854,184,"1,05",22 670,0,0
+Z52802,Prélèvement d'ovocytes en vue d'une préservation de la fertilité avec indication médicale,4 140,131,"6,05",4 009,0,0
+Z52803,Prélèvement d'ovocytes pour autoconservation,5 598,42,"1,36",5 556,0,0
+Z52804,Don d'ovocytes,895,118,"0,06",777,0,0
+Z52808,Prélèvement d'ovocytes pour d'autres motifs précisés,82,1 à 10,NA,77,0,0
+Z5288,"Donneur d'autres organes et tissus, non classés ailleurs",31,1 à 10,NA,27,1 à 10,0
+"",Total,35 953,1 889,"",34 064,"",0

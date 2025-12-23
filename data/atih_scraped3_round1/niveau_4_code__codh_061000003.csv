@@ -1,0 +1,24 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+G820,Paraplégie flasque,96,83,"13,46",13,0,0
+G8200,"Paraplégie flasque, complète motrice",51,44,"24,36",1 à 10,0,0
+G8201,"Paraplégie flasque, incomplète motrice",78,64,"9,45",14,0,0
+G8209,"Paraplégie flasque, sans précision",29,25,"14,12",1 à 10,0,0
+G821,Paraplégie spastique,494,113,"6,97",381,0,0
+G8210,"Paraplégie spastique, complète motrice",51,24,"8,46",27,0,0
+G8211,"Paraplégie spastique, incomplète motrice",255,103,"8,52",152,0,0
+G8219,"Paraplégie spastique, sans précision",136,33,"5,03",103,0,0
+G822,"Paraplégie, sans précision",306,242,"9,36",64,0,0
+G8220,"Paraplégie complète motrice, sans précision",29,22,"13,32",1 à 10,0,0
+G8221,"Paraplégie incomplète motrice, sans précision",146,121,"13,69",25,0,0
+G823,Tétraplégie flasque,64,54,"17,52",1 à 10,0,0
+G8230,"Tétraplégie flasque, complète motrice",28,24,"46,33",1 à 10,0,0
+G8231,"Tétraplégie flasque, incomplète motrice",60,58,"19,62",1 à 10,0,0
+G8239,"Tétraplégie flasque, sans précision",23,21,"15,86",1 à 10,0,0
+G824,Tétraplégie spastique,338,110,"11,65",228,0,0
+G8240,"Tétraplégie spastique, complète motrice",84,29,"6,34",55,0,0
+G8241,"Tétraplégie spastique, incomplète motrice",249,96,"14,26",153,0,0
+G8249,"Tétraplégie spastique, sans précision",107,41,"12,71",66,0,0
+G825,"Tétraplégie, sans précision",172,140,"18,07",32,0,0
+G8250,"Tétraplégie complète motrice, sans précision",21,16,"21,06",1 à 10,0,0
+G8251,"Tétraplégie incomplète motrice, sans précision",121,99,"14,40",22,0,0
+"",Total,2 938,1 562,"",1 376,"",0

@@ -1,0 +1,6 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+B250,Pneumopathie à cytomégalovirus (J17.1*),33,26,"12,04",1 à 10,1 à 10,0
+B251,Hépatite à cytomégalovirus (K77.0*),132,117,"6,35",15,1 à 10,0
+B258,Autres maladies à cytomégalovirus,363,331,"10,94",32,16,0
+B259,"Maladie à cytomégalovirus, sans précision",166,140,"9,61",26,1 à 10,0
+"",Total,696,616,"",80,"",0

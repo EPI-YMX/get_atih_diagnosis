@@ -1,0 +1,11 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+T80,"Complications consécutives à une injection thérapeutique, une perfusion et une transfusion",244,115,"6,42",129,93,0
+T81,"Complications d'actes à visée diagnostique et thérapeutique, non classées ailleurs",9 516,6 284,"7,67",3 232,1 467,0
+T82,"Complications de prothèses, implants et greffes cardiaques et vasculaires",12 342,9 404,"9,22",2 938,817,0
+T83,"Complications de prothèses, implants et greffes génito-urinaires",6 731,4 877,"4,60",1 854,215,0
+T84,"Complications de prothèses, implants et greffes orthopédiques internes",18 548,14 020,"8,19",4 528,2 373,0
+T85,"Complications d'autres prothèses, implants et greffes internes",11 766,7 103,"7,02",4 663,832,0
+T86,Échec et rejet d'organes et de tissus greffés,4 024,3 016,"9,76",1 008,0,0
+T87,Complications propres à une réimplantation et une amputation,2 495,1 983,"13,48",512,67,0
+T88,"Autres complications de soins chirurgicaux et médicaux, non classées ailleurs",1 591,505,"5,47",1 086,754,0
+"",Total,67 257,47 307,"",19 950,"",0

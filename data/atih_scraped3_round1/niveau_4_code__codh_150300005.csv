@@ -1,0 +1,8 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+O240,"Diabète sucré préexistant, de type 1",1 575,793,"5,62",782,0,0
+O241,"Diabète sucré préexistant, de type 2",2 203,1 270,"5,41",933,1 à 10,0
+O242,"Diabète sucré préexistant lié à la malnutrition, au cours de la grossesse",18,14,"7,43",1 à 10,0,0
+O243,"Diabète sucré préexistant, sans précision, au cours de la grossesse",254,130,"4,45",124,0,0
+O244,Diabète sucré survenant au cours de la grossesse,45 299,16 607,"4,23",28 692,49,0
+O249,"Diabète sucré au cours de la grossesse, sans précision",339,88,"4,43",251,0,0
+"",Total,49 688,18 902,"",30 786,"",0

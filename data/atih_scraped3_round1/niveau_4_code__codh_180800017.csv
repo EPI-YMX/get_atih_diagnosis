@@ -1,0 +1,6 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+R680,"Hypothermie, non associée à une baisse de la température ambiante",183,63,"5,32",120,82,0
+R681,Symptômes non spécifiques propres au nourrisson,762,608,"1,84",154,0,0
+R682,"Sécheresse de la bouche, sans précision",300,11,"3,27",289,1 à 10,0
+R688,Autres symptômes et signes généraux précisés,119,29,"3,10",90,41,0
+"",Total,1 369,712,"",657,"",0

@@ -1,0 +1,10 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+O85,Sepsis puerpéral,649,559,"4,48",90,60,0
+O86,Autres infections puerpérales,869,707,"4,45",162,117,0
+O87,Complications veineuses et hémorroïdes au cours de la puerpéralité,405,385,"4,36",20,12,0
+O88,Embolie obstétricale,109,99,"5,72",1 à 10,1 à 10,0
+O89,Complications de l'anesthésie au cours de la puerpéralité,241,88,"4,00",153,64,0
+O90,"Complications puerpérales, non classées ailleurs",580,350,"5,28",230,94,0
+O91,Infections mammaires associées à l'accouchement,389,146,"3,34",243,152,0
+O92,Autres mastopathies et anomalies de la lactation associées à l'accouchement,729,716,"3,85",13,11,0
+"",Total,3 971,3 050,"",921,"",0

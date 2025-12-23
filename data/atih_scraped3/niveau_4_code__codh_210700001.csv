@@ -1,0 +1,13 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+Z8000,Antécédents familiaux de tumeur maligne du tube digestif,23 069,2 666,"0,42",20 403,0,0
+Z8001,Antécédents familiaux de tumeur maligne du système hépatobiliaire et du pancréas,191,74,"0,07",117,0,0
+Z8009,"Antécédents familiaux de tumeur maligne des organes digestifs, sans précision",1 089,124,"0,45",965,0,0
+Z801,"Antécédents familiaux de tumeur maligne de la trachée, des bronches et des poumons",25,1 à 10,NA,23,0,0
+Z803,Antécédents familiaux de tumeur maligne du sein,222,217,"0,24",1 à 10,0,0
+Z804,Antécédents familiaux de tumeur maligne des organes génitaux,93,43,"0,28",50,0,0
+Z805,Antécédents familiaux de tumeur maligne des voies urinaires,14,14,"0,14",0,0,0
+Z80801,Antécédents familiaux de tumeur maligne de l'oeil,137,137,"0,12",0,0,0
+Z80805,Antécédents familiaux de tumeur maligne des glandes endocrines,12,0,"",12,0,0
+Z80880,Antécédents familiaux de tumeur maligne d'autres localisations,17,1 à 10,NA,1 à 10,0,0
+Z809,"Antécédent familial de tumeur maligne, sans précision",122,11,"1,27",111,0,0
+"",Total,25 024,3 313,"",21 711,"",0

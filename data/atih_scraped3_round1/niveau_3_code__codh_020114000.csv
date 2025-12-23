@@ -1,0 +1,16 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+C81,Lymphome de Hodgkin,2 678,1 770,"10,21",908,0,0
+C82,Lymphome folliculaire,2 368,1 314,"7,59",1 054,0,0
+C83,Lymphome non folliculaire,11 195,8 967,"14,54",2 228,1 à 10,0
+C84,Lymphomes à cellules T/NK matures,1 546,1 140,"15,57",406,0,0
+C85,"Lymphome non hodgkinien, de types autres et non précisés",2 336,1 712,"12,02",624,0,0
+C86,Autres types précisés de lymphomes à cellules T/NK,584,501,"16,90",83,0,0
+C88,Maladies immunoprolifératives malignes,1 605,955,"10,15",650,0,0
+C90,Myélome multiple et tumeurs malignes à plasmocytes,7 867,6 427,"14,56",1 440,0,0
+C91,Leucémie lymphoïde,4 221,3 367,"19,86",854,0,0
+C92,Leucémie myéloïde,7 362,6 561,"22,12",801,1 à 10,0
+C93,Leucémie monocytaire,708,583,"22,30",125,0,0
+C94,Autres leucémies à cellules précisées,263,204,"18,96",59,0,0
+C95,Leucémie à cellules non précisées,446,344,"8,38",102,0,0
+C96,"Tumeurs malignes des tissus lymphoïde, hématopoïétique et apparentés, autres et non précisées",389,260,"9,00",129,0,0
+"",Total,43 568,34 105,"",9 463,"",0

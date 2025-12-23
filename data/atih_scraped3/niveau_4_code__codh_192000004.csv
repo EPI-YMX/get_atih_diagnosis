@@ -1,0 +1,9 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+T830,Complication mécanique d'une sonde urinaire (à demeure),2 166,1 575,"3,43",591,0,0
+T831,Complication mécanique d'autres prothèses et implants urinaires,1 359,1 045,"3,46",314,1 à 10,0
+T832,Complication mécanique d'une greffe d'organe urinaire,63,56,"8,75",1 à 10,0,0
+T833,Complication mécanique d'un dispositif intra-utérin contraceptif,1 289,727,"0,20",562,60,0
+T834,"Complication mécanique d'autres prothèses, implants et greffes de l'appareil génital",268,157,"2,69",111,1 à 10,0
+T835,"Infection et réaction inflammatoire dues à une prothèse, un implant et une greffe de l'appareil urinaire",1 490,1 241,"9,64",249,136,0
+T836,"Infection et réaction inflammatoire dues à une prothèse, un implant et une greffe de l'appareil génital",96,76,"5,37",20,1 à 10,0
+"",Total,6 731,4 877,"",1 854,"",0

@@ -1,0 +1,10 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+T820,Complication mécanique d'une prothèse valvulaire cardiaque,967,825,"10,38",142,40,0
+T821,Complication mécanique d'un appareil cardiaque électronique,2 188,1 674,"4,19",514,277,0
+T822,Complication mécanique d'un pontage coronarien et d'une greffe valvulaire cardiaque,34,22,"7,77",12,1 à 10,0
+T823,Complication mécanique d'autres greffes vasculaires,252,176,"6,40",76,25,0
+T824,Complication mécanique d'un cathéter vasculaire de dialyse,802,421,"3,55",381,61,0
+T825,Complication mécanique d'autres prothèses et implants cardiaques et vasculaires,1 950,881,"4,79",1 069,172,0
+T826,Infection et réaction inflammatoire dues à une prothèse valvulaire cardiaque,65,58,"14,41",1 à 10,1 à 10,0
+T827,"Infection et réaction inflammatoire dues à d'autres prothèses, implants et greffes cardiaques et vasculaires",6 084,5 347,"11,84",737,238,0
+"",Total,12 342,9 404,"",2 938,"",0

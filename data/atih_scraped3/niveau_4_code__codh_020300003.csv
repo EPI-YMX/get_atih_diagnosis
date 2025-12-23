@@ -1,0 +1,20 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+D120,Tumeur bénigne du caecum,12 592,11 872,"0,39",720,109,0
+D121,Tumeur bénigne de l'appendice,206,193,"1,53",13,1 à 10,0
+D122,Tumeur bénigne du côlon ascendant,22 110,21 058,"0,30",1 052,113,0
+D123,Tumeur bénigne du côlon transverse,12 776,12 112,"0,29",664,73,0
+D124,Tumeur bénigne du côlon descendant,8 757,8 294,"0,26",463,51,0
+D125,Tumeur bénigne du côlon sigmoïde,13 581,12 746,"0,30",835,75,0
+D126,"Tumeur bénigne du côlon, sans précision",10 025,9 065,"0,46",960,141,0
+D126+0,Polypose (colique) familiale adénomateuse,483,368,"1,86",115,27,0
+D126+1,Polypose (colique) liée au gène APC,241,195,"0,75",46,1 à 10,0
+D126+2,Polypose (colique) liée au gène MYH,21,16,"0,06",1 à 10,1 à 10,0
+D126+3,Polypose (colique) festonnée,3 007,2 848,"0,19",159,1 à 10,0
+D126+4,Polypose (colique) juvénile,74,61,"0,66",13,1 à 10,0
+D126+5,Polypose (colique) au cours du syndrome de Peutz-Jeghers,85,74,"1,53",11,1 à 10,0
+D126+6,Polypose (colique) au cours de la maladie de Cowden,15,11,"4,73",1 à 10,1 à 10,0
+D126+8,"Tumeurs bénignes du côlon, autres et non précisées",7 434,6 971,"0,44",463,42,0
+D127,Tumeur bénigne de la jonction recto-sigmoïdienne,1 021,942,"0,61",79,12,0
+D128,Tumeur bénigne du rectum,7 533,6 747,"0,46",786,74,0
+D129,Tumeur bénigne de l'anus et du canal anal,716,386,"0,63",330,1 à 10,0
+"",Total,100 677,93 959,"",6 718,"",0

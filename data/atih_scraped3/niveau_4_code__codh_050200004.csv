@@ -1,0 +1,18 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+F130,Troubles mentaux et du comportement liés à l'utilisation de sédatifs ou d'hypnotiques : intoxication aiguë,355,355,"1,04",0,0,0
+F1300,"Troubles mentaux et du comportement dus à une intoxication aigüe par sédatifs ou hypnotiques, sans complication",65,65,"1,23",0,0,0
+F1302,"Troubles mentaux et du comportement dus à une intoxication aigüe par sédatifs ou hypnotiques, avec d'autres complications médicales",43,43,"1,40",0,0,0
+F1305,"Troubles mentaux et du comportement dus à une intoxication aigüe par sédatifs ou hypnotiques, avec coma",50,50,"3,52",0,0,0
+F131,Troubles mentaux et du comportement liés à l'utilisation de sédatifs ou d'hypnotiques : utilisation nocive pour la santé,17,17,"2,47",0,0,0
+F132,Troubles mentaux et du comportement liés à l'utilisation de sédatifs ou d'hypnotiques : syndrome de dépendance,95,59,"17,90",36,20,0
+F13202,"Syndrome de dépendance aux sédatifs ou hypnotiques, personne actuellement abstinente en rémission complète",294,0,"",294,0,0
+F1321,"Syndrome de dépendance aux sédatifs ou hypnotiques, personne actuellement abstinente mais dans un environnement protégé",22,1 à 10,NA,16,1 à 10,0
+F1322,"Syndrome de dépendance aux sédatifs ou hypnotiques, personne suivant actuellement un régime de maintenance ou de substitution sous surveillance médicale",11,1 à 10,NA,1 à 10,0,0
+F1324,"Syndrome de dépendance aux sédatifs ou hypnotiques, utilisation actuelle",37,1 à 10,NA,28,1 à 10,0
+F13241,"Syndrome de dépendance aux sédatifs ou hypnotiques, utilisation actuelle, avec symptômes physiques",59,18,"11,00",41,0,0
+F1325,"Syndrome de dépendance aux sédatifs ou hypnotiques, utilisation continue",17,1 à 10,NA,1 à 10,1 à 10,0
+F133,Troubles mentaux et du comportement liés à l'utilisation de sédatifs ou d'hypnotiques : syndrome de sevrage,75,44,"12,70",31,23,0
+F1330,"Syndrome de sevrage des sédatifs ou hypnotiques, sans complication",114,58,"8,38",56,42,0
+F1331,"Syndrome de sevrage des sédatifs ou hypnotiques, avec convulsions",113,72,"7,25",41,29,0
+F1340,"Syndrome de sevrage des sédatifs ou hypnotiques avec délirium, sans convulsion",35,27,"12,85",1 à 10,1 à 10,0
+"",Total,1 493,890,"",603,"",0

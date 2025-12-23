@@ -1,0 +1,22 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+S5200,Fracture fermée de la partie supérieure du cubitus,5 689,4 054,"4,08",1 635,454,0
+S5201,Fracture ouverte de la partie supérieure du cubitus,528,448,"6,13",80,31,0
+S5210,Fracture fermée de l'extrémité supérieure du radius,3 551,2 135,"3,11",1 416,435,0
+S5211,Fracture ouverte de l'extrémité supérieure du radius,90,62,"8,18",28,1 à 10,0
+S5220,Fracture fermée de la diaphyse du cubitus,889,556,"3,07",333,52,0
+S5221,Fracture ouverte de la diaphyse du cubitus,117,104,"4,43",13,1 à 10,0
+S5230,Fracture fermée de la diaphyse du radius,1 948,1 405,"2,38",543,75,0
+S5231,Fracture ouverte de la diaphyse du radius,77,70,"6,67",1 à 10,0,0
+S5240,"Fracture fermée des deux diaphyses, cubitale et radiale",4 204,3 454,"1,65",750,35,0
+S5241,"Fracture ouverte des deux diaphyses, cubitale et radiale",521,494,"4,97",27,1 à 10,0
+S5250,Fracture fermée de l'extrémité inférieure du radius,35 397,19 421,"2,75",15 976,1 608,0
+S5251,Fracture ouverte de l'extrémité inférieure du radius,753,600,"4,09",153,22,0
+S5260,Fracture fermée de l'extrémité inférieure du cubitus et du radius,6 843,4 752,"2,30",2 091,322,0
+S5261,Fracture ouverte de l'extrémité inférieure du cubitus et du radius,579,474,"4,30",105,12,0
+S5270,Fractures fermées multiples de l'avant-bras,979,764,"2,33",215,43,0
+S5271,Fractures ouvertes multiples de l'avant-bras,112,100,"6,35",12,1 à 10,0
+S5280,Fracture fermée d'autres parties de l'avant-bras,529,336,"2,91",193,42,0
+S5281,Fracture ouverte d'autres parties de l'avant-bras,60,53,"4,70",1 à 10,0,0
+S5290,"Fracture fermée de l'avant-bras, partie non précisée",718,476,"1,34",242,68,0
+S5291,"Fracture ouverte de l'avant-bras, partie non précisée",39,25,"5,40",14,1 à 10,0
+"",Total,63 623,39 783,"",23 840,"",0

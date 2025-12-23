@@ -1,0 +1,20 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+I2100,"Infarctus (transmural aigu) du myocarde (de la paroi) antérieure, prise en charge initiale",6 738,5 596,"6,90",1 142,255,0
+I21000,"Infarctus (transmural aigu) du myocarde (de la paroi antérieure), prise en charge initiale, infarctus de 24 heures ou moins",8 997,8 048,"6,33",949,230,0
+I2108,"Infarctus (transmural aigu) du myocarde (de la paroi) antérieure, autres prises en charge",3 044,2 441,"7,05",603,73,0
+I2110,"Infarctus (transmural aigu) du myocarde (de la paroi inférieure), prise en charge initiale",5 316,4 531,"5,93",785,160,0
+I21100,"Infarctus (transmural aigu) du myocarde de la paroi inférieure, prise en charge initiale, infarctus de 24 heures ou moins",8 549,7 782,"5,48",767,157,0
+I2118,"Infarctus (transmural aigu) du myocarde (de la paroi) inférieure, autres prises en charge",2 437,1 857,"6,46",580,98,0
+I2120,"Infarctus (transmural aigu) du myocarde d'autres localisations, prise en charge initiale",1 377,1 066,"5,52",311,75,0
+I21200,"Infarctus (transmural aigu) du myocarde d'autres localisations, prise en charge initiale, infarctus de 24 heures ou moins",1 866,1 641,"5,46",225,62,0
+I2128,"Infarctus (transmural aigu) du myocarde d'autres localisations, autres prises en charge",817,595,"6,13",222,36,0
+I2130,"Infarctus (transmural aigu) du myocarde de localisation non précisée, prise en charge initiale",640,352,"5,95",288,90,0
+I21300,"Infarctus (transmural aigu) du myocarde de localisation non précisée, prise en charge initiale, infarctus de 24 heures ou moins",452,301,"6,08",151,49,0
+I2138,"Infarctus (transmural aigu) du myocarde de localisation non précisée, autres prises en charge",426,271,"6,69",155,1 à 10,0
+I2140,"Infarctus sous-endocardique (aigu du myocarde), prise en charge initiale",15 768,12 662,"5,92",3 106,1 393,0
+I21400,"Infarctus sous-endocardique (aigu du myocarde), prise en charge initiale, infarctus de 24 heures ou moins",20 296,17 033,"5,27",3 263,1 444,0
+I2148,"Infarctus sous-endocardique (aigu du myocarde), autres prises en charge",8 489,6 740,"6,05",1 749,171,0
+I2190,"Infarctus (aigu) du myocarde sans précision, prise en charge initiale",1 193,685,"5,91",508,138,0
+I21900,"Infarctus (aigu) du myocarde sans précision, prise en charge initiale, infarctus de 24 heures ou moins",1 038,659,"5,32",379,115,0
+I2198,"Infarctus (aigu) du myocarde sans précision, autres prises en charge",870,521,"5,55",349,1 à 10,0
+"",Total,88 313,72 781,"",15 532,"",0

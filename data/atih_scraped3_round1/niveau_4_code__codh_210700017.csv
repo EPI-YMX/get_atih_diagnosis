@@ -1,0 +1,7 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+Z960,Présence d'implants urogénitaux,24,1 à 10,NA,18,1 à 10,0
+Z962,Présence d'implants otologiques et audiologiques,260,0,"",260,0,0
+Z964,Présence d'implants endocriniens,307,21,"3,19",286,0,0
+Z966,Présence d'implants d'articulations orthopédiques,28,25,"14,88",1 à 10,0,0
+Z968,Présence d'autres implants fonctionnels précisés,28,1 à 10,NA,21,1 à 10,0
+"",Total,665,64,"",601,"",0

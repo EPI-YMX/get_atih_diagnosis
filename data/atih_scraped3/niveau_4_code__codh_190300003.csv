@@ -1,0 +1,11 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+S2200,Fracture fermée d'une vertèbre dorsale,11 674,11 293,"6,91",381,0,0
+S2201,Fracture ouverte d'une vertèbre dorsale,30,28,"5,64",1 à 10,0,0
+S2210,Fractures fermées multiples du rachis dorsal,2 927,2 883,"8,30",44,0,0
+S2220,Fracture fermée du sternum,1 259,481,"9,06",778,619,0
+S2230,Fracture fermée de côte,3 224,1 072,"9,83",2 152,1 404,0
+S2240,Fractures fermées multiples de côtes,8 478,4 769,"10,00",3 709,3 169,0
+S2241,Fractures ouvertes multiples de côtes,20,12,"7,00",1 à 10,1 à 10,0
+S2250,"Volet costal, avec fracture fermée",1 304,1 030,"11,52",274,237,0
+S2280,Fractures fermées d'autres parties des os du thorax,52,21,"11,00",31,20,0
+"",Total,28 976,21 593,"",7 383,"",0

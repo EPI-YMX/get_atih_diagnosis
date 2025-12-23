@@ -1,0 +1,9 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+T280,Brûlure de la bouche et du pharynx,61,14,"4,71",47,28,0
+T281,Brûlure de l'oesophage,59,39,"13,10",20,15,0
+T282,Brûlure d'autres parties des voies digestives,13,1 à 10,NA,1 à 10,1 à 10,0
+T283,Brûlure des organes génito-urinaires internes,13,1 à 10,NA,1 à 10,1 à 10,0
+T285,Corrosion de la bouche et du pharynx,29,16,"9,44",13,1 à 10,0
+T286,Corrosion de l'oesophage,194,145,"13,30",49,33,0
+T287,Corrosion d'autres parties des voies digestives,40,29,"13,79",11,1 à 10,0
+"",Total,411,259,"",152,"",0

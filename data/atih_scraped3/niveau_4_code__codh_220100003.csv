@@ -1,0 +1,7 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+U0710,"COVID-19, forme respiratoire, virus identifié",41 231,33 370,"10,65",7 861,5 444,0
+U0711,"COVID-19, forme respiratoire, virus non identifié",1 027,745,"9,49",282,180,0
+U0712,"Porteur de SARS-CoV-2, asymptomatique",874,541,"8,45",333,229,0
+U0714,"COVID-19, autres formes cliniques, virus identifié",14 624,11 061,"7,90",3 563,2 523,0
+U0715,"COVID-19, autres formes cliniques, virus non identifié",437,305,"6,83",132,102,0
+"",Total,58 193,46 022,"",12 171,"",0

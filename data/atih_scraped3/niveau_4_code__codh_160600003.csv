@@ -1,0 +1,8 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+P520,"Hémorragie intraventriculaire (non traumatique), degré 1, du foetus et du nouveau-né",11,11,"8,18",0,0,0
+P521,"Hémorragie intraventriculaire (non traumatique), degré 2, du foetus et du nouveau-né",12,12,"10,25",0,0,0
+P522,"Hémorragie intraventriculaire (non traumatique), du foetus et du nouveau-né, degré 3 et 4",52,52,"17,65",0,0,0
+P523,"Hémorragie intraventriculaire (non traumatique) du foetus et du nouveau-né, sans précision",17,17,"14,88",0,0,0
+P524,Hémorragie intracérébrale (non traumatique) du foetus et du nouveau-né,23,21,"10,33",1 à 10,0,0
+P528,Autres hémorragies intracrâniennes (non traumatiques) du foetus et du nouveau-né,21,21,"7,90",0,0,0
+"",Total,156,154,"",1 à 10,"",0

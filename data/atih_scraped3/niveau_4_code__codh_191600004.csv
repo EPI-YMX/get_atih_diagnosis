@@ -1,0 +1,8 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+T390,Intoxication par salicylés,145,41,"4,76",104,84,0
+T391,Intoxication par dérivés du 4-aminophénol,15 192,7 379,"5,31",7 813,5 787,0
+T392,Intoxication par dérivés pyrazolés,22,1 à 10,NA,12,1 à 10,0
+T393,Intoxication par autres anti-inflammatoires non stéroïdiens [AINS],1 789,645,"4,94",1 144,814,0
+T398,"Intoxication par autres analgésiques non opioïdes et antipyrétiques, non classés ailleurs",894,300,"5,61",594,402,0
+T399,"Intoxication par analgésique non opioïde, antipyrétique et antirhumatismal, sans précision",460,78,"4,21",382,269,0
+"",Total,18 508,8 454,"",10 054,"",0

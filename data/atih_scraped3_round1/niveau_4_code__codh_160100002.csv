@@ -1,0 +1,9 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+P010,Foetus et nouveau-né affectés par la béance du col,30,30,"3,33",0,0,0
+P011,Foetus et nouveau-né affectés par la rupture prématurée des membranes,1 714,1 714,"4,22",0,0,0
+P012,Foetus et nouveau-né affectés par un oligoamnios,88,88,"3,98",0,0,0
+P013,Foetus et nouveau-né affectés par un hydramnios,38,37,"7,57",1 à 10,0,0
+P015,Foetus et nouveau-né affectés par une grossesse multiple,335,331,"9,41",1 à 10,0,0
+P017,Foetus et nouveau-né affectés par une présentation anormale avant le travail,159,159,"4,55",0,0,0
+P018,Foetus et nouveau-né affectés par d'autres complications de la grossesse chez la mère,16,15,"7,33",1 à 10,0,0
+"",Total,2 380,2 374,"",1 à 10,"",0

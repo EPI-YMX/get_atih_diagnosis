@@ -1,0 +1,10 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+B000,Eczéma herpétique,110,99,"5,48",11,1 à 10,0
+B001,Dermite vésiculaire due au virus de l'herpès,137,106,"4,73",31,0,0
+B002,Gingivo-stomatite et pharyngo-amygdalite due au virus de l'herpès,1 359,1 242,"3,38",117,0,0
+B003,Méningite due au virus de l'herpès (G02.0*),175,149,"9,54",26,17,0
+B004,Encéphalite due au virus de l'herpès (G05.1*),247,238,"18,70",1 à 10,0,0
+B005,Affections oculaires dues au virus de l'herpès,72,58,"5,76",14,0,0
+B008,Autres formes d'infection due au virus de l'herpès,80,69,"8,30",11,1 à 10,0
+B009,"Infection due au virus de l'herpès, sans précision",29,25,"5,32",1 à 10,1 à 10,0
+"",Total,2 216,1 992,"",224,"",0

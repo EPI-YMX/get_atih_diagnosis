@@ -1,0 +1,10 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+T450,Intoxication par médicaments antiallergiques et antiémétiques,378,118,"5,96",260,191,0
+T451,Intoxication par médicaments antitumoraux et immunosuppresseurs,303,205,"9,15",98,51,0
+T452,"Intoxication par vitamines, non classées ailleurs",33,18,"7,78",15,1 à 10,0
+T454,Intoxication par fer et ses composés,50,21,"4,81",29,18,0
+T455,Intoxication par anticoagulants,595,297,"8,03",298,252,0
+T456,Intoxication par médicaments agissant sur la fibrinolyse,12,1 à 10,NA,1 à 10,1 à 10,0
+T457,"Intoxication par antagonistes des anticoagulants, vitamine K et autres coagulants",110,47,"8,06",63,51,0
+T458,Intoxication par autres substances essentiellement systémiques et hématologiques,21,1 à 10,NA,17,14,0
+"",Total,1 510,714,"",796,"",0

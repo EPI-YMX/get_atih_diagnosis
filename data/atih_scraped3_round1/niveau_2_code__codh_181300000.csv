@@ -1,0 +1,6 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+R95,Syndrome de la mort subite du nourrisson,97,93,"0,71",1 à 10,1 à 10,0
+R96,Autre mort subite de cause inconnue,159,158,"0,51",1 à 10,0,0
+R98,Décès sans témoin,25,1 à 10,NA,24,1 à 10,0
+R99,Autres causes de mortalité mal définies et non précisées,80,1 à 10,NA,76,23,0
+"",Total,361,256,"",105,"",0

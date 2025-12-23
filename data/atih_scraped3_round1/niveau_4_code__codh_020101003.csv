@@ -1,0 +1,9 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+C020,Tumeur maligne de la face dorsale de la langue,101,77,"8,91",24,0,0
+C021,Tumeur maligne de la point et du bord latéral de la langue,1 191,878,"8,14",313,0,0
+C022,Tumeur maligne de la face antérieure de la langue,204,161,"9,39",43,0,0
+C023,"Tumeur maligne des deux tiers antérieurs de la langue, sans précision",192,148,"10,84",44,0,0
+C024,Tumeur maligne d'une amygdale linguale,47,28,"6,43",19,0,0
+C028,Tumeur maligne à localisations contiguës de la langue,269,185,"11,85",84,0,0
+C029,"Tumeur maligne de la langue, sans précision",648,466,"9,28",182,0,0
+"",Total,2 652,1 943,"",709,"",0

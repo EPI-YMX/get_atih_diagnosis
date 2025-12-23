@@ -1,0 +1,10 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+F20,Schizophrénie,7 598,2 123,"5,44",5 475,2 976,0
+F21,Trouble schizotypique,85,26,"5,54",59,32,0
+F22,Troubles délirants persistants,7 805,2 777,"9,35",5 028,2 802,0
+F23,Troubles psychotiques aigus et transitoires,4 109,1 314,"5,92",2 795,1 601,0
+F24,Trouble délirant induit,33,13,"6,15",20,18,0
+F25,Troubles schizo-affectifs,1 025,409,"5,18",616,389,0
+F28,Autres troubles psychotiques non organiques,684,311,"9,75",373,239,0
+F29,"Psychose non organique, sans précision",2 245,590,"6,04",1 655,954,0
+"",Total,23 584,7 563,"",16 021,"",0

@@ -1,0 +1,12 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+Z350,Surveillance d'une grossesse avec antécédent de stérilité,108,71,"2,93",37,0,0
+Z351,Surveillance d'une grossesse avec antécédent d'avortement,203,91,"2,92",112,0,0
+Z352,Surveillance d'une grossesse avec d'autres antécédents obstétricaux pathologiques et difficultés à procréer,638,264,"3,50",374,1 à 10,0
+Z353,Surveillance d'une grossesse avec antécédent de soins prénatals insuffisants,192,60,"3,88",132,1 à 10,0
+Z354,Surveillance d'une grossesse avec multiparité élevée,156,114,"2,88",42,0,0
+Z355,Surveillance d'une primipare âgée,194,155,"2,99",39,0,0
+Z356,Surveillance d'une primipare très jeune,56,29,"3,14",27,0,0
+Z357,Surveillance d'une grossesse à haut risque du fait de problèmes sociaux,523,181,"3,92",342,0,0
+Z358,Surveillance d'autres grossesses à haut risque,26 953,5 002,"2,40",21 951,13,0
+Z359,"Surveillance de grossesse à haut risque, sans précision",1 043,235,"2,40",808,0,0
+"",Total,30 066,6 202,"",23 864,"",0

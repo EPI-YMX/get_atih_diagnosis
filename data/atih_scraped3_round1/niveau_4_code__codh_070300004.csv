@@ -1,0 +1,12 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+H180,Pigmentation et dépôts cornéens,16,0,"",16,0,0
+H181,Kératopathie bulleuse,315,275,"2,07",40,0,0
+H182,Autre oedème de la cornée,305,180,"1,97",125,0,0
+H183,Lésions des membranes cornéennes,89,27,"1,33",62,0,0
+H184,Dégénérescence de la cornée,910,509,"1,50",401,0,0
+H185,Dystrophies cornéennes héréditaires,1 619,1 190,"1,59",429,0,0
+H186,Kératocône,1 646,255,"1,44",1 391,0,0
+H187,Autres déformations de la cornée,61,22,"1,91",39,0,0
+H188,Autres affections précisées de la cornée,462,188,"1,52",274,0,0
+H189,"Affection de la cornée, sans précision",140,87,"1,66",53,0,0
+"",Total,5 563,2 733,"",2 830,"",0

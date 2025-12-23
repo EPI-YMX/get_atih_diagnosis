@@ -1,0 +1,12 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+Z991,Dépendance envers un respirateur,31,13,"13,54",18,0,0
+Z991+0,Dépendance envers un respirateur : ventilation par trachéostomie,381,278,"36,65",103,0,0
+Z991+1,Dépendance envers un respirateur : ventilation par masque nasal,349,63,"6,33",286,0,0
+Z991+8,Dépendance envers un respirateur : ventilation par un autre moyen,27,20,"9,85",1 à 10,0,0
+Z992,Dépendance envers une dialyse rénale,32,17,"9,00",15,0,0
+Z992+0,Dépendance envers une hémodialyse (rénale),17,11,"1,73",1 à 10,0,0
+Z992+1,Dépendance envers une dialyse péritonéale,171,12,"19,08",159,1 à 10,0
+Z993,Dépendance envers un fauteuil roulant,273,1 à 10,NA,271,0,0
+Z994,Dépendance envers un coeur artificiel,725,37,"2,95",688,0,0
+Z998,Dépendance envers d'autres machines et appareils auxiliaires,99,18,"4,50",81,1 à 10,0
+"",Total,2 113,473,"",1 640,"",0

@@ -1,0 +1,9 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+Q790,Hernie diaphragmatique congénitale,222,173,"25,80",49,1 à 10,0
+Q791,Autres malformations congénitales du diaphragme,16,12,"6,33",1 à 10,0,0
+Q792,Exomphale,107,104,"21,65",1 à 10,1 à 10,0
+Q793,Gastroschisis,69,67,"52,57",1 à 10,0,0
+Q795,Autres malformations congénitales de la paroi abdominale,15,1 à 10,NA,1 à 10,1 à 10,0
+Q796,Syndrome d'Ehlers-Danlos,166,30,"9,87",136,1 à 10,0
+Q798,Autres malformations congénitales du système ostéo-articulaire et des muscles,67,33,"2,30",34,1 à 10,0
+"",Total,665,429,"",236,"",0

@@ -1,0 +1,67 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+M790,"Rhumatisme, sans précision",113,35,"4,91",78,1 à 10,0
+M7900,"Rhumatisme, sans précision - Sièges multiples",465,312,"5,42",153,14,0
+M7901,"Rhumatisme, sans précision - Région scapulaire",13,1 à 10,NA,1 à 10,1 à 10,0
+M7904,"Rhumatisme, sans précision - Main",17,1 à 10,NA,13,1 à 10,0
+M7905,"Rhumatisme, sans précision - Région pelvienne et cuisse",31,17,"6,47",14,1 à 10,0
+M7906,"Rhumatisme, sans précision - Jambe",26,12,"8,25",14,1 à 10,0
+M7907,"Rhumatisme, sans précision - Cheville et pied",16,1 à 10,NA,1 à 10,1 à 10,0
+M7908,"Rhumatisme, sans précision - Autres localisations",34,19,"7,89",15,1 à 10,0
+M7909,"Rhumatisme, sans précision - Siège non précisé",37,13,"7,38",24,1 à 10,0
+M791,Myalgie,279,145,"2,62",134,0,0
+M7910,Myalgie - Sièges multiples,538,359,"3,76",179,0,0
+M7911,Myalgie - Région scapulaire,53,22,"1,82",31,0,0
+M7912,Myalgie - Bras,35,18,"2,39",17,0,0
+M7915,Myalgie - Région pelvienne et cuisse,94,62,"4,68",32,0,0
+M7916,Myalgie - Jambe,209,135,"2,53",74,0,0
+M7917,Myalgie - Cheville et pied,16,1 à 10,NA,1 à 10,0,0
+M7918,Myalgie - Autres localisations,169,82,"1,96",87,0,0
+M7919,Myalgie - Siège non précisé,79,32,"2,13",47,0,0
+M792,"Névralgie et névrite, sans précision",110,15,"5,87",95,43,0
+M7920,"Névralgie et névrite, sans précision - Sièges multiples",61,28,"9,25",33,11,0
+M7921,"Névralgie et névrite, sans précision - Région scapulaire",86,1 à 10,NA,76,22,0
+M7922,"Névralgie et névrite, sans précision - Bras",140,40,"4,70",100,31,0
+M7925,"Névralgie et névrite, sans précision - Région pelvienne et cuisse",304,141,"8,13",163,57,0
+M7926,"Névralgie et névrite, sans précision - Jambe",107,51,"8,86",56,24,0
+M7928,"Névralgie et névrite, sans précision - Autres localisations",314,113,"7,35",201,61,0
+M7929,"Névralgie et névrite, sans précision - Siège non précisé",135,1 à 10,NA,128,48,0
+M793,"Panniculite, sans précision",56,22,"6,95",34,14,0
+M7930,"Panniculite, sans précision - Sièges multiples",18,13,"12,92",1 à 10,1 à 10,0
+M7935,"Panniculite, sans précision - Région pelvienne et cuisse",20,1 à 10,NA,11,1 à 10,0
+M7936,"Panniculite, sans précision - Jambe",31,22,"10,59",1 à 10,1 à 10,0
+M7938,"Panniculite, sans précision - Autres localisations",169,67,"5,24",102,41,0
+M795,Corps étranger résiduel dans un tissu mou,197,49,"1,76",148,0,0
+M7950,Corps étranger résiduel dans un tissu mou - Sièges multiples,15,1 à 10,NA,1 à 10,0,0
+M7951,Corps étranger résiduel dans un tissu mou - Région scapulaire,23,1 à 10,NA,15,0,0
+M7952,Corps étranger résiduel dans un tissu mou - Bras,273,34,"3,29",239,0,0
+M7953,Corps étranger résiduel dans un tissu mou - Avant-bras,277,54,"1,52",223,0,0
+M7954,Corps étranger résiduel dans un tissu mou - Main,1 674,163,"1,71",1 511,0,0
+M7955,Corps étranger résiduel dans un tissu mou - Région pelvienne et cuisse,161,71,"2,27",90,0,0
+M7956,Corps étranger résiduel dans un tissu mou - Jambe,461,158,"1,87",303,0,0
+M7957,Corps étranger résiduel dans un tissu mou - Cheville et pied,868,217,"1,76",651,0,0
+M7958,Corps étranger résiduel dans un tissu mou - Autres localisations,307,123,"2,64",184,0,0
+M7959,Corps étranger résiduel dans un tissu mou - Siège non précisé,31,1 à 10,NA,22,0,0
+M796,Douleur au niveau d'un membre,1 048,677,"2,92",371,0,0
+M7960,Douleur au niveau d'un membre - Sièges multiples,299,179,"4,26",120,0,0
+M7961,Douleur au niveau d'un membre - Région scapulaire,595,311,"2,92",284,0,0
+M7962,Douleur au niveau d'un membre - Bras,611,297,"2,23",314,0,0
+M7963,Douleur au niveau d'un membre - Avant-bras,113,53,"1,45",60,0,0
+M7964,Douleur au niveau d'un membre - Main,141,56,"2,07",85,0,0
+M7965,Douleur au niveau d'un membre - Région pelvienne et cuisse,1 421,1 054,"4,71",367,0,0
+M7966,Douleur au niveau d'un membre - Jambe,2 873,1 771,"3,10",1 102,0,0
+M7967,Douleur au niveau d'un membre - Cheville et pied,756,424,"2,72",332,0,0
+M7969,Douleur au niveau d'un membre - Siège non précisé,347,183,"1,95",164,0,0
+M797,Fibromyalgie,901,140,"4,17",761,18,0
+M7970,Fibromyalgie - Sièges multiples,1 739,493,"4,96",1 246,45,0
+M7971,Fibromyalgie - Région scapulaire,22,1 à 10,NA,13,1 à 10,0
+M7975,Fibromyalgie - Région pelvienne et cuisse,14,1 à 10,NA,1 à 10,1 à 10,0
+M7976,Fibromyalgie - Jambe,16,1 à 10,NA,11,1 à 10,0
+M7978,Fibromyalgie - Autres localisations,123,43,"4,86",80,1 à 10,0
+M7979,Fibromyalgie - Siège non précisé,419,30,"5,93",389,15,0
+M798,Autres affections précisées des tissus mous,42,27,"4,74",15,0,0
+M7984,Autres affections précisées des tissus mous - Main,30,1 à 10,NA,27,0,0
+M7985,Autres affections précisées des tissus mous - Région pelvienne et cuisse,78,49,"5,18",29,0,0
+M7986,Autres affections précisées des tissus mous - Jambe,45,27,"3,78",18,0,0
+M7987,Autres affections précisées des tissus mous - Cheville et pied,28,1 à 10,NA,19,0,0
+M7988,Autres affections précisées des tissus mous - Autres localisations,67,48,"6,98",19,0,0
+"",Total,19 861,8 639,"",11 222,"",0

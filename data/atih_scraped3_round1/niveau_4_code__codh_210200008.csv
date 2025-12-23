@@ -1,0 +1,7 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+Z271,Nécessité d'une vaccination associée contre diphtérie-tétanos-coqueluche [DTCoq],41,27,"1,96",14,12,0
+Z273,Nécessité d'une vaccination contre diphtérie-tétanos-coqueluche et poliomyélite [DTCoq+polio],449,210,"2,12",239,211,0
+Z274,Nécessité d'une vaccination contre rougeole-oreillons-rubéole [ROR],28,1 à 10,NA,26,1 à 10,0
+Z278,Nécessité d'une vaccination contre d'autres associations de maladies infectieuses,540,300,"2,36",240,218,0
+Z279,"Nécessité d'une vaccination associée contre plusieurs maladies infectieuses, sans précision",56,41,"2,00",15,1 à 10,0
+"",Total,1 124,587,"",537,"",0

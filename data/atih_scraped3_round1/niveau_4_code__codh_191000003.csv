@@ -1,0 +1,18 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+S9200,Fracture fermée du calcanéum,1 826,1 313,"6,67",513,291,0
+S9201,Fracture ouverte du calcanéum,112,105,"16,25",1 à 10,1 à 10,0
+S9210,Fracture fermée de l'astragale,378,285,"4,19",93,50,0
+S9211,Fracture ouverte de l'astragale,49,46,"15,59",1 à 10,0,0
+S9220,Fracture fermée d'autres os du tarse,329,310,"3,48",19,0,0
+S9221,Fracture ouverte d'autres os du tarse,43,41,"6,83",1 à 10,0,0
+S9230,Fracture fermée d'os du métatarse,1 574,1 238,"3,40",336,0,0
+S9231,Fracture ouverte d'os du métatarse,178,156,"5,63",22,0,0
+S9240,Fracture fermée du gros orteil,299,203,"1,89",96,0,0
+S9241,Fracture ouverte du gros orteil,305,255,"2,55",50,0,0
+S9250,Fracture fermée d'un autre orteil,358,260,"2,19",98,0,0
+S9251,Fracture ouverte d'un autre orteil,227,187,"2,48",40,0,0
+S9270,Fractures fermées multiples du pied,438,413,"3,79",25,0,0
+S9271,Fractures ouvertes multiples du pied,107,101,"9,31",1 à 10,0,0
+S9290,"Fracture fermée du pied, sans précision",385,376,"1,47",1 à 10,0,0
+S9291,"Fracture ouverte du pied, sans précision",40,37,"7,03",1 à 10,0,0
+"",Total,6 648,5 326,"",1 322,"",0

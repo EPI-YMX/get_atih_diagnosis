@@ -1,0 +1,10 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+Z830,Antécédents familiaux de maladie due au virus de l'immunodéficience humaine [VIH],19,1 à 10,NA,16,0,0
+Z832,Antécédents familiaux de maladies du sang et des organes hématopoïétiques et de certains troubles du système immunitaire,12,12,"1,33",0,0,0
+Z833,Antécédents familiaux de diabète sucré,26,12,"3,92",14,0,0
+Z834,"Antécédents familiaux d'autres maladies endocriniennes, nutritionnelles et métaboliques",130,15,"3,40",115,1 à 10,0
+Z8350,Antécédents familiaux de maladies des organes de la vue,17,17,"0,12",0,0,0
+Z836,Antécédents familiaux de maladies de l'appareil respiratoire,13,1 à 10,NA,12,0,0
+Z8370,Antécédents familiaux de maladies du tube digestif,2 850,241,"0,45",2 609,0,0
+Z8379,"Antécédents familiaux de maladies de l'appareil digestif, sans précision",341,29,"0,45",312,0,0
+"",Total,3 426,338,"",3 088,"",0

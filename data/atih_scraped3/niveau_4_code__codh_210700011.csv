@@ -1,0 +1,8 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+Z901,Absence acquise de sein(s),29,16,"2,81",13,1 à 10,0
+Z903,Absence acquise de partie d'estomac,89,1 à 10,NA,85,0,0
+Z904,Absence acquise d'autres parties de l'appareil digestif,23,1 à 10,NA,19,0,0
+Z905,Absence acquise de rein,16,1 à 10,NA,12,0,0
+Z907,Absence acquise d'organe(s) génital(aux),20,1 à 10,NA,13,0,0
+Z908,Absence acquise d'autres organes,13,1 à 10,NA,11,0,0
+"",Total,206,46,"",160,"",0

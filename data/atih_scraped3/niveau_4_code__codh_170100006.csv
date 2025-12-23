@@ -1,0 +1,7 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+Q051,"Spina bifida thoracique, avec hydrocéphalie",13,1 à 10,NA,1 à 10,0,0
+Q052,"Spina bifida lombaire, avec hydrocéphalie",28,21,"11,62",1 à 10,1 à 10,0
+Q057,"Spina bifida lombaire, (sans hydrocéphalie)",64,35,"8,57",29,1 à 10,0
+Q058,"Spina bifida sacré, (sans hydrocéphalie)",28,21,"14,14",1 à 10,0,0
+Q059,"Spina bifida, sans précision",62,32,"7,56",30,1 à 10,0
+"",Total,214,130,"",84,"",0

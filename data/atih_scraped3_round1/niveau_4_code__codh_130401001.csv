@@ -1,0 +1,31 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+M600,Myosite infectieuse,181,161,"9,23",20,0,0
+M6000,Myosite infectieuse - Sièges multiples,35,33,"13,91",1 à 10,0,0
+M6001,Myosite infectieuse - Région scapulaire,27,25,"7,44",1 à 10,0,0
+M6002,Myosite infectieuse - Bras,20,17,"9,35",1 à 10,0,0
+M6003,Myosite infectieuse - Avant-bras,11,1 à 10,NA,1 à 10,0,0
+M6004,Myosite infectieuse - Main,22,1 à 10,NA,12,0,0
+M6005,Myosite infectieuse - Région pelvienne et cuisse,458,438,"14,51",20,0,0
+M6006,Myosite infectieuse - Jambe,203,193,"10,63",1 à 10,0,0
+M6007,Myosite infectieuse - Cheville et pied,23,21,"10,43",1 à 10,0,0
+M6008,Myosite infectieuse - Autres localisations,204,188,"11,52",16,0,0
+M6009,Myosite infectieuse - Siège non précisé,23,18,"3,94",1 à 10,0,0
+M602,"Granulome d'un tissu mou dû à la présence d'un corps étranger, non classé ailleurs",19,1 à 10,NA,11,0,0
+M6024,"Granulome d'un tissu mou dû à la présence d'un corps étranger, non classé ailleurs - Main",114,1 à 10,NA,110,0,0
+M6025,"Granulome d'un tissu mou dû à la présence d'un corps étranger, non classé ailleurs - Région pelvienne et cuisse",42,30,"8,67",12,0,0
+M6026,"Granulome d'un tissu mou dû à la présence d'un corps étranger, non classé ailleurs - Jambe",29,1 à 10,NA,23,0,0
+M6027,"Granulome d'un tissu mou dû à la présence d'un corps étranger, non classé ailleurs - Cheville et pied",50,1 à 10,NA,48,0,0
+M6028,"Granulome d'un tissu mou dû à la présence d'un corps étranger, non classé ailleurs - Autres localisations",52,23,"4,13",29,0,0
+M608,Autres myosites,175,135,"8,77",40,0,0
+M6080,Autres myosites - Sièges multiples,128,119,"9,70",1 à 10,0,0
+M6085,Autres myosites - Région pelvienne et cuisse,48,39,"9,15",1 à 10,0,0
+M6086,Autres myosites - Jambe,81,63,"5,57",18,0,0
+M6088,Autres myosites - Autres localisations,50,40,"7,15",1 à 10,0,0
+M6089,Autres myosites - Siège non précisé,35,31,"7,55",1 à 10,0,0
+M609,"Myosite, sans précision",144,101,"6,71",43,0,0
+M6090,"Myosite, sans précision - Sièges multiples",54,50,"7,40",1 à 10,0,0
+M6095,"Myosite, sans précision - Région pelvienne et cuisse",36,27,"10,07",1 à 10,0,0
+M6096,"Myosite, sans précision - Jambe",75,60,"5,13",15,0,0
+M6098,"Myosite, sans précision - Autres localisations",29,21,"7,48",1 à 10,0,0
+M6099,"Myosite, sans précision - Siège non précisé",30,18,"4,67",12,0,0
+"",Total,2 469,1 933,"",536,"",0

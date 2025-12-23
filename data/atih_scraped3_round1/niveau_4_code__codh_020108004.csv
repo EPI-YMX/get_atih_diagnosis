@@ -1,0 +1,8 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+C540,Tumeur maligne de l'isthme de l'utérus,26,23,"5,17",1 à 10,0,0
+C541,Tumeur maligne de l'endomètre,7 543,6 985,"3,92",558,91,0
+C542,Tumeur maligne du myomètre,95,89,"6,55",1 à 10,1 à 10,0
+C543,Tumeur maligne du fond de l'utérus,77,75,"5,01",1 à 10,1 à 10,0
+C548,Tumeur maligne à localisations contiguës du corps de l'utérus,146,132,"8,72",14,1 à 10,0
+C549,"Tumeur maligne du corps de l'utérus, sans précision",441,382,"6,72",59,12,0
+"",Total,8 328,7 686,"",642,"",0

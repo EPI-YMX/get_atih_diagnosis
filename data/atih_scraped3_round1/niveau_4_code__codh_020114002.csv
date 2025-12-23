@@ -1,0 +1,11 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+C820,"Lymphome folliculaire, grade I",255,143,"7,08",112,0,0
+C821,"Lymphome folliculaire, grade II",908,466,"6,72",442,0,0
+C822,"Lymphome folliculaire, grade III, non précisé",105,75,"9,37",30,0,0
+C823,"Lymphome folliculaire, grade IIIa",168,104,"8,76",64,0,0
+C824,"Lymphome folliculaire, grade IIIb",116,73,"10,74",43,0,0
+C825,Lymphome centrofolliculaire diffus,18,11,"5,64",1 à 10,0,0
+C826,Lymphome centrofolliculaire cutané,32,1 à 10,NA,25,0,0
+C827,"Autres formes de lymphome, folliculaire",136,95,"8,55",41,0,0
+C829,"Lymphome folliculaire, sans précision",630,340,"7,37",290,0,0
+"",Total,2 368,1 314,"",1 054,"",0
