@@ -1,0 +1,7 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+R070,Douleur de la gorge,304,53,"2,85",251,107,0
+R071,Douleur thoracique respiratoire,1 995,1 994,"0,55",1 à 10,0,0
+R072,Douleur précordiale,6 753,1 591,"2,34",5 162,1 587,0
+R073,Autres douleurs thoraciques,31 151,3 585,"2,99",27 566,9 161,0
+R074,"Douleur thoracique, sans précision",71 088,6 259,"2,70",64 829,21 696,0
+"",Total,111 291,13 482,"",97 809,"",0

@@ -1,0 +1,7 @@
+Code,Libellé,Nb total de séjours/séances,Nb de séjourshors GHM en J ou T et séances,DMS (en nuitée)hors GHM en J ou Tet séances,Nb de séjoursGHM en J ou T hors séances,Nb de nuitéesen GHM J ou T,Nb de séances
+R090,Asphyxie,397,396,"3,65",1 à 10,0,0
+R091,Inflammation de la plèvre,259,150,"6,61",109,45,0
+R092,Arrêt respiratoire,874,850,"1,87",24,0,0
+R093,Expectoration anormale,60,53,"1,34",1 à 10,0,0
+R098,Autres symptômes et signes précisés relatifs aux appareils circulatoire et respiratoire,91,20,"3,15",71,29,0
+"",Total,1 681,1 469,"",212,"",0
